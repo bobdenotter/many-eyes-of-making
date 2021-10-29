@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "bacc15b7a86e5346",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7605bfcc325075",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Party.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dabdeb2a3166a6e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Previous sessions.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cc8b5a1e3850ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ef338caa9140b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24e89f5c3fb643f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a1949dfa4440bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3050874767928884",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a1334c99e8b55e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d088bd3c973b95e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Party.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b7605bfcc325075",
+  "lastOpenFiles": [
+    "The Party.md",
+    "Previous sessions.md",
+    "NPC's and other characters.md",
+    "Session recap/Session 01.md",
+    "Session recap/Session 00.md",
+    "Players and NPC's/Rydia (Damned).md",
+    "Players and NPC's/Galen D’Arcy.md",
+    "Players and NPC's/Fianin.md",
+    "Players and NPC's/D4.md",
+    "Players and NPC's/Beck.md"
+  ]
+}
