@@ -5,14 +5,14 @@ Link: [DDB](https://www.dndbeyond.com/campaigns/1000260)
 ```dataview
 table race, class, player, link
 from #player and -#previous
-sort file.name ASC 
+sort file.name ASC
 ```
 
---- 
+---
 
 ## The dearly departed
 ```dataview
 table race, class, player, link
 from #player and #previous
-sort file.name ASC 
+sort file.name ASC
 ```

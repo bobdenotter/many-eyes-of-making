@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Party.md",
+            "file": "Locations and Items/Karrnath.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Party.md",
+                "file": "Previous sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b7605bfcc325075",
+  "active": "dabdeb2a3166a6e5",
   "lastOpenFiles": [
-    "The Party.md",
     "Previous sessions.md",
+    "Locations and Items/Karrnath.md",
+    "Locations and Items/Heritage.md",
+    "Session recap/Session 00.md",
+    "The Party.md",
     "NPC's and other characters.md",
     "Session recap/Session 01.md",
-    "Session recap/Session 00.md",
     "Players and NPC's/Rydia (Damned).md",
     "Players and NPC's/Galen D’Arcy.md",
-    "Players and NPC's/Fianin.md",
-    "Players and NPC's/D4.md",
-    "Players and NPC's/Beck.md"
+    "Players and NPC's/Fianin.md"
   ]
 }
