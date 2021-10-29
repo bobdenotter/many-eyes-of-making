@@ -4,5 +4,5 @@
 ```dataview
 table date, title
 from "Session recap"
-sort file.name ASC
+sort order ASC
 ```

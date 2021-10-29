@@ -9,17 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations and Items/Karrnath.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dabdeb2a3166a6e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Previous sessions.md",
             "mode": "preview"
           }
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dabdeb2a3166a6e5",
+  "active": "4b7605bfcc325075",
   "lastOpenFiles": [
     "Previous sessions.md",
-    "Locations and Items/Karrnath.md",
-    "Locations and Items/Heritage.md",
-    "Session recap/Session 00.md",
-    "The Party.md",
     "NPC's and other characters.md",
-    "Session recap/Session 01.md",
+    "Session recap/Second session.md",
+    "Session recap/First actual session.md",
+    "Session recap/Zeroeth session.md",
+    "Lore/Calendar.md",
+    "The Party.md",
+    "Players and NPC's/Thom.md",
     "Players and NPC's/Rydia (Damned).md",
-    "Players and NPC's/Galen D’Arcy.md",
-    "Players and NPC's/Fianin.md"
+    "Locations and Items/Karrnath.md"
   ]
 }
