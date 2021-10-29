@@ -1,9 +1,8 @@
 ---
 date: April 21st / 22nd 2021
-title: Week of Gathering
 order: 000
 ---
-# Zeroeth session
+# Week of Gathering
 
 ## Petr, D4 and Beck
 

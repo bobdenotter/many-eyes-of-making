@@ -2,7 +2,7 @@
 
 
 ```dataview
-table date, title
+table date, order
 from "Session recap"
 sort order ASC
 ```

@@ -1,10 +1,9 @@
 ---
-title: Dreaming Den
 date: April 28th 2021
 order: 001
 ---
 
-# First actual session
+# Dreaming Den
 
 It’s only when they properly take in their surroundings that Petr, D4, Beck and Fianin realise just how big of a mess they seem to have walked in on. It looks like a gore fest, with blood everywhere. The goblin they met the night before is putting his sword away, the bugbear’s fur seems moist with wet blood and the two humanoids look somewhat scared and confused.
 
