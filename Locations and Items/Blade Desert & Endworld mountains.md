@@ -1,6 +1,6 @@
 # Blade Desert & Endworld mountains
 
-  
+
 
 * **Maerin** - Tent city near an oasis. On the foot of the Endworld mountains, in the blade desert.
 * **Krezent** - Abandoned mountain village. A disaster took place here three years ago. Possibly a manifest zone to the plain of dreams; Dal’Quor.

@@ -1,7 +1,7 @@
 # Korranberg
 
-  
-Notable people: 
+
+Notable people:
 
 - **Ivello d’Lyrrandar**: Shady half-elf looking for the secrets of Elemental binding
 - **Lassius Dorian**: Korran Teacher at Balinors Horn that seems to know Bonzobur

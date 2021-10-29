@@ -1,8 +1,6 @@
-
-
 # Talenta Plains
 
-Locations: 
+Locations:
 
 -  [[Gatherhold]]
 -  [[Blade Desert & Endworld mountains]]

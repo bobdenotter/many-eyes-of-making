@@ -2,7 +2,7 @@
 
 City build, in part, on an island in the seawall river. Contains the biggest library of Khorvaire. The Zil gnomes hate filth and are keeping their city very clean.
 
-  Notable locations
+Notable locations
 
 * **Skyport** - Massive tower on the Aureons Plaza isle in the center of the river. Docking place for airships that is being watched over by a central gnome with an elaborate surveillance system.
 * **Korranberg Library** - Largest library in Khorvaire, beating heart of Korranberg University which is home to eight different colleges. Located in Aureon's Plaza

@@ -1,7 +1,4 @@
-  
-
 # Daask
-
 
 - Dugorim - Shady dealings orc. Hails from The Glowing Kipper. Connected to the Daask.
 - Plucky - The minotaur who accompanied Dugorim.

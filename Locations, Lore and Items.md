@@ -5,7 +5,7 @@
 ```dataview
 table x
 from "Locations and Items" and -#item
-sort file.name ASC 
+sort file.name ASC
 ```
 
 ## Lore
@@ -13,7 +13,7 @@ sort file.name ASC
 ```dataview
 table x
 from "Lore"
-sort file.name ASC 
+sort file.name ASC
 ```
 
 ## Items
@@ -21,5 +21,5 @@ sort file.name ASC
 ```dataview
 table owner
 from "Locations and Items" and #item
-sort file.name ASC 
+sort file.name ASC
 ```

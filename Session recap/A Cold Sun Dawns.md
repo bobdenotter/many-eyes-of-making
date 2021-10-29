@@ -7,135 +7,103 @@ date: September 8th, 2021
 
 On the deck of the ship, Beck and Rydia see one of the three cloaked figures pull a longbow from their back, aiming directly at the ship. The figure fires an arrow, the bolt lodging into the side of the Heritage just below the railings of the deck. Beck tries to call out towards them, asking what they’re doing before looking at the arrow, finding a message tied to it. He reaches down, unfurling a scroll. It reads;
 
-  
 > Death awaits those who rob the ancient tomb
-> 
+>
 >  Moving the shards will spell eternal doom
-> 
+>
 > Best you leave our sacred jungle and never come back
-> 
+>
 > Lest the whole world be plunged into the eternal black
 
-  
 
 Beck passes the note to Rydia, who reads it blankly before handing it back to him. With no way to ask more questions, they keep course, the ship drifting closer to the mesa where the three figures seem to be discussing something. As the ship glides by, Beck notices they seem to be dragonborn, and as they go by, the three of them leap from the mesa, spectral wings erupting from their backs as they glide away over the treetops, heading to the east.
 
-  
 
 As this happens, Beck and Rydia notice the temperature seems to have dropped a few degrees, the dawning sun a dim red orange on the horizon. The rest of the crew wake up and join them on deck, Beck showing the note to Galen and Petr and explaining what they saw. Galen confirms they’re not turning back, Petr suggesting they might just be trying to scare them off because they want to get there first. They do also know the place is guarded, Galen assuring the crew he wasn’t really planning on taking anything from the city. Whilst dragonborn aren’t uncommon in the area, they don’t know about any that sprout wings as these did.
 
-  
 
 The ship journeys onward, gliding high above the jungles of Q’barra. As they pass over the trees, a splash of colour can be seen as the sounds of a fight drift up from the jungle. Below, they can see four massive creatures, with colourful plumage, large wings and the body of a tiger - seemingly some kind of Griffins, flying through the air. They don’t seem to be interested in the airship as it passes by overhead, more interested in their prey.
 
-  
 
 As the sun reaches its peak, it’s clear to see it’s different, now a deep dark orange against the sky. Azaka provides them with some course corrections, telling them they’re getting close as he looks at the sun. Petr asks why it has this effect on the sun, and Azaka says he doesn’t know - but it happens whenever people get close to Haka’thorvak. He tells them they should arrive around sundown, and recommends they approach careful as the city itself is buried within a large rift in the ground. He also tells them part of the city was flooded last time he was there, which might change some of their plans.
 
-  
 
 Deciding to anchor the ship somewhere out of sight, they hide the Heritage beneath the treeline, walking the rest of the way to the southern entrance to Haka’thorvak. As they fly overhead, they can see the bulk of the city nestled in the rift, the jungle parting to reveal a city gleaming in moonlight. It’s enclosed by sheer cliffs, the structures mostly made of marble as a river flows through, turning to waterfall. There’s a large temple construction in the east, likely the place they need to go. The city appears to be completely abandoned, and there’s a dim red light in the northern cliff face. The moon is just rising as they set off towards the city, making the most of the cover of night to get into the city, aware they’re still in a race. Rydia makes cookies, sharing them around before they leave.
 
-  
 
 The jungle is hot and humid, the buzzing of insects loud in their ears as they approach a large marble staircase which leads down into the city of Haka’thorvak. A number of draconic gargoyles line the cliffs at hundred foot intervals, giving the group the sense they’re being watched by these stone statues. Going from Azaka’s information on the points of interest, they make their way further into the city, the sound of the waterfall nearby as a faint mist covers some of the buildings. Following an elevated walkway through the city, they aim for the temple, noticing a fallen log which would provide a way to cross the river, deciding to walk across for now rather than flying with the help of Petr’s bird. As they walk through the city, there’s a large barracks surrounded by a low wall, a sandpit outside where the sand appears to be bloodstained. Other than that, it seems to be completely abandoned.
 
-  
 
 Approaching the river, the mist rising from the waterfall makes everything hazy, although they are able to spot the log and another elevated walkway on the other side of the river. Near the log are some large flowers, in various colours with hard, scaled trunks. Drawn to the strange plants, Petr moves closer to inspect one of them, realising these are likely poisonous as he stops to inspect them. It seems odd that they’re growing here in particular, but as Petr is considering this, Galen hears the sound of a stone dropping nearby, realising there’s someone else nearby, likely on the roof of a building on the other side of the river. The arrow pierces through the air, hitting Petr as a second bolt pierces the plant which releases a cloud of poision, stunning Petr for a few moments.
 
-  
 
 Realising they’re under attack, Beck conjures an image of one of the Griffins they saw earlier, a group of three large black scaled lizardfolk reacting to the possible assault. Clearing out the rest of the nearby poisonous flowers, the party find themselves under another hail of arrows. The illusion of the Griffin vanishes as Beck takes a blow from an arrow, the lizardfolk turning their attention on the party, Beck throwing a dagger at one of the flowers which goes wide and falls into the river. He then tries to throw a stone at the flower, but it goes wide, giving the lizardfolk a sense of confidence which quickly disappears as Rydia manages to severely wound one of them with an Eldritch Blast.
 
-  
 
 Galen tries to take a shot at one of the lizardfolk but the gun jams in the humidity of the jungle, unable to repair it in a hurry and instead reaching for his rapier. Rydia moves in on one of the lizardfolk, biting into him as he screams under the injury. In battle with Petr, one of them calls out “For eternal glory!”, before crying out something else that none of them understand. Managing to dispatch them without too much issue, the group take a moment to catch their breath, the city falling quiet around them once more.
 
-  
 
 Petr asks Beck if these are the same creatures he saw from the airship, but Beck confirms these are completely different, the figures on the mesa having been dragonborn. Lizardfolk are far rarer, and Beck believes they’re normally smaller than the three here, who are of the larger kind, known as Black Scales. Lizardfolk are completely alien, without much empathy and communicating in a way very few people can understand. Beck suggests they keep going, checking in on everyone before noticing the smoke coming from Galen’s gun. Putting it down to performance issues, Beck offers to take a look at it, Rydia putting a hand on Beck’s shoulder and assuring him this normally never happens. Managing to clear out the jam, Beck hands it back to Galen, who thanks him and suggests he maybe learn how to repair it properly one day, as he only really learned how to fire it. Beck suggests he and Bonzobur could help teach Galen, which he agrees to.
 
-  
 
 Before they head out, Galen searches the bodies of the lizardfolk. One of them has an ornate looking brass key, engraved with the face of a dragon in the top. There’s two small sacks of poison, which could likely be used to coat weapons. All three have a tiny shard of crystal below their right eye, set into the skin - it’s hard to spot given the black crystal melds into the scales, but Galen points it out to the rest of the group, theorising it could be part of the shard the dragonborn mentioning. Pulling a dagger out, Galen carefully lifts the crystal free, balancing it on the blade. Beck asks Petr if it looks natural, Petr realising that this seems to be a piece of Khyber Dragonshard, highly susceptible to magic and exceedingly rare. Pulling out a leather pouch, Petr places the shard into the pouch without touching it, removing another and noticing the wound left behind in the lizardfolk’s face seems deep, as if it would reach the nerve behind their eyes.
 
-  
 
 Petr suggests they could have been using the shards to communicate, Beck wondering if it perhaps allows them to see things. Rydia offers to try it, Galen asking if she wants to shove it into her eye. “What’s the worst that can happen?” she asks, Galen asking Petr if these are dangerous. He says they’re highly magical so it could go either way, although Beck notes that the lizardfolk themselves weren’t using magic. Beck grabs one of their spears, breaking off part of it as Galen asks what he’s doing. Beck explains he lost his dagger, Galen offering him one of his, although Beck says he’s keeping his improvised shiv.
 
-  
 
 Collecting the three dragonshards into the leather pouch, the group prepare to head out, another raised walkway leading them towards the temple. Galen takes the lead, keeping an eye out for traps, although he doesn’t spot anything. Some of the stone crumbles as they walk, which seems odd given everything around them seems to be new. Heading down into the temple complex, it’s surrounded by a large wall, engraved with images of dragonborn in battle. Entering the complex, there’s a number of different buildings, but a large structure with a golden dome for a roof sticks out in the skyline, surrounded by smaller stained copper roofs. There’s more gargoyles on the cliffs, giving them that same feeling of being watched.
 
-  
 
 Looking for a good campsite, Galen spots a few abandoned buildings, heading towards one. A small two storey building, it seems like this was intended to be someone’s home, with the lower floor hosting a living space and a kitchen, a small staircase leading to some other rooms. The structure is bare rock, it almost appears as if the city was built but never really inhabited. Deciding this is likely the best they’ll find, the group begin to set up camp, Rydia offering to keep an eye out, although Beck suggests they do so in pairs.
 
-  
 
 Finding a spot on the second floor near a window, Petr and Rydia keep first watch, and for the time being everything seems to be quiet. Beck then takes over, the two hearing the faint sound of chanting as they keep watch. It sounds like it just started, although is too far away to make out what they’re saying. Heading up to the roof of the building for a better look, it seems most of the mist has disappeared, giving them a clear view of the city. Rydia notices the eye like moon above them once more as they search for the source of the chanting, Beck and Rydia eventually noticing something near the basin of the waterfall. There’s a circular building with a split down the middle, which seems to be the source of the sound. They agree to keep an eye on it for now.
 
-  
 
 Eventually changing watch, Beck heads back to sleep and wakes Galen, Rydia informing him of what they’ve noticed. They head back up to the roof, they can still hear the chanting, Galen spotting silhouettes in the darkness, roughly ten. He notices the section of the city they walked through to get to their current location looks completely different, and one of the figures seems to be carrying a censer, which is billowing smoke. They’re surrounding an obelisk, which Galen realises wasn’t there before. They appear to be wrapping up a ritual, before heading back to the west, towards the barracks they passed by earlier.
 
-  
 
 Galen asks Rydia if things look different, theorising if the city is moving, which Rydia says seems impossible. She wonders if the eye crystals have something to do with, Galen asking if she still wants to try one out. Rydia says she thought it would be helpful, but Galen tells her it won’t be helpful if it kills her. Changing the subject, Rydia asks about the city, Galen noting that if they’re trying to protect something, moving the city would be a good way to do it. Rydia suggests it could be more like Beck’s Griffin, Galen conceding if that’s true it could be possible that the dragonshards help them navigate the illusions. He does however reiterate he’s not a fan of the plan to shove one into her eye. “But I have so many,” Rydia jokes, to which Galen seems unamused.
 
-  
 
 As a cold sun dawns on Haka’thorvak, Petr wakes and swears he’s in a crumbling ruin, before blinking away the image to see the same room he fell asleep in. Rydia and Galen stay on the roof, watching the sun rise. As they do, they can see a perfect square of the city which now appears as a crumbling ruin, the water in the basin now seemingly a blackened pit of tar. It seems there is some sort of illusion going on, although it’s hard to tell which is real. “The fourth eye is blinded by the trees,” Galen murmurs to himself, Rydia asking why he’d say that before Galen points out that’s why they’re here. Galen asks if Rydia’s alright, telling him that it’s weird when he says it. She admits she’s nervous - they’re there because of Rydia. Galen tells her nervous is fine, but he has different opinions when it comes to thinking she has nothing left to lose. There’s a long silence before Rydia suggests they go and check on the others, Galen agreeing they should be on the move soon.
 
-  
 
 Galen relays what they saw on watch, Beck asking if the temple is still in the same place, which Galen confirms. The rest seems like a problem for later, with Galen suggesting they be careful as they head out. It is however still a race, Rydia wondering if it could be the party after them. It seems like too many people and their rivals should be behind them, and it would be odd if they knew how to control the city. Galen concedes they might know something he doesn’t, as he did just go to the library.
 
-  
 
 Heading out into the early morning light, they notice a small channel in the walkway that leads to the temple complex, a trickle of red liquid running through it, running away from the temple. Everything else seems to be abandoned. Petr uses a twig to pull out some of the liquid, getting a scent of iron from it to lead him to believe it’s likely blood. Agreeing to be careful, they continue on towards the temple.
 
-  
 
 The complex appears to be abandoned, the group following the trickle up to the doors of the large golden domed temple. There’s four channels emerging from underneath a set of large copper doors, spreading in different directions. The doors themselves have nine deep grooves, blood also running through those grooves in the doors. The center of the door has three triangle shaped indentations, covered in blood. The door doesn’t seem to be stained, the blood almost sourceless. It appears to be exceptionally ornate, although there’s no obvious keyhole to the door as Petr suggests trying the key they found yesterday. Rydia moves closer to the door, casting Detect Thoughts but not sensing anyone in the area other than the group, meaning there’s no one immediately inside.
 
-  
 
 Galen offers to take a look for another entrance by making a lap around the building, Rydia volunteering to come with him. They make a circle around the perimeter, not finding anything obvious. However, as they’re at the far end of the building, Galen notices three figures gliding overhead on spectral dragon wings, Galen immediately pushing Rydia towards the side of the building, attempting to hide of out of sight of the three figures. They go unnoticed as the dragonborn fly overhead, heading for the temple entrance.
 
-  
 
 The group land at the doors close to Petr and Beck, staying a safe distance away as they remove cloaks, revealing themselves to be copper dragonborn, the wings disappearing as they land. The one in front is holding a corroded copper shield, with a scimitar on her hip. She looks to Beck, telling them they should have stayed out, asking what they’re doing here. Beck tells her it’s a long story, but they’re not here to steal. She asks why they destroyed the illusion, Beck telling her it wasn’t them, explaining what they saw overnight.
 
-  
 
 She looks to the other two dragonborn with her, mentioning the Black Scales before they look back to Petr and Beck. The dragonborn asks why they’re trying to get into the temple, saying she has time for a long story. Beck explains one of their friends found a book which she made the mistake of looking at. The dragonborn asks what the book was, Beck telling them it was the Tome of Vvaraak, causing their eyes to grow larger. They murmur among themselves, debating whether or not he was a betrayer, and what it means if he was right. The female dragonborn asks where they found the book, Beck saying it was somewhere in Karrnath. The dragonborn says it’s been lost for a long time, and is very dangerous and not considered part of the official prophecy. “If that is why you came, you’ll find nothing but misery here.” Beck says they’re just looking to find answers. The dragonborn asks where Beck’s friend is, Beck saying they’re around somewhere.
 
-  
 
 Hearing the conversation, Rydia puts on her mask as Galen starts to head back to the main entrance, one of the dragonborn pointing a glaive at Galen. He raises his hands, Beck telling them these are his friends. The female dragonborn says she might be able to help with what’s wrong with their friend, her eyes landing on Rydia. The other two stumble back as they see Rydia, but the woman seems unfazed, saying that Rydia seems to be touched by the corruption of the betrayer, and she’s seen this once before. Galen immediately asks when, the woman explaining it was a couple of years ago at the meeting of Thronehold, when the Accords were taking place. A man from Breland couldn’t control himself, heading outside and claiming to be ill. She chose to follow him, not trusting him fully, and saw that the side of his mouth ripped open. Galen asks who it was, the woman saying it’s been some time, and she only knows his last name - Alistair, who she believes was from Sharn.
 
-  
 
 One of the wards in the upper districts of Sharn is Skysedge Park, and Galen knows that the Alistair family are the keepers of that ward, with an estate there. They’re a well known family of renown, although with no history of adventuring, and no idea who in the family that could be. Galen asks what happened after she followed him, and the woman explains his face ripped in two as he devoured a rodent outside. He got up, calmed himself down, his face returning to normal before he went back inside. The woman says none of this explains what they’re doing here, asking what they were hoping to find in the temple. Galen replies that they didn’t have many leads to go on, other than ‘the fourth eye is blinded by the trees’.
 
-  
 
 The dragonborn begin to murmur amongst themselves again, mentioning a rogue prophecy as they talk in Draconic. They seem to be confused, one of them talking to the leader, saying they can’t be Black Scales as they’ve murdered three of them. The woman says she doesn’t know who they are or why they’re here, Beck cutting in and telling them in Draconic that they’ve been telling them what they’re here for. The woman introduces herself as Nerima, and they are the Order of the Corroded Shield - the last defence between Haka’thorvak and the Eternal Darkness. Everything in the city must remain, however one of the dawn shards has been dispelled - the Black Scales will stop at nothing to speak with the Cold Sun buried beneath the city. At first they wanted the crystal, but lately they’ve been removing the wards around the city. The Order stopped them when they tried to get through the temple door, one of the dragonborn revealing a pyramid shaped key. The Black Scales have the other two keys, meaning they can’t enter the temple even if they wanted to. Galen shows them the key he found yesterday, the dragonborn suggesting it’s a key to the barracks, which might come in useful.
 
-  
 
 Nerima explains they can’t help them get into the temple, as the Black Scales have two of the keys and have changed tactics. Galen proposes they could get the keys back, Nerima saying the eye is of no interest to them. They used it to speak to Rhashaak, the protector of the city, but he’s grown insane over the last couple of centuries. Galen asks about the eye and the false prophecy, Nerima telling them the eye is a seeing stone that allows you to communicate with anyone - across planes, and even across time. They don’t know where it came from, but it landed there for a reason - this was the same spot that Masverik, the Cold Sun, breached his chains and came to the surface. He was then defeated, and bound to Khyber beneath the city, with the help of the black dragon Rhashaak. All that remains of the city is the three members of the Order before them.
 
-  
 
 When it comes to the prophecy, it is not recognised by the other dragons of Argonessen. Vvaraak was a rogue who communicated with humans, and gave their magic away. Vvaraak helped the humans when the Daelkyr invaded, but the invasion drove him mad, meaning he is not to be trusted. Nerima looks to Rydia - “But you already know that”.
 
-  
 
 Galen asks what happens now, Nerima saying that if they want answers, their best bet is to talk to Vvaraak, which they would need to do through the crystal, meaning they need the keys. If the group helps in dealing with the Black Scales, the Order can help them get to the crystal and the answers they seek. Rydia asks why they have dragonshards in their eye, Nerima saying their shamans like to watch everything - it’s a tool to help the shamans see what their soldiers are doing. Galen says they likely already know the party are there, Nerima saying they can help with that, possibly causing a distraction. She doesn’t know exactly where the keys are, but guesses they’re likely with Korlasz, their leader - he’s easy to spot, the largest of them and they’re particularly combat focused.
 
-  
 
 As they’re talking, a shadow slowly looms over them all. Looking up, it’s hard to believe they’re been snuck up on as they stare into a twenty foot diameter black eye of a millenia old black dragon, peering around the temple and looking at the group below.

@@ -5,189 +5,189 @@ date: October 6th, 2021
 
 # Masviriks’ Nightmare
 
-  
 
 
-  
+
+
 
 With the crocodiles moving closer, Galen and Bonzobur manage to deal with them quickly, the bullets tearing through them. Beck slashes at the remaining kobold, killing it as the triceratops charges through at Rydia and Galen, who dodge out of the way. Noting the passageway Petr disappeared into is too small for the dinosaur, Rydia heads in that direction trying to make a quick escape, but finds two more black scales, crocodiles and a strange skeletal snake floating above them. She immediately turns around and heads back to the group, realising they’re trapped, telling the others it’s worse. Galen points out they have a vault key, the group starting to make their way towards it.
 
-  
+
 
 Meanwhile, Petr realises he seems to have been left alone, not sensing anything around the cup. Trying to fight his way out of the cup, Petr eventually manages to hit his head hard enough to break the polymorph, finding himself in the darkness, hearing the sounds of a fight from the other room. Getting to his feet, he starts trying to head towards the group, but hears the breathing of a lizardfolk closeby.
 
-  
+
 
 Looking at the triceratops, Beck realises it seems to have been seeped in Masvirik’s corruption which has driven it to this state. Trying to secure their escape, Beck hands Galen the symbol which unlocks the vault, telling him he wants to give Petr a chance. He then casts Major Image, creating a replica of the group walking into the room in order to distract the Black Scales in the way. Beck then calls out to Petr that they’re falling back. Seeing Bonzobur trying to fall back, the triceratops charges, pinning him to the wall as Bonzo notices some of the dragonborn on the frescos on the wall seem to be moving as his blood covers the stone, the figures seeming reaching up to receive it.
 
-  
+
 
 The Scales attack the illusions, but the large snake seems to notice this, floating forward before turning its gaze upon Beck, who falls unconscious under its gaze, a voice echoing in his mind whispering ‘Surrender’. Galen immediately moves over to Beck, picking him up over his shoulder and starting to move towards the vault. Bonzo uses Catapult to throw his entire box of bullets at the triceratops before wrestling his way out from where he’s trapped, heading toward the vault. Less than pleased with this, the triceratops attacks Bonzo again, wounding him severely with one of its horns.
 
-  
+
 
 Hearing the chaos, Petr casts Gaseous Form on himself, beginning to float towards the others. However the Naga spots this, realising the magical nature and turning its gaze upon Petr, breaking his spell as an unconcious Petr returns to his original form and falls to the ground.
 
-  
+
 
 Running for the door, Galen opens up the vault, hastily putting Beck down inside at the top of the stairs leading down. Seeing the open door, Bonzo rushes inside, just barely dodging the attack of the triceratops. Galen calls to Rydia to get inside, which she eventually does after cutting herself off mid attack, and with one last look at the triceratops outside, the doors to the vault fall closed once more.
 
-  
+
 
 Beck finds himself falling, waking up just as he lands in something wet - a bank of snow, stained red with drops of blood around him. As he looks around, he realises the blood seems to be coming from him, with two brightly coloured broken wings lying in the snow beside him. The sky above is dark, but there are no moons visible, and as Beck observes the horizon, he realises he’s in Metrol. He can see the Vermishard of War and the Royal Vermishard, along with the frozen banks of the River Melandor nearby. There are people moving through the city, but none of them seem to acknowledge Beck as he moves down into the city, passing trees which are covered in illusions to replicate the blossoming white flowers even in the depths of winter. As he heads into the Royal Vermishard, Beck notices a silhouette watching him on the horizon.
 
-  
+
 
 Moving towards the silhouette, Beck sees an elven figure clad in plate mail, with long black hair and silent tears frozen onto her cheeks, recognising this as Queen Athelonia. She’s holding a crystal in her hand, up towards the sky, the crystal constantly shifting form, facets gleaming in the light. She seems to be speaking, and Beck moves towards her, having to force his way through the masses of people, dodging through the crowds in order to move closer to her. Trying to catch what she’s saying, Beck only hears “I told you Tharaza” from this distance.
 
-  
+
 
 Meanwhile, Petr wakes up with a slight headache, finding himself in a hammock outside his ancestral home - a pretty three story building, which has been added to over the years by the many generations of Petrsons that have called this place home. The building is located at the top of a cliff, the caverns below where the truffles and mushrooms are grown as part of the family business. Relaxing for a moment, he looks up, noticing a strange mould on the bark of the tree. As he watches it, the black mould seems to move, tiny eyes seeming to blink within it. Realising where he’s seen this before, Petr jumps from the hammock, heading towards the house to try and get away with it. However as he gets closer, he notices most of the creepers on the walls of the building also have the same mould infecting them.
 
-  
+
 
 Petr gets closer to the mould, using his Halo of Spores on it and watching the mould begin to wither and die under the effect. Taking note of this, Petr heads inside the house, moving to the back door and entering the large country kitchen. Knowing this to be a focal point for the home, Petr manages to track down people here, seeing the back of his sister, spoonfeeding his father who is seating at the table, mouth agape. He seems to suddenly be very old. Petr moves inside, asking his sister, Mílika, what’s going on. She seems less than amused, telling Petr he has terrible timing to show up and want answers, as she’s a bit busy. Petr tells her he just got her, Mílika responding that it’s a bit late - she’s been trying to contact him for a while. Their parents aren’t doing well, and they need a lot of care. Petr offers to help, Mílika dryly telling him it was nice of him to take time out of his busy adventuring career for his poor old sister. Trying to be of some use, Petr heads to the sink and starts to some chores for her.
 
-  
+
 
 Rydia, Galen and Bonzobur find themselves in a dusty room, the structure seemingly intact. There are frescos on the wall in good condition, and the floor is lined with marble. Bonzo lights up his pipe wrench as Galen begins to clear through the vault, checking for any signs of danger. The three doors are labelled - “Ossuary of Heroes”, “Tomb of Chansar the Pale” and “Shrine to the High Master”. The first leads to the ossuary, with seven small sarcophagi, with a dragonborn face engraved onto the lid, the sarcophagi seemingly of a size to only contain bones. The walls are lined with frescos of heroic deeds of dragonborn, seemingly a monument to their actions.
 
-  
+
 
 Checking the tomb, this appears to be much larger, the place covered in Draconic writing that would take hours to fully decipher. Taking a quick glance around, Galen spots something on the back wall, with creatures seemingly being punished. Finally, he opens the Shrine, finding a dusty room with a thick green haze hanging in the air. There’s a large statue of a dragonborn in the centre, with two burning braziers holding a green flame at either side.
 
-  
+
 
 Galen calls to the others that they seem to be good in the vault. “For how long? I’m scared Galen,” Bonzo replies, Galen responding that he doesn’t know. At that moment, a scream erupts from the Tomb, along with a flash of grey necrotic energy sweeping out towards the hall. The blast catches them both by surprise, a barely standing Bonzo collapsing to the floor from his wounds as Galen catches himself and drags the door to the Tomb closed. As he does, his hand goes partially through the stone, Galen managing to find purchase on another section and slam it closed without too much trouble. As the door shuts, it ripples, and seems to solidify once more.
 
-  
+
 
 In an attempt to hear Athelonia, Beck moves closer, listening to what she’s saying more closely. “We found it. He can finally carry our combined wish.” She smiles coldly, her eyes landing on Beck. “It’s a matter of time before the mists of the Mourning consume Thrane, Karrnath, and then Aundair and finally Breland.” Beck asks why she’d want that, Athelonia telling him that her selfish children brought so much blight and pain to this land. It’s about time they got a taste of their own medicine. Beck suggests she punish them instead of the entire world, but Athelonia says they punished her entire world. “Tharaza agrees with me. She is many. We are one.”
 
-  
+
 
 Athelonia tilts her head towards the sky again, seemingly falling into a prayer to someone. “Guide me Sora Katra, give me strength Sora Maenya, show me what to do.” Beck leaps forward, trying to take the crystal from her, but he can’t get close enough. The crystal begins to light up, thick yellow mists pouring from it - a mist Beck recognises all too well. He tells her there must be another way, but Athelonia doesn’t seem interested in this. “No, it’s time. Everybody is just continuing on like nothing ever happened. They’re trying to forget the Mourning. The only one acutely aware of it is Sora Tharaza, and she actually wants to do some good - start fresh.” Beck says he hasn’t forgotten, and he’s travelling to spread the word. Athelonia says he’s part of a dying breed, but also calls him naive. He asks what she’s doing to stop it, but Athelonia says she doesn’t want to stop it. “The humans have had their time in this world - it’s time for other folk.” She says the Daughters of Sora Kell are an example, having been trampled on by humans for decades - they’ve earned their time.
 
-  
+
 
 Athelonia continues to pray, “Sora Maenya, give me the strength to do what I should have done a long time. Sora Katra, give me the voice to speak on behalf of the forgotten people of the world.” Beck casts Silence on her, but this doesn’t seem to bother her, Athelonia continuing to pray. Frustrated, Beck reaches up to take the crystal again, but Ahtelonia dodges out of the way, Beck tripping and falling from the attempt. As he hits the ground, he looks up and sees a set of double doors in the distance, opening up to a warmly lit interior. Within the incense covered room stands a black scaled lizardfolk, looking towards Beck. “Come with me if you want to live. I can save you and your friends,” Beck hears in his mind, the voice of the lizardfolk coming through. Getting up, Beck walks through the crowd towards the door, the people parting for him as he walks through. The crowd seemingly only wanted to keep Beck away from Athelonia, parting for him as he makes to leave.
 
-  
+
 
 Having finished bringing Beck downstairs, Rydia asks what happened to Bonzo, Galen rushing to feed him a healing potion in a panic. Whilst he can see the colour returning to Bonzo’s face, the gnome doesn’t wake up, seemingly fallen to the same slumber as Beck. Galen looks over to Rydia, telling her that he can’t wake him. Rydia suggests slapping him, Galen pointing out he practically dropped Beck down the stairs and he didn’t wake up. “I don’t know what to do,” Galen admits, Rydia letting out a soft “oh boy” in response. She asks where they are, Galen explaining it was supposed to the be crypts of the Corroded Scales, however the Tomb doesn’t seem to be healthy, especially with a disappearing door. Rydia says she’s happy to fight her way out, Galen immediately protesting as Rydia says she needs a moment before they do that.
 
-  
+
 
 Galen asks how they’re planning on fighting their way out with two unconscious people and no idea where Petr is. “We kill all of them, wake everyone up, find Petr and get out,” she says simply, which Galen finds a little hard to believe. “Why are you asking me?” Rydia points out, Galen sighing softly before pointing out that they already tried to kill everyone and it didn’t work. “I don’t know- I never know what to do,” Rydia tells him, Galen pausing for a moment before stating they’re not going anywhere right now anyway.
 
-  
+
 
 Bonzobur wakes up from a bump in the road, finding himself in the back of a wooden wagon. It’s filled with knick knacks and trinkets, and there’s a birdcage containing a red bird. On the side of the walls is a painted phrase - Mademoiselle Antinua's Illustrious Wonderland. His hands and feet are bound, but Bonzo manages to take a look outside the cart through one of the small windows. Outside, he sees nothing but a warzone - the trees are dead and the landscape is covered in carnage, with corpses littered across the ground. He can hear talking on the other side of a curtain in the wagon, seemingly leading to the front of the cart. There are two people, one of the voices saying that he seemed hurt and in need of healing. “Emrys, snap out of it, don’t be kind to this creature. War criminals don’t deserve mercy.” Bonzo calls out, asking why he’s in the wagon, and the curtain rustles, eventually revealing a pale elf with a prominent dragonmark on her neck.
 
-  
+
 
 The elf tells him to shut up, Bonzo asking why he’s in the wagon. The elf insists he knows why he’s in there, and war criminals don’t get to complain. Bonzo will be standing trial for crimes against the crown, for the monstrosities he unleashed on the the Five Nations. Bonzo asks what they’re talking about, the elf pointing out the fortresses and the weapons he unleashed on everyone. “You and all the other Architects of Ruin are standing trial.” They say they just need to catch some of the others, but they’re good at that. Beside the elf is a colourful looking Firbolg, who agrees with them, and explains he’d offer some healing but his partner isn’t having that. Bonzo asks how they captured him, the pair explaining it took a while, but they tracked him down in Korranberg. “It was a pretty little bakery you were hiding in.” Bonzo asks if his family betrayed him, the elf explaining that it ended badly for them if they did. “Torching a bakery - no one’s going to care. Just an accident with the oven.” Bonzo asks if they hurt his family, the elf telling him they don’t know - but there were a lot of screams. Bonzo curses, telling them he’ll get them for this. “Take a load off, war criminal. We have a long way to go.”
 
-  
+
 
 Resting in the dark hallway of the vaults, Galen pulls Bonzo a little closer to the others, Rydia taking the chance to make some more food as they catch their breath. “What do we do if they don’t wake up?” Galen asks, Rydia telling him they’ll wake up. Galen presses the question, Rydia saying they’ll either need to find a way out without fighting, or find a way out with fighting. “It’s like last time all over again,” Galen murmurs to himself, Rydia seeming confused for a moment. “At least I’m not asleep this time,” he tells her bitterly, before immediately apologising for his attitude. “Everytime we get into this shit, I end up losing people.” Rydia apologises, but Galen says it’s not her fault. Rydia says that if they have to, she can do the thing with the noises and the darkness, which might cover an escape.
 
-  
+
 
 Still distracted, Galen tells Rydia that he offered Beck a chance to get out of all this and he refused - that he explained to Beck what happened before, and gave him the choice to kick them off the ship and back out of everything. However, Beck turned him down, which Rydia takes in for a moment. “That does seem to be part of who he is,” she tells Galen. “Bonzo is smarter.” Galen comments Bonzo is far smarter than he is at the very least. Rydia then tugs Beck around the corner, staying there out of sight as they rest.
 
-  
+
 
 Making himself busy, Petr sets about doing the dishes before asking his sister how long he’s been gone. Mílika seems unamused that he doesn’t know that, but tells him it’s been a couple of years, despite her numerous attempts to contact him. However, she’s gotten on with things and has just finished making the arrangements and managed to find some help - the farm is going to be fine. Petr says he didn’t realise he’d been gone for so long - it didn’t feel like more than a few weeks, and he doesn’t even know how he got back. Mílika comments that seems odd, but tells him that the person helping her out is a friend of his, so she’d assumed Petr sent her. Petr asks who it is, Mílika responding “I believe her name is Rydia? She said she was a druid.” Petr repeats this in disbelief, Mílika confirming it, explaining she said she could help with their yield. Petr says none of this sounds right - he knows a Rydia, but she was the opposite of a druid. He asks where she is, Mílika saying she’s in the caverns below the house, looking at the crop. Petr asks what Rydia looks like, asking how many eyes she has. Mílika seems confused, but says she only has two, asking if he knows a Rydia with more than two eyes. “Sometimes when you caught her off guard it looked like she had more,” Petr explains, Mílika commenting that Petr’s clearly been dipping into their grandfather’s supply a bit too much. Abandoning the dishes, Petr says he’s heading down to talk to Rydia before departing the house.
 
-  
+
 
 Entering the caverns, Petr finds more and more of the black mould with eyes, which seems to have spread everywhere. Doing his best to ignore it, he heads further inside, finding glowing red lines running along the walls, even visible below the mould. The fungi have grown to an enormous size, which is likely what his sister meant when she said it was helping the yield. As Petr heads further into the caverns, he can hear laughter echoing around the space.
 
-  
+
 
 As he arrives, he finds Rydia at the end of the cavern, standing in the center of the space and wielding the Staff of the Four Seasons. She looks up and she sees him coming, saying hi and asking what he’s doing here. Petr says he had the same question - this is his house and his family, and she has his staff. “I’m just trying to help,” she responds. Petr asks how she got here, Rydia saying she walked - it’s not that far from Fairhaven, which is where she grew up. She knows the area pretty well. “It’s a bit rural for my tastes, kind of boring. It’s a cavern with fungus - what’s not to like?” Petr points out she’s never expressed an interest in any of this, Rydia saying it’s a good ingredient for cooking, however Petr insists that’s not really what they grow.
 
-  
+
 
 Sticking to more important subjects, Petr asks for his staff back, which seems to confuse Rydia. “Your staff? I seem to remember this one belonged to Vvaraak, and I’m serving her now. Anyway, I’m almost done.” As she moves, Petr notices a number of carvings on the floor, as it seems Rydia’s been cleaning up an ancient carving in the stone - it’s a circular pattern, with a number of spirographs held within. Petr asks what she’s doing exactly, Rydia saying she’s helping them grow and tells him to watch. She plunges the staff into the ground, and more laughter emerges from the walls.
 
-  
+
 
 Beck moves towards the lizardfolk, who promises Beck that he won’t be harmed. The entrance looks nothing like Metrol, instead more reminiscent on Haka’thorvak, finding a well furnished room with a large divan and a lit brazier in the center. A beaded curtain hangs across the entranceway, that the woman is holding out of the way for him. As Beck steps inside, he sees another divan, upon which lies a wounded Petr. Beck asks what happened to him, the woman saying he’s been sucked into Masvirik’s Nightmare. He asks if that’s where Beck is, but the woman responds it seems very real to her. She explains she can help Petr, and all of Beck’s friends - but she needs Beck’s help in return.
 
-  
+
 
 “My name is Akulele,” she says, introducing herself as one of Korlasz’ viziers. She never liked him, and wants her son on the throne instead, meaning they likely have a common enemy. She wants to strengthen their bond with Rashaak, and that everyone in the compound has forgotten their original dreams - dreams brought by feathered serpents, who asked them to keep the Dawnshards intact at all costs. Given her people are attacking and dispelling the shards, now is the moment for her to start a coup. Beck asks what she needs, Akulele explaining that there’s a lieutenant, Jakzi, who has swayed most of the men against her. Auklele believes she can win them back, but she needs Beck’s help - he’s the only one who can convince them. “You have something very ancient. You have an ancient soul. They will listen to you if you speak. You can help everybody, just by helping me.”
 
-  
+
 
 Akulele explains she can let his friends go, and they can continue on. She asks why they came to pick a fight, Beck telling her they need the keys. She immediately understands this, offering to give the keys over as well, if they’re willing to do as she wants - if Beck is willing to command them. They’ll need to kill Korlasz and his lieutenant, and then point the clan towards a new path - her son, Sekkalok.
 
-  
+
 
 Still within the crypt, Rydia closes her eyes for a moment, but as she looks back towards Beck, she sees his body being consumed by the frescos on the wall. Leaping towards him, Rydia grabs hold of Beck, calling out to Galen who rushes over. “I’m not doing this!” Rydia insists as Galen grabs hold of Beck as well, the two of them managing to tug him half way out of the wall. However they lose their grip on him, the wall swallowing Beck whole. Galen asks what happened, Rydia attacking at the wall, the fresco shattering but leaving nothing but stone behind - and no sign of Beck.
 
-  
+
 
 Galen and Rydia try to figure out what happened, Rydia commenting this place seems worse. “It always seems worse, doesn’t it,” Galen responds, before Rydia asks about Bonzo. They both look around the corner, to find Bonzo still lying there unconscious. Galen tells Rydia to wait, commenting he needs to figure out what’s going on here. Heading back to the Ossuary, he starts to read some of the inscriptions, finding each of the sarcophagi have a name along with the deeds they were known for. The walls have stories of the seven heroes who helped defend Haka’thorvak from the breakout of the Cold Sun, along with a date neither Rydia or Galen can make sense of. Galen comments he wouldn’t mind checking the other room, but it knocked Bonzo out, instead suggesting they keep an eye on Bonzo for now.
 
-  
+
 
 “What did you do to my family? Where are they?” Bonzo asks darkly, the elf insisting they have no idea, they only know about the bakery. “It’s kind of the same though, isn’t it. It’s my family’s bakery,” he replies coldly, before asking where they’re taking him. The elf tells him they’re bound for Thronehold. “If you want to know why, just look out the window.” This kind of carnage didn’t happen before your organisation started meddling in Breland’s affairs. There’s a lot of people pissed at the Zilargo gnomes for just this. Bonzo tells them that he’s not proud of this, the elf saying that’s something. “Yeah, maybe it is. Maybe it’s not much. Maybe I want to make amends. I’m good at fixing things, but I have no idea how to fix this.” The elf comments that Bonzobur is the first of them to say that, asking their partner, Emerys, to give Bonzo that healing now. The firbolg leans in, placing his hand on Bonzo’s head wound. As the healing magic washes over him, everything around Bonzo shudders, and he wakes up back in the vaults.
 
-  
+
 
 Taking some deep breaths, Bonzo asks what happened, Galen sighing in relief. He asks if Bonzo’s okay, Bonzo telling him he’s not. Galen explains the events with the tomb and that they couldn’t wake anyone up, also commenting that the wall ate Beck. Bonzo says he had a weird dream, Galen asking about it, Bonzo explaining he was in shackles and being taken to Thronehold for trial. Galen asks what for, Bonzo telling him it was something in the war. Galen asks if he has a guilty conscious, Bonzo replying in turn, “Doesn’t everybody in the war?”
 
-  
+
 
 Bonzo says they need to get out of here, and he wants to check on his family, Galen telling him to calm down as he’s still in bad shape. Bonzo asks about Beck, Rydia pointing at the wall, Galen unable to really explain what’s going on. Whilst Bonzo is keen to get out, Galen points out they have no idea what’s going on out there and Bonzo should take a moment to recover before they even think about it.
 
-  
+
 
 Petr finds the floor beneath him starting to crumble as Rydia’s laughter joins the sounds emerging from the room. Cracks form along the cavern, the staff lodged into place in the ground. Leaping forward, Petr punches Rydia in the face before grabbing for his staff, but as he tries to pull it free, he finds it completely stuck in the ground. The floor is breaking away into larger and larger pieces, the ground seemingly moving beneath his feet. More and more eyes open up along the side of Rydia’s face, trying to scare Petr off, but he holds his ground, continuing to pull at the staff. The ground becoming more unstable, Petr manages to keep his balance as Rydia looks over to him.
 
-  
+
 
 “Well if I didn’t know any better, I’d say we weren’t friends anymore,” she tells him, before darkness erupts around them, seeping up through the cracks in the floor. Petr can hear a cacophony of whispers and slurping noises, the cold biting into him as he finally manages to get the staff free. The floor is still writhing beneath him, whatever ritual is taking place still continuing regardless. Two blasts whizz past Petr as the floor continues to fall away, who turns to try and run out towards where the cavern entrance was. However as he steps out, his foot misses the floor and he starts to fall into the endless cold, black void that’s opened up below, spinning through the air. As he falls, there’s a point of light that grows, Petr seeing himself lying on a red divan. After a few moments, he lands in his body, waking up with a violent start as he vomits over the side of the couch.
 
-  
+
 
 Petr looks up, seeing Beck who asks if he’s okay. Petr asks what Beck’s doing there and if he’s real, which Beck confirms, although he asks the same question in return. With a tentative understanding, they agree they don’t really know what’s happening. Petr explains that he got knocked out by a skeletal snake and he ended up back home, and Rydia was there, but he doesn’t think it was really her as she was acting odd. Beck says Metrol is right outside, pointing to a door, but Akulele says she doesn’t think it is, and they should keep the door closed, as the meeting isn’t supposed to be happening.
 
-  
+
 
 Akulele waves her hand to take care of the vomit, explaining to Petr that she’s interested in Beck’s help, but Beck says they’re something of a package deal. Petr says he’s in if it gets them out of here, Beck relaying Akulele’s proposal to him. Akulele says she has no idea where Korlasz is, it’s only a small force left behind - she’s sorry to hear that was too much for them, as this plan better work. Beck says he’s still unconscious somewhere, but Akulele reaches out to tap his shoulder, telling him she’s helped already - they’re both awake thanks to her help. Their other friend in Masvirik’s Nightmare managed to escape himself, although she doesn’t know how. She has a strong sense of who is with the Cold Sun, and for now none of their group are - but she doesn’t know how their friend escaped. “He has his ways,” Beck says, although he has no idea who Akulele is talking about.
 
-  
+
 
 Akulele says she can get them back to the surface, but from what she heard their friends are locked in a vault which she doesn’t know how to open. Beck explains they have the key, so they can come out whenever, although when they want to come out might be debatable given what they left outside. Akulele says they need to avoid running into Jakzi, but other than that the men will listen to her - if she tells them to let the group go, they’ll do so. Akulele says she’ll make some preparations and then see about reunited Beck and Petr with their friends.
 
-  
+
 
 Finishing up their rest, Galen admits he’s curious enough to want to know what’s going on with the tomb, Bonzo saying he wants to move out of the way first. Galen ask if there’s any objections, Bonzo saying he doesn’t want Galen to end up unconscious as well, seriously advising against it. Rydia says they need to get their friends out of the wall, and no one wants to open the door. Galen points out he’s opening there’s answers about why the wall is able to eat people down here, but there might be nothing and it might just hurt. Bonzo asks where Beck disappeared, Galen pointing out the scorch mark as Rydia admits she attacked the wall when Beck vanished.
 
-  
+
 
 Bonzo inspects it looking for clues, but its mostly too damaged to make out, although Bonzo recalls the moving frescos from earlier. He explains the walls are alive, which Galen finds hard to take in. Keen to demonstrate, Bonzo takes a bloody piece of his clothing, smearing it across the wall as all three of them can see the colours grow more vibrant, the dragonborn feasting on the blood. Galen asks him not to do it again, which Bonzo promptly does anyway, Galen yelling at him in return. Rydia notices the colours seem to be less vibrant the second time, as if the wall is growing full. Remembering the research he did, Galen remembers the main thing here is that the Cold Sun corrupts everything here - and loves to corrupt anything related to dragonborn, as punishment for locking him beneath the city. The frescos seem important, as they tell the story of the people here, and it seems like a good target for him to manipulate.
 
-  
+
 
 Meanwhile the images in the Tomb seemed to involve punishment, so it’s possible that whoever’s in there is somehow still alive, which would explain the screaming. Recalling his research, Galen remembers that a long time ago, Haka’thorvak was a central city for the dragonborn population of Q’Barra. Chansar the Pale led six dragonborn in rebellion against the crown, Chansar also known as the Scaled Tyrant. Galen admits they should maybe just get out of the vault, the three of them making their way upstairs to check outside.
 
-  
+
 
 Akulele returns to Beck and Petr, accompanied by a black lizardfolk wielding a ship’s anchor. She introduces him as her son, Sekkalok, who only grunts when she explains these people are going to help him seize power. Akulele explains she’s going to grow some harmless flowers on Beck and Petr’s heads, which will look like they’re controlling them. Beck notes that something about Akulele seems to be desperate, her plan seemingly a last attempt for her. Cautious, Petr and Beck accept her plan, Akulele offering to demonstrate on Beck first for Petr’s sake, but Petr tells her that’s a coward’s move, and insists she try it on him first.
 
-  
+
 
 Growing a flower in her hand, she explains the flower is Yellow Musk, which has the ability to take over a brain and turn the person into a mindless drone. However, her version is harmless, and she proceeds to grow them on Beck and Petr’s heads. She tells Sekkalok to take the rear as she takes the lead, placing Beck and Petr in the middle. As she opens the door to the outside, there are ten other Black Scales outside, patching up their wounds and the Naga is still hovering over the group. The place is completely dark, Beck and Petr mostly operating on sound alone as they move forward through enemy territory, guided forward by Sekkalok.
 
-  
+
 
 Making their way through the halls, they take a left, followed by another left and then a right at the end of a long hall. As they do, she stops, a voice hissing from somewhere in the distance. It asks what Akulele is planning to do with them, and she explains she was going to take them upstairs and use them as scouts as they haven’t heard from the other party yet. The voice asks if she wants them baptised, a liquid sloshing somewhere, but Akulele refuses, explaining she has more control and can see through their eyes like this. They don’t have the gems to take over their vision yet, the voice accepting this as she passes through, continuing on their way.
 
-  
+
 
 Walking in complete darkness, Sekkalok guides them forward, the group exiting through a door as Beck and Petr see some light in the distance and a familiar hallway which is abandoned now, a torch burning on the ground. As they approach, Beck and Petr can see Bonzo, Galen and Rydia emerging from the vault in the distance, carefully looking outside.

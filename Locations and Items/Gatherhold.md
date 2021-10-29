@@ -1,10 +1,10 @@
 # Gatherhold
 
-  
+
 
 The one big town in the plains. Place where the halflings gather for their tribe councils. Rather small.
 
-  
+
 
 - **Gold Dragon Inn** - HQ of House Ghallanda
 - **Gatherhold Hall** - Home to the council of tribes

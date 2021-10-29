@@ -1,6 +1,5 @@
 # Previous sessions
 
-
 ```dataview
 table date, order
 from "Session recap"
