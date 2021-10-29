@@ -8,5 +8,5 @@ Notable people:
 - **Nerima**: Leader of the three remaining guardians in Haka’thorvak, part of the Order of the Corroded Shield.
 - **Rashaak**: Ancient black dragon.
 - **Korlasz**: Leader of the blackscales
-- **Akulele**: Shaman of the blackscale tribe, wants her son Sekalok to be in power.
+- **[[Akulele]]**: Shaman of the blackscale tribe, wants her son Sekalok to be in power.
 - **Orvex**: Human prisoner of the Blackscales

@@ -11,7 +11,7 @@ date: October 13th, 2021
 
 
 
-Both Galen and Rydia see Akulele, Petr, Beck and Sekkalok approach, all of them having spotted them in turn as well. Akulele tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
+Both Galen and Rydia see [[Akulele]], Petr, Beck and Sekkalok approach, all of them having spotted them in turn as well. [[Akulele]] tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
 
 
 
@@ -19,11 +19,11 @@ Not quite trusting it, Galen asks her who she is, so she explains she’s made a
 
 
 
-Urging them all to be quiet, Akulele says they should go upstairs, where they might be able to talk more freely. She leads them up the stairs, Galen, Rydia and Bonzo only just managing to hide in the staircase leading up as another black scale approaches Akulele, asking her to explain what she’s doing and where she’s going.
+Urging them all to be quiet, [[Akulele]] says they should go upstairs, where they might be able to talk more freely. She leads them up the stairs, Galen, Rydia and Bonzo only just managing to hide in the staircase leading up as another black scale approaches [[Akulele]], asking her to explain what she’s doing and where she’s going.
 
 
 
-As that black scale moves away, they all move up. The sun is low in the sky, elongated shadows indicating it’s much later in the day now. Akulele guides them all to the stables, where the human the group spotted before is still tied up.
+As that black scale moves away, they all move up. The sun is low in the sky, elongated shadows indicating it’s much later in the day now. [[Akulele]] guides them all to the stables, where the human the group spotted before is still tied up.
 
 
 
