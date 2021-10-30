@@ -5,7 +5,6 @@ order: 002
 ---
 # Land of Spirits
 
-
 As Petr stares into the eyes of the troll, it immediately reacts, but can’t really go anywhere as it’s tightly strapped into this place. Back in the den, all the dreamers suddenly sit up straight. Their eyes are completely misty and the others can see rotting teeth as their mouths are agape. “That doesn’t seem normal,” Beck comments, as Rydia notices that the voices in her head completely stopped. She tells the others she can’t hear them anymore, just as all the halflings in unison say “I have arrived at vermishard six, master. What would you have me do?”
 
 Beck immediately recognises vermishard; the City of Metrol was built around these large stone pillars, seven in total. On top of them were palaces of the royal family of Cyre and several palaces of dragonmarked houses; these were the most exclusive places in Metrol. He knows vermishard six is near the river, and it contains one of the many palaces of the royal family of Cyre; the Wynarn family.

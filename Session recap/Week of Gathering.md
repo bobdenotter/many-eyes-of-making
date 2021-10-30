@@ -6,7 +6,7 @@ order: 000
 
 ## Petr, D4 and Beck
 
-Though the war is mostly behind you, the tensions in the continent of Khorvaire and the world of [[Eberron]] are still high. The last couple of days have been a nailbiter for the crew of the [[Heritage]]. With the rotor smoking, they’ve been limping their way along the outskirts of Gatherhold.
+Though the war is mostly behind you, the tensions in the continent of Khorvaire and the world of [[Khorvair (Eberron)]] are still high. The last couple of days have been a nailbiter for the crew of the [[Heritage]]. With the rotor smoking, they’ve been limping their way along the outskirts of Gatherhold.
 
 It’s nighttime when they drop anchor right above the agreed upon drop off point, above an abandoned crevasse. Three of the twelve moons are visible in the night sky, leaving it quite dark out. Through the bit of moonlight, they can still see the abandoned dwellings in the rocks.
 
@@ -28,7 +28,7 @@ About thirty to forty minutes later, two shapes come wandering into this crevass
 
 They approach the boat. “Good evening,” the orc says, addressing whoever’s in charge, to which Beck says that technically he’s the one in charge. He asks for the goods, so Beck asks for the pay. Dugorim complains about the trailing smoke cloud the ship left behind, he was hoping for a bit more carefulness. Beck points out they ran into some trouble; they need the money to be able to fix the ship.
 
-Beck leads Dugorim down below to take a look at the Warforged as Plucky, the minotaur, stays outside. D4 quietly prods at Beck, asking if they shouldn’t wait for the captain, to which Beck points out he doesn’t think the captain will be back in time. “We can handle it.”
+Beck leads Dugorim down below to take a look at the Warforged as [[Plucky]], the minotaur, stays outside. D4 quietly prods at Beck, asking if they shouldn’t wait for the captain, to which Beck points out he doesn’t think the captain will be back in time. “We can handle it.”
 
 The deck below is modest, and currently rather full with about 17 derelict Warforged, which gives off an eerie vibe of these undead faces staring. Dugorim wanders around a bit, inspecting the merchandise, before turning to Beck. “It appears there’s only 17, I thought we agreed on 20.”
 

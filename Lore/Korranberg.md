@@ -1,6 +1,5 @@
 # Korranberg
 
-
 Notable people:
 
 - **Ivello d’Lyrrandar**: Shady half-elf looking for the secrets of Elemental binding
