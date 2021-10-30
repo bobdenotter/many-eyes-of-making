@@ -1,0 +1,4 @@
+# Dugorim
+
+
+![[dugorim.jpg]]

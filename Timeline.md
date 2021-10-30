@@ -4,9 +4,9 @@
 
 | Date | |
 |-----|-----|
-| 4th of Eyre | First round of dinosaur races, Rydia feels good again, The Heritage comes limping into Gatherhold during the night. |
-| 5th of Eyre | The crew of the Heritage has many meetings, Get harrased by harpies, all meet in a tavern. Went to the Glowing Kipper for Orryn to Fuck. Shit. Up. Freed Anders Solomar from the Daask |
-| 6th of Eyre | Woke up in the Golden Dragon inn. Talked with Orryn Tullen. Prepared for travel. Travel to Krezent by airship. |
+| 4th of Eyre | First round of dinosaur races, Rydia feels good again, [[The Heritage]] comes limping into Gatherhold during the night. |
+| 5th of Eyre | The crew of the Heritage has many meetings, Get harrased by harpies, all meet in a tavern. Went to the Glowing Kipper for Orryn to Fuck. Shit. Up. Freed [[Anders Solomar]] from the Daask |
+| 6th of Eyre | Woke up in the Golden Dragon inn. Talked with [[Orryn Tullen]]. Prepared for travel. Travel to Krezent by airship. |
 | 7th of Eyre | Arrival in Maerin. Went to Krezent, searched town, eventually headed into the mine. Found an ancient docent. Learned about Dal’Quor and a possible Manifest Zone. |
 | 8th of Eyre | Middle of the night: D4 and Beck uncover the message given off by the docent. Captain leads the group on a wild-goose-chase through the boneyard to meet with Arag, the stone giant. |
 | 9th & 10th of Eyre | Travel back to Gatherhold |

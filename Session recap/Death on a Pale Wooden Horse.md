@@ -11,7 +11,7 @@ date: June 9th, 2021
 
 
 
-The day before, aboard the Heritage, Petr couldn’t get all the dream imagery out of his mind. He sat down in his quarters, mixed some dried mushrooms with some Dream Lily and poured some boiling water on it. As he waits for the substances to kick in, the incense smoke around him starts to change into a thick, yellow haze as a rough wind starts to blow around him.
+The day before, aboard [[The Heritage]], Petr couldn’t get all the dream imagery out of his mind. He sat down in his quarters, mixed some dried mushrooms with some Dream Lily and poured some boiling water on it. As he waits for the substances to kick in, the incense smoke around him starts to change into a thick, yellow haze as a rough wind starts to blow around him.
 
 
 
@@ -91,7 +91,7 @@ Atop the train, Vornak awakes confused, unsure how he got to the top of the trai
 
 
 
-Meanwhile, down below, Beck and Galen have reached the fifth cart, where they run into Dugorim, as well as a few more jackals, some of the passengers seemingly dropping a polymorph effect as Beck and Galen move further in. Both of them get the sense that the remaining passengers are trying to figure out if more is about to come, but they’re not quite panicking yet, despite these odd circumstances and the loud back of the thunderwave they just heard.
+Meanwhile, down below, Beck and Galen have reached the fifth cart, where they run into [[Dugorim]], as well as a few more jackals, some of the passengers seemingly dropping a polymorph effect as Beck and Galen move further in. Both of them get the sense that the remaining passengers are trying to figure out if more is about to come, but they’re not quite panicking yet, despite these odd circumstances and the loud back of the thunderwave they just heard.
 
 
 
@@ -251,7 +251,7 @@ With the thirty minutes passed, D4, Beck and Galen head up onto the roof via one
 
 
 
-It’s another fifteen minutes or so before they can see the Heritage on the horizon. The captain and Petr lower the ship, throwing down the ladder so everyone can get back aboard the ship. As soon as they’re on board the ship, the captain congratulates them all on a job well done.
+It’s another fifteen minutes or so before they can see [[The Heritage]] on the horizon. The captain and Petr lower the ship, throwing down the ladder so everyone can get back aboard the ship. As soon as they’re on board the ship, the captain congratulates them all on a job well done.
 
 
 

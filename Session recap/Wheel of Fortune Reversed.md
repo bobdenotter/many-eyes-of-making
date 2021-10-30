@@ -7,7 +7,7 @@ date: July 14th, 2021
 
 One of the gnomes on griffins reaches for one of the many wands all of them seem to carry in holsters, speaking into it, which makes his voice echo along the deck. “Welcome to Korranberg. Your vessel is unknown to us, you are to follow us to docking bay 5 and prepare for inspection of your goods.”
 
-Korranberg the city is built mostly on an island in the middle of a river and as they fly over, they see that the western bank of the river is where most of the city is. The Heritage flies over massive waterfalls that emerge from the river; there are large water turbines that capture the power of the river.
+Korranberg the city is built mostly on an island in the middle of a river and as they fly over, they see that the western bank of the river is where most of the city is. [[The Heritage]] flies over massive waterfalls that emerge from the river; there are large water turbines that capture the power of the river.
 
 Everything in the city is illuminated, in stark contrast to Gatherhold. Most of the space on the island is taken up by a massive building; a soaring tower with eight domes around it. Both Bonzo and Galen know that this is the library. On the western shore of the river is the rest of Korranberg; Bonzo and Galen also know that most of the people live on the shore, and work on the island. There’s a plethora of flying mounts and carpets that people are using to ferry around town.
 

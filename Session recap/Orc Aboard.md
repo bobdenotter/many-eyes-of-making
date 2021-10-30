@@ -5,7 +5,7 @@ date: June 2nd, 2021
 
 # Orc Aboard
 
-Not long after what happened at the hotel, the group finds themselves at Madame Ghallanda’s Glamorously Gratifying Delights. One by one, the group is escorted into a room where Rosevyr Ghallanda is waiting for them, Beck the last one to find himself waiting to be retrieved. A red-haired woman wearing a turquoise robe comes walking up to him, introducing herself as Velvet. “Will you follow me?”
+Not long after what happened at the hotel, the group finds themselves at Madame Ghallanda’s Glamorously Gratifying Delights. One by one, the group is escorted into a room where [[Rosevyr Ghallanda]] is waiting for them, Beck the last one to find himself waiting to be retrieved. A red-haired woman wearing a turquoise robe comes walking up to him, introducing herself as Velvet. “Will you follow me?”
 
 Having seen the others head in that same direction, Beck follows Velvet, who leads him to well-lit cellar. There’s a large banner on the wall, featuring the contours of a blink dog - House Ghallanda’s sigil. There’s comfortable red couches, leather chairs and a saloon table filled with papers, which is where the rest of the party is seated.
 
@@ -87,7 +87,7 @@ This alerts Velvet to his presence, who starts running away from him. Galen give
 
 Velvet tries to climb over a fence to get away from Galen, but he manages to pull her down, grabbing hold of her. She looks up at him, scared, realising she’s been caught. Galen asks her to tell him what she was doing, and he watches as her entire composition and facial expression changes to something much blander. “To be honest, I came to see if you got on board the train correctly. My madame had heard of your little meeting in the Golden Dragon Inn, with the undead man.”
 
-She explains that Rosevyr made a deal with the airship crew, not knowing that Rydia and Galen would be part of this deal as well. “She hired the crew of the Heritage; she had no idea you were part of that.” She doesn’t so much have a problem with Galen or Rydia (yet), nor does she have a problem with Karrnath. Galen points out that if Rosevyr has a personal issue with him, then she should tell him. “The meeting in the Golden Dragon was a personal matter; it has nothing to do with this mission.” Velvet says she’ll pass this along.
+She explains that Rosevyr made a deal with the airship crew, not knowing that Rydia and Galen would be part of this deal as well. “She hired the crew of [[The Heritage]]; she had no idea you were part of that.” She doesn’t so much have a problem with Galen or Rydia (yet), nor does she have a problem with Karrnath. Galen points out that if Rosevyr has a personal issue with him, then she should tell him. “The meeting in the Golden Dragon was a personal matter; it has nothing to do with this mission.” Velvet says she’ll pass this along.
 
 Meanwhile, Beck watches as an orc appears out of a hole in the wall of the massive hangar in front of him, carrying a massive, fancy suitcase. “That’s a great disguise,” the orc comments. “Too bad it’s going to go away.” He then hands him the suitcase, before saying he was never here. Beck says he understands, accepting the suitcase, and the orc crawls back into the hole.
 
@@ -145,4 +145,4 @@ Rydia walks up to the door that leads to the newly attached wagons; the two warf
 
 She continues trying to talk to them, but they don’t give her much. As she’s talking to them, she casually leans against the door that leads to the other carts, looking through the window that lets her look outside. Sadly, she can’t see much through it, as there are no windows on the carts that were just attached. “I’ll go back to my boring day, thanks for not making it better,” Rydia then says, heading back to join the others again in the second wagon.
 
-As she and D4 make their way back, they pass by the man sleeping under a blanket again. As they pass by this man, D4 gets a better look at the man, suddenly realising he looks familiar. The man asleep under the blanket is Dugorim, the one he and the others initially met aboard the airship, who he knows is part of the Daask.
+As she and D4 make their way back, they pass by the man sleeping under a blanket again. As they pass by this man, D4 gets a better look at the man, suddenly realising he looks familiar. The man asleep under the blanket is [[Dugorim]], the one he and the others initially met aboard the airship, who he knows is part of the Daask.

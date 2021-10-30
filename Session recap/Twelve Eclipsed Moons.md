@@ -27,9 +27,9 @@ Galen points out that this man they just captured is a legendary criminal, but t
 
 Their tagteaming seems to convince the gnome somewhat, who lowers her wand and then whistles, two griffins with gnomes riding on them landing a couple dozen away from everyone. The two new gnomes dismount their griffins, the older one addressing the group. He asks what the problem is, Lux telling him she doesn’t think there’s a problem, as all they did was apprehend a criminal for them. The gnome-ish woman nods, confirming their story.
 
-The older gnome asks if it’s alright the Trust takes over, after which Lux asks about their reward and Galen points out who exactly Ivello is. The gnomes say they’ll look into things and if this checks out, they’ll be in touch again later about the potential reward. Lux tells them they’re docked at the Skyport, and the gnomes can find them at the Heritage later.
+The older gnome asks if it’s alright the Trust takes over, after which Lux asks about their reward and Galen points out who exactly Ivello is. The gnomes say they’ll look into things and if this checks out, they’ll be in touch again later about the potential reward. Lux tells them they’re docked at the Skyport, and the gnomes can find them at [[The Heritage]] later.
 
-After everyone climbs back down from the roof, the Trust takes the group’s statements before they’re asked to wait aboard the Heritage, which they do. It’s Nelson, the dock master, who comes to find them a little later, with a message from the Trust, telling them that they’ll be given a 500gld reward for apprehending Ivello, some money having been deducted for structural damage.
+After everyone climbs back down from the roof, the Trust takes the group’s statements before they’re asked to wait aboard [[The Heritage]], which they do. It’s Nelson, the dock master, who comes to find them a little later, with a message from the Trust, telling them that they’ll be given a 500gld reward for apprehending Ivello, some money having been deducted for structural damage.
 
 Lux makes sure to hide the Dream Lily as soon as they’re back on the ship.
 

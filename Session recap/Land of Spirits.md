@@ -27,7 +27,7 @@ Looking around the room, he then picks up on what sounds like a muffled scream f
 
 They start moving some crates to the side, revealing a narrow round hole, just big enough for a halfling to crouch through, which is filled with webbing. Halfway through there’s a cocoon of sorts, which is where the screaming is coming from. Beck reaches in, managing to pull the cocoon out, removing some of the webbing to reveal a ornately dressed halfling.
 
-Those who have already met him recognise councilman Anders Solomar, who asks the group what the hell they’re doing here. “We were delivering a message,” Beck shares, to which D4 asks what Anders is doing here. “Receiving a message of sorts,” he says, getting up and pushing the webbing away from himself.
+Those who have already met him recognise councilman [[Anders Solomar]], who asks the group what the hell they’re doing here. “We were delivering a message,” Beck shares, to which D4 asks what Anders is doing here. “Receiving a message of sorts,” he says, getting up and pushing the webbing away from himself.
 
 Both Beck and Galen then notice that the webbing is moving, Beck suggesting they should cover the hole again, so they start moving the crates again. “I have too many bruises, I do not want to get into a fight again today,” Galen points out, helping Beck move back the crates as they find themselves eye to eye with a large spider. The spider tries to attack Beck in the process, but it misses and Beck and Galen still manage to get the crates in front of this entrance in time, blocking off the hole. One thick hairy leg still tries to claw at them, but the spider can no longer get to them.
 

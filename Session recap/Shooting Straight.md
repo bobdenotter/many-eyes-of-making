@@ -15,7 +15,7 @@ Two warforged walk in the room right after he hides, deep in discussion. “I do
 
 “Because House Cannith gave me life, and has always been kind to me,” the first warforged responds, to which the other points out that they’re just toy soldiers to these people. “We could make our own gods.” The first warforged seems tired of the other’s talk of revolution. “You heard master Jonah. The becoming gods is a fabrication myth. The only divinity is in blood, which neither you or I possess.”
 
-He then asks the other warforged to take the net back up, which he does and as both of them move away, Bonzo crawls further into the bowls of the Heritage to stay safe. Some more time passes until Bonzo hears a very loud gunshot coming from the back of the ship. Curious, Bonzobur starts moving towards the noise to try and see what’s happening, doing so carefully.
+He then asks the other warforged to take the net back up, which he does and as both of them move away, Bonzo crawls further into the bowls of [[The Heritage]] to stay safe. Some more time passes until Bonzo hears a very loud gunshot coming from the back of the ship. Curious, Bonzobur starts moving towards the noise to try and see what’s happening, doing so carefully.
 
 Having just installed the crystal, Beck and Galen head back upstairs. Beck keeps going as Galen hears something in the walls. He goes to investigate as Rydia, on the ground again and face to face with the man in black, moves in closer. Her entire face splits open into a single large mouth and she goes in for the attack, but then stops herself at the last moment, recomposing herself. “I don’t want this. Stop trying to be my food,” she tells the man, standing up and lowering her arms as she tries to keep herself in control.
 

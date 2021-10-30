@@ -325,7 +325,7 @@ Beck points out he thinks the conversation earlier went well enough, saying he�
 
 
 
-They take the Heritage down to the former arena of Haka’thorvak. They can see a ruined amphitheatre that looms over the surrounding buildings. Vines cling to its steps and animal statues line its stands. The ground is partially underwater and muddy and there’s an eerie silence that hangs over the area. Nothing seems to stir.
+They take [[The Heritage]] down to the former arena of Haka’thorvak. They can see a ruined amphitheatre that looms over the surrounding buildings. Vines cling to its steps and animal statues line its stands. The ground is partially underwater and muddy and there’s an eerie silence that hangs over the area. Nothing seems to stir.
 
 
 

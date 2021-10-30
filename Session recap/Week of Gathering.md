@@ -6,7 +6,7 @@ order: 000
 
 ## Petr, D4 and Beck
 
-Though the war is mostly behind you, the tensions in the continent of Khorvaire and the world of [[Khorvair (Eberron)]] are still high. The last couple of days have been a nailbiter for the crew of the [[Heritage]]. With the rotor smoking, they’ve been limping their way along the outskirts of Gatherhold.
+Though the war is mostly behind you, the tensions in the continent of Khorvaire and the world of [[Khorvair (Eberron)]] are still high. The last couple of days have been a nailbiter for the crew of the [[The Heritage]]. With the rotor smoking, they’ve been limping their way along the outskirts of Gatherhold.
 
 It’s nighttime when they drop anchor right above the agreed upon drop off point, above an abandoned crevasse. Three of the twelve moons are visible in the night sky, leaving it quite dark out. Through the bit of moonlight, they can still see the abandoned dwellings in the rocks.
 
@@ -18,7 +18,7 @@ Petr is also excited to be here; he’s looking for a stiff drink, and looks for
 
 The captain emerges from below deck, addressing the group. “Okay so, our contact is supposedly coming soon-ish. If you can get the ship to ground level so that they might inspect the wares, I think that’ll be good. I’m going into town for a bit on my own, just to set up some meetings for us tomorrow. We desperately need some work, and I’m also interested in maybe finding us a flying dinosaur; just y’know, to do tours around the ship whilst we’re mid flight, maybe send someone down as a runner as opposed to having to bringing the entire ship down.” She would like something not mechanical for this.
 
-She excuses herself, assuring the group everything should go as planned, reminding them that the name of their contact was Dugorim. Before she leaves, D4 asks about the warforged. She tells him they’re dropping them off tonight, so D4 asks again if he can’t take one of their legs. “We should try to avoid any conflict with these guys, we’ll see if we can find you a scrapper in town.”
+She excuses herself, assuring the group everything should go as planned, reminding them that the name of their contact was [[Dugorim]]. Before she leaves, D4 asks about the warforged. She tells him they’re dropping them off tonight, so D4 asks again if he can’t take one of their legs. “We should try to avoid any conflict with these guys, we’ll see if we can find you a scrapper in town.”
 
 She tosses the ladder overboard and starts climbing down. As the captain heads into the town, the others drop the anchor, which increases in weight and starts pulling the ship down as it hits the ground. They’re slowly lowered to the ground, looking around to try and keep an eye out for this contact that’s supposed to arrive.
 
@@ -112,7 +112,7 @@ The next morning comes, the sun is bright. Eerie blue glow of Lake Cyre is repla
 
 As they’re walking into town, the captain suggests they take two meetings at the same time, to expedite the four meetings they have that day. Their first meetings are with the lady at the brothel and the councilmen, with later the meeting with the Jackdaws, as well as their meeting at the Glowing Kipper. Fianin suggests they go to the Glowing Kipper together, as strength in numbers might work in their advantage for that one.
 
-Petr agrees to go with the captain to the meeting with the councilman, as Beck and D4 agree to head to the brothel and speak with Rosevyr Ghallanda. Before they part ways, Beck checks in with the captain what exactly they were hoping to get from Rosevyr. Fianin tells him that Rosevyr Ghallanda runs the brothel, and she’s an information broker. She’s one of the Sisters of Sin, and the brothel here is part of a network of brothels that sell information. She should have a job for them, and, whilst they’re there, they could ask for some information as well. The group quickly talks about what they want to know more about, deciding to ask about the missing silver, as well as maybe Dugorim and Plucky and whoever they work with.
+Petr agrees to go with the captain to the meeting with the councilman, as Beck and D4 agree to head to the brothel and speak with [[Rosevyr Ghallanda]]. Before they part ways, Beck checks in with the captain what exactly they were hoping to get from Rosevyr. Fianin tells him that Rosevyr Ghallanda runs the brothel, and she’s an information broker. She’s one of the Sisters of Sin, and the brothel here is part of a network of brothels that sell information. She should have a job for them, and, whilst they’re there, they could ask for some information as well. The group quickly talks about what they want to know more about, deciding to ask about the missing silver, as well as maybe Dugorim and Plucky and whoever they work with.
 
 The brothel is closer, so Beck and D4 split off first, heading inside. Though the facade outside is beautiful, and the inside is also well decorated, it also comes across as a little tacky. There’s thick, purple curtains, and paintings of naked people in garden scenes decorating the place.
 
@@ -120,7 +120,7 @@ They’re greeted by an older looking halfling woman, wearing a gold and blue dr
 
 As they take a seat at this table, Rosevyr properly introduces herself. She explains that her last name is Ghallanda, and not d’Ghallanda, as she doesn’t associate with her house anymore. They apparently deemed her profession not worthy of a Dragonmarked house. Beck and D4 introduce themselves, after which Rosevyr asks Beck if he’s Cyrian. When he confirms this, she tells him that he in particular might find some of the information she has interesting.
 
-She goes on to tell them that an Aundarian nobleman found himself in bed with one of her most popular humans, and during this time he shared some information she wants looked into. She calls out for a man named Evveryn, who she explains is the human that this Aundarian nobleman shared his bed with.
+She goes on to tell them that an Aundarian nobleman found himself in bed with one of her most popular humans, and during this time he shared some information she wants looked into. She calls out for a man named [[Evveryn]], who she explains is the human that this Aundarian nobleman shared his bed with.
 
 This nobleman apparently spoke of something that’s been retrieved from the Mournland, that will be taken to Fairhaven by lightning rail in about six days time. Rosevyr wants someone to take this something from them. As she finishes telling Beck and D4 about this, they’re joined by a human male. He has dark hair, a mustache, and is wearing a cropped short that’s barely tied together across his waist. He’s clearly either still drunk or somewhat hungover, but upon Rosevyr’s request, he shares more of what he heard.
 
@@ -134,7 +134,7 @@ Beck then asks about Dugorim and Plucky, to which Rosevyr admits she does know a
 
 With some of their questions answered, Beck asks Rosevyr when she would like to know whether or not they want to take the job, and she tells him and D4 that she’d like an answer within 3 days. They take their leave then, heading outside to go and meet up with the others. As they walk around town, they notice some massive dinosaurs, being accompanied by halflings as they walk around the town. They seem to have racing stripes painted on their backs.
 
-Meanwhile, Fianin and Petr have gone to meet up with the councilman, Anders Solomar, who Fianin explains might be able to help them get that flying dinosaur she’s so interested in. They enter into a massive hall, which seems largely empty, with no real designated areas except for what looks like an audience area. There’s two small, halfling sized doors on either side of the hall, and it’s quiet; they seem to be alone in the building.
+Meanwhile, Fianin and Petr have gone to meet up with the councilman, [[Anders Solomar]], who Fianin explains might be able to help them get that flying dinosaur she’s so interested in. They enter into a massive hall, which seems largely empty, with no real designated areas except for what looks like an audience area. There’s two small, halfling sized doors on either side of the hall, and it’s quiet; they seem to be alone in the building.
 
 The captain calls out, asking if anyone’s there and then one of the doors on the side opens up and an ornately dressed halfling man emerges. He’s ornately dressed in strange black and white attire, with a pointy hat in the same colors. He’s also wearing a golden necklace and carries a gold and wooden walking stick.
 
@@ -170,9 +170,13 @@ They say their goodbyes to Yasseem and Banana Candy and climb up onto the bridge
 
 Petr almost instantly recognises the powder, knowing it to be Dream Lily, a psychoactive drug. The group notes that this is not the first time they’ve encountered a “lily” in the past few days; they were also told to ask for a lily at the Glowing Kipper. Petr knows that Dream Lily is illegal in most of the Five Nations, but he’s unsure about the rules here in Talenta.
 
+![[race.png]]
+
 Knowing they still have other meetings to go to, they all start heading towards the Salty Hag, discussing harpies and whether or not this one was acting on her own. As they walk away from the market, the races are underway, most people having gone there, which leaves the streets largely abandoned. Most of the docks are devout of life as well, which seems to be what the goblin’s contact would prefer.
 
 As they approach the Salty Hag, the group sees a figure emerge from the festhall. It’s a floating woman, wearing a golden mask of a skull and a long, black dress. She’s wielding a massive golden scythe and is followed by four other figures; pale men, who seem to all be carrying a dead body.
+
+![[elven woman with scythe.jpg]]
 
 The woman raises up her scythe, slashing it through the air, somehow creating a tear in the fabric of this plane, revealing a space scape of sorts. As her henchmen move in through this tear she created, the woman spots the group. She smiles, wiggling her finger at them and as soon as she does so, all of them instantly forgot they just saw this happen.
 
@@ -191,6 +195,8 @@ Having spent some time in a less than perfect state, Rydia seems to be back to h
 Heading downstairs, the Golden Dragon Inn is carved out of the stone, Cyrian architecture that’s been neatly decorated. Magical torches line the halls, as floating disks take guests up and down the many floors of the inn. The marble floor of the entryway shines in the light, a large etching of the Mark of Hospitality carved into the stone floor of House Ghallanda’s headquarters. Heading outside, Galen and Rydia are immediately greeted by the bustle of the market, some people already into their ale as they prepare for a day of dinosaur races. After a few moments, they manage to spot a halfling with a large yellow hat, with ‘Bets here’ written on it. He rides an azure raptor through the crowd, visible above the people as Galen and Rydia approach him in the busy streets of town.
 
 Talking to the halfling, he informs the pair there are races today and tomorrow - if they decide to place a bet, he’ll take the gold, keep details of what they chose, and give them a betting chip. Should they have winnings, they can return with the chip to exchange it for their gold. Asking about today’s race, the halfling runs through the racers. The safest bet is an Ankleosaurus called Dirt Stomper. A slightly riskier option is an ill tempered Allosaur called Bone Cruncher, and there’s also a T-Rex called Banana Candy, who apparently managed to push some of the race into the crowd at the last meeting. The final of the main options is Big Honker, well trained, but older and approaching retirement age. There are other options, but according to the bookie, they’d be practically throwing away their money. Rydia puts a bet of four gold on Bone Cruncher, and the bookie tells them the race should start in about an hour.
+
+![[bookie.png]]
 
 Moving through the rest of the market, they come across a group of wagons parked up, with blue writing on the side - ‘Soldorak Markets - Riches from the Mror Holds’. An old dwavern woman manning the stalls spots Galen and Damned, summoning them over. The three wagons are arranged with awnings over them, with one of them marked as off limits, a rusty warforged perched on the steps of the wagon. They have a number of wares on display, iron and steel ingots, a variety of gems, weapons, hexagonal playing cards, along with a small golden scarab, locked away in a cage. Galen asks about it, the woman pulling it out to demonstrate, explaining that it sings a lullaby when placed near someone’s ear. The scarab appears to be a tiny construct, which sings as the woman places it on Galen’s shoulder.
 
@@ -222,7 +228,7 @@ Galen finishes climbing back out on deck, Damned managing to turn back into Rydi
 
 Rydia moves to check out the orc, mostly finding his weapons, although the two daggers he carries seem to have silvered tips. He also carries a small satchel, which has some fragrant sausage, likely used as rations for the road. Rydia doesn’t recognise the food, but takes it to use as ingredients at a later point, along with retrieving the two daggers.
 
-As they look around the deck, Galen hears a voice in his mind, “This is an official House Sivis announcement for Galen D’Arcy. Orryn Tullen would like to see you at the Salty Hag. End of message.” Galen relays this to Rydia, who points out they have an entire ship now. Galen knows they normally need someone of House Lyrandar to captain them, and points out they probably won’t be able to fly it anywhere on their own. Rydia says they don’t need to take it, but should probably take a look around before they head back. Galen agrees, heading to the Captain’s Quarters as Rydia explores the open deck.
+As they look around the deck, Galen hears a voice in his mind, “This is an official House Sivis announcement for Galen D’Arcy. [[Orryn Tullen]] would like to see you at the Salty Hag. End of message.” Galen relays this to Rydia, who points out they have an entire ship now. Galen knows they normally need someone of House Lyrandar to captain them, and points out they probably won’t be able to fly it anywhere on their own. Rydia says they don’t need to take it, but should probably take a look around before they head back. Galen agrees, heading to the Captain’s Quarters as Rydia explores the open deck.
 
 Galen finds the doors to the Captain’s Quarter’s locked, and makes short work of opening the lock with his thieves tools, carefully stepping inside. The room is well furnished, neatly arranged with a footlocker, a small desk and a table with a map of Khorvaire. There’s a large ledger on top of the desk, which Galen leafs through, finding a list of transactions, expenses and income laid out. The last income in the ledger was ‘Downpayment Harash delivery, 20 warforged, Gatherhold, 4th of Eyre, 700gp’. Realising the 4th of Eyre was yesterday, this makes the warforged Galen found in the hold all the more odd, as they’re still there. There’s also a distinctly larger number of expenses than incomes in the book. It seems they’ve had to spend a lot of money on fixing the ship lately.
 
