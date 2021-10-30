@@ -11,3 +11,13 @@ Notable locations
 * **Sprite Market** - Main market of Korranberg
 * **Bertrond Bakery** - On the edge of the sprite market, the ancestral home of Bonzobur
 * **Viqora’s Secret Stash** - Magic shop, seems to be in some extra planar dimension
+
+Notable people:
+
+- **Ivello d’Lyrrandar**: Shady half-elf looking for the secrets of Elemental binding
+- **Lassius Dorian**: Korran Teacher at Balinors Horn that seems to know Bonzobur
+- **Sharan**, **Bornird** and **Snippy Bertrond Boltstnapper**: [[Bonzobur Bertrond Boltsnapper]]’s direct family. (Mom, brother, sister) They run a bakery together.
+- **[[Jod Uthar Jarrell]]**: Fellow “Architect” to Bonzobur. Is working for Karrnath
+
+![[korranberg.jpeg]]
+

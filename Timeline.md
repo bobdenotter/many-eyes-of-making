@@ -8,7 +8,7 @@
 | 5th of Eyre | The crew of the Heritage has many meetings, Get harrased by harpies, all meet in a tavern. Went to the Glowing Kipper for Orryn to Fuck. Shit. Up. Freed [[Anders Solomar]] from the Daask |
 | 6th of Eyre | Woke up in the Golden Dragon inn. Talked with [[Orryn Tullen]]. Prepared for travel. Travel to Krezent by airship. |
 | 7th of Eyre | Arrival in Maerin. Went to Krezent, searched town, eventually headed into the mine. Found an ancient docent. Learned about Dal’Quor and a possible Manifest Zone. |
-| 8th of Eyre | Middle of the night: D4 and Beck uncover the message given off by the docent. Captain leads the group on a wild-goose-chase through the boneyard to meet with Arag, the stone giant. |
+| 8th of Eyre | Middle of the night: D4 and Beck uncover the message given off by the docent. Captain leads the group on a wild-goose-chase through the boneyard to meet with [[Arag]], the stone giant. |
 | 9th & 10th of Eyre | Travel back to Gatherhold |
 | 11th of Eyre | Crew meets with Anders Solomar and gets told about the old training base above Lake Cyre. Galen meets with Mortem Pent and snatches the pocket watch of returning. They have their meeting with Rosevyr. The heritage moves along ahead to meet the rest of the crew on their rendez-vous point. Crew meets Vornak d’Kundarak of the Chained Library. Petr has a dreamlilly-induced vision and gets message from the Gatekeepers |
 | 12th of Eyre | Seeing Velvet, Rosevyrs employee, in Gatherhold station, Train-trip. Getting Yonhanna’s love-letters for Aubrey d’Orien in a wooden horse. Finding a clue about a crystal. The Heritage gets confronted by ooze excretions from the mournland mists |

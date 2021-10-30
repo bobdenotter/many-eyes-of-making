@@ -33,7 +33,7 @@ Rydia realises that she saw the orc carrying a bow, linking the orc to what she 
 
 As they wait, Galen asks Petr to take a closer look at the poison dart. He realises it’s coated with something called oil of Taggit, a poison that acts upon contact with the skin and both knocks you out and poisons you. He also knows it’s used to make you appear dead when you really aren’t.
 
-They speak to Lumiz, trying to figure out who would want to attack her, but she turns the question around on them. Beck turns to Grekk, who’s since joined them as well, confirming that the other Daask member who kidnapped him was an orc, leading them to think that maybe this attack was aimed more at them somehow.
+They speak to Lumiz, trying to figure out who would want to attack her, but she turns the question around on them. Beck turns to [[Grekk]], who’s since joined them as well, confirming that the other Daask member who kidnapped him was an orc, leading them to think that maybe this attack was aimed more at them somehow.
 
 The mention of the Daask makes Bonzo uncomfortable, as he shares with the group that those are the people he was running away from in Gatherhold. Beck assures him that the rest of them aren’t really on good standing with the Daask either, so it’s likely they’re all targets when it comes to that.
 

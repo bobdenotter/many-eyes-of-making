@@ -7,7 +7,9 @@ date: July 14th, 2021
 
 One of the gnomes on griffins reaches for one of the many wands all of them seem to carry in holsters, speaking into it, which makes his voice echo along the deck. “Welcome to Korranberg. Your vessel is unknown to us, you are to follow us to docking bay 5 and prepare for inspection of your goods.”
 
-Korranberg the city is built mostly on an island in the middle of a river and as they fly over, they see that the western bank of the river is where most of the city is. [[The Heritage]] flies over massive waterfalls that emerge from the river; there are large water turbines that capture the power of the river.
+[[Korranberg]] the city is built mostly on an island in the middle of a river and as they fly over, they see that the western bank of the river is where most of the city is. [[The Heritage]] flies over massive waterfalls that emerge from the river; there are large water turbines that capture the power of the river.
+
+![[korranberg.jpeg]]
 
 Everything in the city is illuminated, in stark contrast to Gatherhold. Most of the space on the island is taken up by a massive building; a soaring tower with eight domes around it. Both Bonzo and Galen know that this is the library. On the western shore of the river is the rest of Korranberg; Bonzo and Galen also know that most of the people live on the shore, and work on the island. There’s a plethora of flying mounts and carpets that people are using to ferry around town.
 
@@ -181,9 +183,9 @@ They opt for basic repairs for the ship, at least for now, for which the materia
 
 Before they head out, Bonzo asks Lassius if there’s any news. He says elemental binding has been good and profitable, also points out they have a very good class this year. “Other than that, nothing strange has happened in the library, … although. I’ve heard some of my students say they saw a dead man wandering across Shindig Lane the other day,” Lassius offers, saying the Council and the Trust have already put a bounty out on the man.
 
-Bonzo says they were planning on dropping by the Council anyway, so they could potentially look into that, before he and Lux head back towards the ship to get the measurements. They find the Captain and Petr gearing up to leave, having packed their stuff already. The captain shares that they’ve procured tickets and they’ll be leaving in about two hours. Petr will be away for about six days and the captain plans on spending some time in Passage.
+Bonzo says they were planning on dropping by the Council anyway, so they could potentially look into that, before he and Lux head back towards the ship to get the measurements. They find the Captain and Petr gearing up to leave, having packed their stuff already. The captain shares that they’ve procured tickets and they’ll be leaving in about two hours. Petr will be away for about six days and the captain plans on spending some time in [[Passage]].
 
-She asks Lux if she doesn’t mind watching over the ship for a while, which she tells her isn’t a problem. Lux tells her to be careful, and she assures her she’ll be safe in Passage and she trusts the man she’ll be staying with, with her life. They share a hug, saying their good-byes for now before Lux and Bonzo take the measurements and start heading back towards the library.
+She asks Lux if she doesn’t mind watching over the ship for a while, which she tells her isn’t a problem. Lux tells her to be careful, and she assures her she’ll be safe in [[Passage]] and she trusts the man she’ll be staying with, with her life. They share a hug, saying their good-byes for now before Lux and Bonzo take the measurements and start heading back towards the library.
 
 As they’re walking out of Sky Port, Lux notices that someone’s following them. It looks to be a male half-elf, which stands out, considering that the organization known to be keeping an eye on things consists out of gnomes. Lux points this out to Bonzo and the two of them quickly discuss what to do, before Lux suggests they just approach this man and ask him what he wants.
 

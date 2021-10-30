@@ -51,7 +51,7 @@ He hands Petr the Staff of Four Seasons, before telling Petr that the Gatekeeper
 
 With the meeting over, there’s some idle chit-chat amongst people and Petr seeks out Thom again. “The staff fits you, that’s good,” Thom says, Petr thanking him for letting him have it. The two of them agree to have one last drink before Petr has to head back.
 
-The following morning, Petr awakes to most of the Gatekeepers having already left this place. He packs up his own things before heading back to Passage, where he seeks out the captain. Fianin tells him she’s not ready to head back yet. She tells him she hopes that Beck will take care of her duties in the meantime, and apologises profusely. “If there’s anything I can help you with, from up here, then please let me know, but I’ve missed Shivaro a lot, more than I’d like to admit. The amount of trouble we’ve been getting into recently … I’m just so tired of it.”
+The following morning, Petr awakes to most of the Gatekeepers having already left this place. He packs up his own things before heading back to Passage, where he seeks out the captain. Fianin tells him she’s not ready to head back yet. She tells him she hopes that Beck will take care of her duties in the meantime, and apologises profusely. “If there’s anything I can help you with, from up here, then please let me know, but I’ve missed [[Shivaro]] a lot, more than I’d like to admit. The amount of trouble we’ve been getting into recently … I’m just so tired of it.”
 
 Petr tells here there’s no need for her to apologise, assuring her they’ll take care of each other and of the ship. “We’ll see you when you’re ready to join us again.” She wishes him good luck, and Petr then continues on his journey, eventually finding his way back to Korranberg.
 
@@ -59,7 +59,7 @@ Meanwhile, back on the ship, Galen makes Rydia the worst cup of tea in the world
 
 Fellow Architects,
 
-Jodd on Council of Nine in Korranberg. Continuing plans reviving Kennrun with necromancy for Karnathy King. Help me stop him. Please reply.
+[[Jodd Uthar Jarell]] on Council of Nine in Korranberg. Continuing plans reviving Kennrun with necromancy for Karnathy King. Help me stop him. Please reply.
 
 BBB
 
@@ -181,11 +181,11 @@ Tired from a long day of travel, they decide to sleep on the airship. Beck takes
 
 Calling out in goblin, Rydia asks the goblin if he needs help, which the goblin confirms. The gnoll responds to this by smacking the goblin, which is all the proof Rydia needs to act; she reaches out and sends an Eldritch Blast at the gnoll. Petr can’t really see what’s going on, still preparing to fight, but it seems Rydia’s spell was enough to scare the gnoll off.
 
-Both Petr and Rydia jump overboard, Petr casting Feather Fall to make them slowly drift down to the water. They swim to shore and meet up with the goblin, recognising Grekk as they get closer; the goblin advisor who works with Orryn. He asks them why they’re here, a question Petr instantly turns around on him, pointing out that Grekk already knew they were heading to Q’barra.
+Both Petr and Rydia jump overboard, Petr casting Feather Fall to make them slowly drift down to the water. They swim to shore and meet up with the goblin, recognising [[Grekk]] as they get closer; the goblin advisor who works with Orryn. He asks them why they’re here, a question Petr instantly turns around on him, pointing out that Grekk already knew they were heading to Q’barra.
 
 “I was taken by old Redfang there, against my will,” Grekk explains, gesturing in the direction the gnoll ran. He thanks the both of them for helping him, adding that it’s somewhat unexpected. He elaborates, saying that when the Daask left Gaterhold, they had some more tricks up their sleeve. He was taken by both Redfang and another mercenary, an orc they called Crowhunter.
 
-“The thing is; they desperately wanted to know about a certain draconic prophecy. And I’m terribly sorry to tell you this, I sang like a canary,” Grekk admits, saying he told them they were coming here, that he told them about the Temple of Luminescent Blight; everything he discussed with Galen up front, he told them all of it. “Well if we know there’s gonna be a trap, it’s no longer a trap, is something the old Galen would say,” Rydia points out, before suggesting they continue this conversation aboard the ship, perhaps in the morning.
+“The thing is; they desperately wanted to know about a certain draconic prophecy. And I’m terribly sorry to tell you this, I sang like a canary,” [[Grekk]] admits, saying he told them they were coming here, that he told them about the Temple of Luminescent Blight; everything he discussed with Galen up front, he told them all of it. “Well if we know there’s gonna be a trap, it’s no longer a trap, is something the old Galen would say,” Rydia points out, before suggesting they continue this conversation aboard the ship, perhaps in the morning.
 
 They head back, Grekk once again saying he’s glad they showed up.
 
@@ -193,7 +193,7 @@ The following morning, they get a proper view of the city of New Throne. Most of
 
 The docks begin to come alive in the morning, with various minstrels walking around the city, playing for cash; it’s quite a lively city. With everyone now awake, they talk to Grekk, who tells the others the same thing he told Petr and Rydia the night before. Never having met each other before, Grekk and Bonzo introduce themselves to each other, Bonzo feeling like Grekk seems a little bit conniving.
 
-When asked about why he was brought here, Grekk says they wanted to know where the group was heading, and they brought him along as collateral. He once again admits that he told them everything, which doesn’t please Galen. He apologises for having told them, before pointing out there’s only two of them.
+When asked about why he was brought here, [[Grekk]] says they wanted to know where the group was heading, and they brought him along as collateral. He once again admits that he told them everything, which doesn’t please Galen. He apologises for having told them, before pointing out there’s only two of them.
 
 Galen asks about what they were interested in, Grekk saying they seemed interested in the prophecy. Galen says a trap’s not a trap if you know it’s there, verbatim saying the line Rydia said the night before.
 
@@ -203,7 +203,7 @@ They discuss whether or not they might be able to get a headstart by flying over
 
 Grekk explains the city a little, saying the city is run by a couple of wealthy land owners. “The one in charge of the guides is called Rashida Talro'a,” Grekk says, but he’s not sure if Redfang went to meet with one of her guides specifically, he simply overheard a conversation. Rydia then asks about the laws in this town, Grekk saying the laws are very loose.
 
-Grekk once again points out there’s only two of them, but he has heard them talking about others, and about potentially hiring some mercenaries. “Apparently there’s a Dhakaani regiment of hobgoblins in town, some bladebearers, that’s honestly all I know,” Grekk adds. Galen suggests they head into town; he’ll be able to check out his family issue and they might be able to find some other leads there as well.
+[[Grekk]] once again points out there’s only two of them, but he has heard them talking about others, and about potentially hiring some mercenaries. “Apparently there’s a Dhakaani regiment of hobgoblins in town, some bladebearers, that’s honestly all I know,” Grekk adds. Galen suggests they head into town; he’ll be able to check out his family issue and they might be able to find some other leads there as well.
 
 Heading into town, they slowly become a little more familiar with the town layout after asking around. There’s a couple of inns and taverns for travelers; they hear about the Wandering Serpent (where the drinks are cheap), Turan’s Rest and Revelry (the only inn licensed by House Ghallanda) and the Gold Dragon Inn (a cheap knock-off of the Golden Dragon Inn, they’re advised to stay away from this place).
 

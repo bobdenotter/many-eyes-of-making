@@ -99,7 +99,7 @@ D4 points out he thinks he was created by House Cannith as well, though it was l
 
 Galen says he has a little bit of experience with finding things in ruins. D4 mentions the job Anders had for them, before Beck asks if Orryn had a timeline. Galen says he doesn’t know; they were interrupted by the Daask showing up. Beck knows that, whilst Q’barra is a wild and untamed region of the land, it also contains New Throne, a city founded by refugees and pioneers, trying to set up a new Cyre.
 
-Finishing their meal, they head towards the Salty Hag to meet up with Orryn. They find him there alone, the rest of the place empty. Even Grekk isn’t there. As soon as they enter, Orryn stands up, greeting them happily. “Boy did you deliver. Best investment of my life. I had no idea you were going to torch the place … Excellent work!” Clearly the group is very aware they didn’t torch the place, but they run with this, Galen confirming they indeed did that.
+Finishing their meal, they head towards the Salty Hag to meet up with Orryn. They find him there alone, the rest of the place empty. Even [[Grekk]] isn’t there. As soon as they enter, Orryn stands up, greeting them happily. “Boy did you deliver. Best investment of my life. I had no idea you were going to torch the place … Excellent work!” Clearly the group is very aware they didn’t torch the place, but they run with this, Galen confirming they indeed did that.
 
 Orryn is pleased, happy he won’t be seeing them for a while, though Galen warns that they can’t be sure they dealt with all of them. He hands the airship crew the other half of their payment, handing Galen his promised share as well.
 

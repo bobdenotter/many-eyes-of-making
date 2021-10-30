@@ -1,0 +1,2 @@
+# Grekk
+![[grekk.jpeg]]

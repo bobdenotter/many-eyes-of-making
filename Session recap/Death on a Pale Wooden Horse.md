@@ -263,7 +263,7 @@ The letters are clearly written by Yonhanna d’Cannith. The recipient seems to 
 
 
 
-Rydia instantly recognises the crystal depicted on one of the letters, instantly turning away and staring at a wall. Galen asks her if she’s okay, then asks her if this is the same crystal that Arag mentioned, which Rydia confirms. “Somehow, I don’t think it’s the illicit lovestory that the Sisters are interested in,” Galen points out. “Whatever this is, everyone wants it. I wouldn’t mind knowing why.”
+Rydia instantly recognises the crystal depicted on one of the letters, instantly turning away and staring at a wall. Galen asks her if she’s okay, then asks her if this is the same crystal that [[Arag]] mentioned, which Rydia confirms. “Somehow, I don’t think it’s the illicit lovestory that the Sisters are interested in,” Galen points out. “Whatever this is, everyone wants it. I wouldn’t mind knowing why.”
 
 
 

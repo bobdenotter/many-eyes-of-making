@@ -5,12 +5,12 @@ date: August 4th, 2021
 
 # A Matter of Trust
 
+![[residence of jod.jpeg]]
 
 
+After collecting their reward from the Council of Nine for investigating the Calantar family, the group take a moment to recover as the skies over [[Korranberg]] grow darker, the rain beginning to pour down. Through the rain, Bonzobur makes his way through the city streets, heading towards the residence of [[Jodd Uthar Jarell]], having told the others that he’s heading out for a walk. Finding the building without too much trouble, the three story manor is covered in vines, a small rainsoaked rose garden in front of the building. One room is warmly lit, but the rest of the home seems to stand cold and dark. After knocking on the door, it’s pulled open by a construct - some kind of warforged, tall and lanky and dressed in satin and a lace collar. Bonzobur explains he was invited, the construct saying he’ll show him through to see Jod.
 
-After collecting their reward from the Council of Nine for investigating the Calantar family, the group take a moment to recover as the skies over Korranberg grow darker, the rain beginning to pour down. Through the rain, Bonzobur makes his way through the city streets, heading towards the residence of Jod Uthar Jarell, having told the others that he’s heading out for a walk. Finding the building without too much trouble, the three story manor is covered in vines, a small rainsoaked rose garden in front of the building. One room is warmly lit, but the rest of the home seems to stand cold and dark. After knocking on the door, it’s pulled open by a construct - some kind of warforged, tall and lanky and dressed in satin and a lace collar. Bonzobur explains he was invited, the construct saying he’ll show him through to see Jod.
-
-
+![[warforged servant.jpg]]
 
 Moving through the house, the construct eventually opens a set of double doors to reveal a large room lit only by a fire in the hearth, various pieces of furniture littered around the space. Sitting before the fire and watching the flames is Jod, who seems pleased that Bonzobur has accepted his request. The construct, Max, asks if Bonzo would like anything to drink before departing to get him some tea. Jod says he feels he was fortunate when Bonzobur walked in, as Argoth, a giant flying fortress, was Bonzobur’s project at some point. The Brelish King commissioned a second one of these some time ago, however that one lies rusting on the border with the Mournland - Kennrun. Bonzo wasn’t involved with the construction of the second one, leading him to conclude that people have begun to copy his designs.
 
@@ -56,7 +56,7 @@ With the elemental safely in place within the bowels of the ship, Galen, Lux and
 
 
 
-Agreeing to purchase all three, they ask if there’s anything else interesting they should be purchasing, Devin eventually producing a brass doorknob. Putting it on a section of wall, he opens an empty cupboard, closing it again before showing them the doorknob and the price tag attached. Concluding the doorknob creates a portable storage space for them, they agree it might be good to have somewhere to stash things, Lux pointing out they could stop worrying about the Dream Lily. Lux asks if there’s a discount for buying all of the items, Devin handing over a single white card, agreeing they can have a healing potion for free if they agree to be a returning customer. They have franchises in 12 locations across Khorvaire, the card revealing ink which lists the various places, including Sharn, Fairhaven and Passage - Metrol and Making are also on the card, but are crossed out. Paying the 600gp for the entire purchase, the group then make their way outside the shop and back into the streets of Korranberg.
+Agreeing to purchase all three, they ask if there’s anything else interesting they should be purchasing, Devin eventually producing a brass doorknob. Putting it on a section of wall, he opens an empty cupboard, closing it again before showing them the doorknob and the price tag attached. Concluding the doorknob creates a portable storage space for them, they agree it might be good to have somewhere to stash things, Lux pointing out they could stop worrying about the Dream Lily. Lux asks if there’s a discount for buying all of the items, Devin handing over a single white card, agreeing they can have a healing potion for free if they agree to be a returning customer. They have franchises in 12 locations across Khorvaire, the card revealing ink which lists the various places, including Sharn, Fairhaven and [[Passage]] - Metrol and Making are also on the card, but are crossed out. Paying the 600gp for the entire purchase, the group then make their way outside the shop and back into the streets of Korranberg.
 
 
 
