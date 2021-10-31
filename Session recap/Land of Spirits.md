@@ -157,7 +157,9 @@ D4 suggests fighting the beetles for a moment, Beck saying he hopes they can jus
 
 As soon as this happens, Beck can sense the ship being taken more by the wind than before, holding on to the helm to try and keep the ship on course, which he manages to pull off. The vastness of the Blade Desert sparkles in the moonlight beneath as the swarm of beetles retreats, moving away from the ship. After about an hour or so, they figure it’s safe to place the dragonshard back and they continue their journey.
 
-They soon find themselves approaching Maerin, the tent city that Anders told the captain they should visit before they head to Krezent. The tent city is located near an oasis and some Dhakaani ruins, and is meant to contain a couple of survivors of the mining accident. They see a mountain range in front of them, before they spot a large crude building next to an oasis, signalling they have arrived in Maerin.
+They soon find themselves approaching [[Maerin]], the tent city that Anders told the captain they should visit before they head to Krezent. The tent city is located near an oasis and some Dhakaani ruins, and is meant to contain a couple of survivors of the mining accident. They see a mountain range in front of them, before they spot a large crude building next to an oasis, signalling they have arrived in Maerin.
+
+![[Maerin.jpg]]
 
 The captain orders the anchor to be lowered, but before they head down they make time for some breakfast, Rydia preparing something nice for everyone. Below, they can see various ornately clothed individuals walking around, many of them wearing turbans and brightly colored robes with a lot of gold accents. Part of the city are tents, some of them are shacks with a tent attached to them.
 
@@ -181,7 +183,9 @@ The bartender explains that these people want to talk to her, so she turns to Ga
 
 “Can you at least buy me a drink?” she asks, which Rydia does, ordering a round of drinks for the woman, Galen and herself. “You sure about that? The Ancestor’s Teethsmacker is not for everybody” the bartender points out, to which Rydia asks him what the drink is called. He repeats the name, then puts two small glasses on the counter. He sprinkles some salt on the bar, crushing the rims into the salt before he pours out this heavily scented liquor, yellowish in color. He slides the glasses over to the woman and Galen, the former downing it immediately.
 
-Rydia sips her cactus water as Galen downs the drink as well, which seems to impress the woman. She then introduces herself as Astra Vorn, Galen introducing himself in turn. Galen then tells her what they want to know, asking about the mines. She says that not everyone left when the mine collapsed, some people stayed behind, trying to make the best of it. The halflings left because they were and still are superstitious. They tried mining, but people kept disappearing. First only in the mine, then everywhere.
+![[astra.png]]
+
+Rydia sips her cactus water as Galen downs the drink as well, which seems to impress the woman. She then introduces herself as **Astra Vorn**, Galen introducing himself in turn. Galen then tells her what they want to know, asking about the mines. She says that not everyone left when the mine collapsed, some people stayed behind, trying to make the best of it. The halflings left because they were and still are superstitious. They tried mining, but people kept disappearing. First only in the mine, then everywhere.
 
 “You’d be walking with someone in the town, just talking; one moment you’d look the other way and then gone, they’d be missing.” Galen asks her if she saw that happen; Astra explains that the only reason she likes Lukani is because they both had their wife gone missing in some ways. “His died, I still have good hope that mine is out there somewhere …” After which she corrects herself, saying she doesn’t really have any hope anymore.
 

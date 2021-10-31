@@ -8,6 +8,8 @@ As the captain reaches for her crossbow, the massive sabretooth tiger bites at h
 
 Rydia looks over at Galen briefly before approaching, drawing a dagger which she uses to clean her nails as she looks over at the elf, his tiger and the captain. “There’s no need for all this violence, is there?” she asks, Lukani chiming in from behind the bar, yelling at the elf: “Cirdan you fuck, get that massive beast out of here, I told you once already.” Cirdan raises up his hands, pointing out it seems they’re outnumbered before he turns to the tiger, calming it down.
 
+![[cirdan.jpeg]]
+
 The captain, holding her bleeding hand, looks angry, though Galen manages to calm her down a little as he walks up to her. “I think we’ve got enough to deal with now, don’t we, captain?” She agrees, turning her back on the elf and his tiger as Cirdan mutters under his breath in Elvish, which clearly stings the captain, but she continues walking away.
 
 Telepathically, Rydia whispers something to Cirdan in Deep Speech, which he doesn’t seem to understand, so it largely just leaves him confused. She winks at him, then walks away, joining Galen and the captain at the bar again.
@@ -21,6 +23,8 @@ They make their way over towards the vendors. Outside of the elven vendors there
 “Ah hello there, a fellow dwarf! I’m like you! Stout, barrelchested and short-legged” D4 points out, the dwarf seeming to appreciate his sense of humor. She asks if he came in with the airship, which D4 confirms, saying it was a beautiful trip. She says she’s travelled the plains a few times herself. When asked what brings her here, she says she has some trade. She travels between the Mror holds and the jungle of Q’barra. She mainly deals in dragonshards.
 
 She introduces herself as Lissann. D4 then says he has some spare parts on offer, asking if she’d be interested in some trade. He shows her the golden ring with the lapis lazuli in it, which she says she’s interested in. She’s not interested in the silver that D4 also offers, but will pay 200 gold for the golden ring.
+
+![[lissann.jpeg]]
 
 After the trade is made, D4, Beck and Petr head further into town, eventually finding their way to the watering hole where the others are. They walk in just as Lukani is thanking Galen and Rydia for helping put an end to a potential bar brawl, offering them a free round of drinks in thanks. As she notices the others walk in, Rydia telepathically tells Beck to keep an eye on the elf with the tiger; Beck pretends to not be surprised by the sudden familiar voice he hears in his mind.
 

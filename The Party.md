@@ -21,7 +21,7 @@ Party Funds (Courtesy of Quartermaster D4)
  
 * Silver fork, silver knife
 * Satchel of Dream Lily powder (Petr)
-* Talenta death mask (Galen) → has since been used
+* [[Talenta Death Mask]] (Galen) → has since been used
 * Large stash of Dream Lily
 * Two bags containing silverware (party sold)
 * A carnelian, three citrines and three small diamonds (worth ~1580 gp) ( one given to Garreth as payment )
