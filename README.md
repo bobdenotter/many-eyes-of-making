@@ -34,3 +34,15 @@ Finally, go to the "Obisidian Git" tab under community options, and enable "Pull
 
 ![[Schermafbeelding 2021-11-01 om 17.02.35.png]]
 
+---
+
+### Pushing changes to Git
+
+If you wish to push changes to Git, have Bob add your github username to the repository as a maintainer. 
+
+Next, you'll need to configure the plugin to allow it to push straight to git from Obsidian: Go to Obsidian's 'Command Palette' (`CMD-P` on MacOs, probably `CTRL-P` on Windows) and select "Obisidian Git: Edit Remotes"
+
+![[Schermafbeelding 2021-11-01 om 17.23.33.png]]
+
+Change the "Remote" to this URL: `git@github.com:bobdenotter/many-eyes-of-making.git`
+
