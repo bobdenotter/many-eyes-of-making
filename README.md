@@ -1,10 +1,10 @@
 # README
 
-## Installation instructions:  
+## Installation instructions
 
 To set up a local copy of these notes, we'll need to make a clone of the Git repository that houses the entirety of the notes and images. Then we'll install and set up Obsidian to use this folder.
 
-### Either Clone the git repository
+### Either Clone the git repository…
 
 Go to the location on your machine where you'd like to have the notes. From there, run the following:  
 
@@ -14,7 +14,7 @@ git clone https://github.com/bobdenotter/many-eyes-of-making.git
 
 ```
 
-### Or download the whole thing
+### …or download the whole thing
 Alternatively, to get up-and-running without having a git client installed, you can simply download and extract the whole thing from the `.zip` file at the following location: 
 
 [main.zip](https://github.com/bobdenotter/many-eyes-of-making/archive/refs/heads/main.zip)
@@ -41,9 +41,16 @@ Finally, go to the "Obisidian Git" tab under community options, and enable "Pull
 
 You can do manual 'pull' operations through the command pallette: "Obsidian Git: Pull from remote repository".
 
+### Adding more plugins
+
+While not strictly required for use, the following two plugins will make working with the notes much more pleasant: 
+
+ - **Dataview**: To automatically show the nice listings on [[Previous sessions]], [[The Party]] and the like
+ - **Filename Heading Sync**: To keep the name of each page/file synced to the first heading. Saves you some time copy/pasting.
+
 ---
 
-### Pushing changes to Git
+## Pushing changes to Git
 
 If you wish to push changes to Git, have Bob add your github username to the repository as a maintainer. 
 
