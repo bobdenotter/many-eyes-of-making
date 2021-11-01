@@ -4,7 +4,7 @@
 
 To set up a local copy of these notes, we'll need to make a clone of the Git repository that houses the entirety of the notes and images. Then we'll install and set up Obsidian to use this folder.
 
-### Clone the git repository
+### Either Clone the git repository
 
 Go to the location on your machine where you'd like to have the notes. From there, run the following:  
 
@@ -13,6 +13,11 @@ Go to the location on your machine where you'd like to have the notes. From ther
 git clone https://github.com/bobdenotter/many-eyes-of-making.git
 
 ```
+
+### Or download the whole thing
+Alternatively, to get up-and-running without having a git client installed, you can simply download and extract the whole thing from the `.zip` file at the following location: 
+
+[main.zip](https://github.com/bobdenotter/many-eyes-of-making/archive/refs/heads/main.zip)
 
 ### Install and set up Obsidian
 
