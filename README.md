@@ -46,3 +46,4 @@ Next, you'll need to configure the plugin to allow it to push straight to git fr
 
 Change the "Remote" to this URL: `git@github.com:bobdenotter/many-eyes-of-making.git`
 
+Then, every time you wish to push changes to git, use your favorite Git client, the command line, or "Obsidian Git: Create Backup" from Obsidian's Command Palette. 
