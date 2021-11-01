@@ -22,7 +22,7 @@ After opening the program, choose "Open Folder as Vault", and browse to the loca
 
 ![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.09.27.png)
 
-Now you'll have a working copy of the notes, but it won't update automatically. To do that, we'll need to set up the "git" 
+Now you'll have a working copy of the notes, but it won't update automatically. To do that, we'll need to set up the "git" plugin for integration.
 
 Go to settings, and click the 'Community Plugins' tab.
 
@@ -32,8 +32,9 @@ There, disable safe mode, and browse for extensions. In the search-box type `git
 
 Finally, go to the "Obisidian Git" tab under community options, and enable "Pull updates on startup"
 
-![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.23.33.png)
+![](https://github.com/bobdenotter/many-eyes-of-making/blob/main/Media/Installation/Screenshot%202021-11-01%20at%2018.30.38.png?raw=true)
 
+You can do manual 'pull' operations through the command pallette: "Obsidian Git: Pull from remote repository".
 
 ---
 
@@ -48,4 +49,4 @@ Next, you'll need to configure the plugin to allow it to push straight to git fr
 
 Change the "Remote" to this URL: `git@github.com:bobdenotter/many-eyes-of-making.git`
 
-Then, every time you wish to push changes to git, use your favorite Git client, the command line, or "Obsidian Git: Create Backup" from Obsidian's Command Palette. 
+Then, everytime you wish to push changes to git, you can use your favorite Git client, the command line, or the built-in "Obsidian Git: Create Backup" from Obsidian's Command Palette. 
