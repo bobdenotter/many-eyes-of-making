@@ -20,19 +20,20 @@ First, if you don't have it installed yet, grab Obisidian from https://obsidian.
 
 After opening the program, choose "Open Folder as Vault", and browse to the location where you've made the checkout of the Git repository:
 
-![[Schermafbeelding 2021-11-01 om 17.09.27.png]]
+![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.09.27.png)
 
 Now you'll have a working copy of the notes, but it won't update automatically. To do that, we'll need to set up the "git" 
 
 Go to settings, and click the 'Community Plugins' tab.
 
-![[Schermafbeelding 2021-11-01 om 17.03.36.png]]
+![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.03.36.png)
 
 There, disable safe mode, and browse for extensions. In the search-box type `git` and the top suggestion will be "Obsidian Git". Install _**and**_ enable it. 
 
 Finally, go to the "Obisidian Git" tab under community options, and enable "Pull updates on startup"
 
-![[Schermafbeelding 2021-11-01 om 17.02.35.png]]
+![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.23.33.png)
+
 
 ---
 
@@ -42,7 +43,8 @@ If you wish to push changes to Git, have Bob add your github username to the rep
 
 Next, you'll need to configure the plugin to allow it to push straight to git from Obsidian: Go to Obsidian's 'Command Palette' (`CMD-P` on MacOs, probably `CTRL-P` on Windows) and select "Obisidian Git: Edit Remotes"
 
-![[Schermafbeelding 2021-11-01 om 17.23.33.png]]
+![](https://raw.githubusercontent.com/bobdenotter/many-eyes-of-making/main/Media/Installation/Schermafbeelding%202021-11-01%20om%2017.23.33.png)
+
 
 Change the "Remote" to this URL: `git@github.com:bobdenotter/many-eyes-of-making.git`
 
