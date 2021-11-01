@@ -2,7 +2,7 @@
 
 ## Installation instructions:  
 
-First we'll need to make a local copy of the Git repository that houses the notes. Then we'll install and set up Obsidian to use this folder.
+To set up a local copy of these notes, we'll need to make a clone of the Git repository that houses the entirety of the notes and images. Then we'll install and set up Obsidian to use this folder.
 
 ### Clone the git repository
 
