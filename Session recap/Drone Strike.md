@@ -83,7 +83,7 @@ All of them can hear marching sounds approaching, potentially indicating that th
 
 
 
-Hanging back still, Petr conjures up some goodberries, sharing them with the group as well as the older human that was tied up. Realising that the captain was talking about bringing Nerima into the stables, Beck suggests they hide. He and Petr decide to stay with Akulele, as they are supposed to be under her spell anyway, and Galen, Rydia and Bonzo look for a hiding place.
+Hanging back still, Petr conjures up some goodberries, sharing them with the group as well as the older human that was tied up. Realising that the captain was talking about bringing [[Nerima]] into the stables, Beck suggests they hide. He and Petr decide to stay with Akulele, as they are supposed to be under her spell anyway, and Galen, Rydia and Bonzo look for a hiding place.
 
 
 

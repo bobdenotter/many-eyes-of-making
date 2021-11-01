@@ -27,7 +27,7 @@ Galen and Rydia both point out they’re not experts, though Galen does warn the
 
 When Rydia asks if they know more about what they’re stealing, Rosevyr says that they don’t know much, but she does know that it’s information. She explains that they deal in information, not in artefacts, so if the information is engraved on stones, there’s no need for them to bring those; they simply have to remember the information. She also tells them that two wagons will be tacked on later, and what they’re looking for will be in those two wagons, which will narrow down their search.
 
-These wagons will be tacked on quite early, coming from the old railroad that would’ve gone to Metrol. D4 suggests that perhaps they can blow up the tracks the two wagons would need to come across, with Beck suggesting it might be easier to just release whatever holds the wagons together after they’ve been attached.
+These wagons will be tacked on quite early, coming from the old railroad that would’ve gone to [[Metrol]]. D4 suggests that perhaps they can blow up the tracks the two wagons would need to come across, with Beck suggesting it might be easier to just release whatever holds the wagons together after they’ve been attached.
 
 Rosevyr also shares that they know that the person involved in the selling of this item is already in town. His name is Errold ir’Lain, also known as His Majesty Prince Minute Errold of house Lain. Beck points out that, if anything, he wants to get a look at Errold, so Rosevyr describes him. Meanwhile, D4 recalls that the Lain family is responsible for the Knights Arcane, an elite group of soldiers that are also trained in magic.
 

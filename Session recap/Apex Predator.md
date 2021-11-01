@@ -29,7 +29,7 @@ Petr, having always wanted to see an actual dragon, is finding himself somewhat 
 
 
 
-From a distance, Bonzo saw the dragon emerge from the large tarpit and started moving in closer with the airship. Azaka, completely dumbfounded by the sight of this dragon, yells out at Bonzo, confused about him moving closer to the dragon. He tries to fight Bonzo for control of the helm, but Bonzo threatens him. telling him to step away from the wheel. Azaka is for a moment more frightened of Bonzo than he is of the dragon and steps away, allowing Bonzo to keep the ship on course, heading towards his friends and the dragon.
+From a distance, Bonzo saw the dragon emerge from the large tarpit and started moving in closer with the airship. [[Azaka]], completely dumbfounded by the sight of this dragon, yells out at Bonzo, confused about him moving closer to the dragon. He tries to fight Bonzo for control of the helm, but Bonzo threatens him. telling him to step away from the wheel. Azaka is for a moment more frightened of Bonzo than he is of the dragon and steps away, allowing Bonzo to keep the ship on course, heading towards his friends and the dragon.
 
 
 
@@ -37,7 +37,7 @@ Seeing the dragon focus in on Rydia, Galen leans towards her, telling her “I l
 
 
 
-Still frightened, the three guardians move backwards as Nerima speaks. “Oh great Rashaak, we are your humble servants still, what can we do for you?” Rashaak calls them fools, pointing out they’re standing right next to the traitor. Rydia, also frightened, backs away as her shadow moves towards the dragon. She holds up her hands. “I never betrayed anyone. I mean, my parents were … but that was different. What’re you talking about?” she stammers as she keeps moving away.
+Still frightened, the three guardians move backwards as [[Nerima]] speaks. “Oh great Rashaak, we are your humble servants still, what can we do for you?” Rashaak calls them fools, pointing out they’re standing right next to the traitor. Rydia, also frightened, backs away as her shadow moves towards the dragon. She holds up her hands. “I never betrayed anyone. I mean, my parents were … but that was different. What’re you talking about?” she stammers as she keeps moving away.
 
 
 
@@ -97,7 +97,7 @@ The tabaxi responds with a simple “Death in honor!” as he keeps running towa
 
 
 
-Rashaak takes off into the sky, flapping his wings and hitting both Beck and the tabaxi with the force of it. He hovers about 20ft off the ground, with both Rydia and Galen still in his claw. Frustrated, Rashaak grumbles about ‘ants’ before a jet of black acid shoots out of his mouth, straight at Bag of Nails, the tabaxi.
+Rashaak takes off into the sky, flapping his wings and hitting both Beck and the tabaxi with the force of it. He hovers about 20ft off the ground, with both Rydia and Galen still in his claw. Frustrated, Rashaak grumbles about ‘ants’ before a jet of black acid shoots out of his mouth, straight at [[Bag of Nails]], the tabaxi.
 
 
 
@@ -121,7 +121,7 @@ Nerima and the two other guardians meanwhile manage to shake themselves out of t
 
 
 
-Rashaak dives down onto an old building a little more to the south, which crumbles under his massive weight. As they land, Galen spots Azaka, who’s still trying to get away from this situation as Rashaak, now away from all distractions, focuses intently on the whispers coming from the void. He puts both Rydia and Galen onto the ground, resting his massive head next to Rydia to listen. “Yes, sing, tell me everything,” the dragon says. Galen, now on the ground, sits down on the ground next to Rydia in a daze.
+Rashaak dives down onto an old building a little more to the south, which crumbles under his massive weight. As they land, Galen spots [[Azaka]], who’s still trying to get away from this situation as Rashaak, now away from all distractions, focuses intently on the whispers coming from the void. He puts both Rydia and Galen onto the ground, resting his massive head next to Rydia to listen. “Yes, sing, tell me everything,” the dragon says. Galen, now on the ground, sits down on the ground next to Rydia in a daze.
 
 
 
@@ -305,7 +305,7 @@ He then says he would like to talk to the black dragon some more, though conside
 
 
 
-The guardians, who left with the dragon and stayed there, combatting some of the lizardfolk, eventually fly back over towards the group. Some of them look rather hurt. Nerima lands near the group, saying she’s afraid they can’t keep doing this. “It is too much for us three. Our lord is back down; he felt the demonic overlord loosen his chains, so to speak.”
+The guardians, who left with the dragon and stayed there, combatting some of the lizardfolk, eventually fly back over towards the group. Some of them look rather hurt. [[Nerima]] lands near the group, saying she’s afraid they can’t keep doing this. “It is too much for us three. Our lord is back down; he felt the demonic overlord loosen his chains, so to speak.”
 
 
 
@@ -325,9 +325,9 @@ Beck points out he thinks the conversation earlier went well enough, saying he�
 
 
 
-They take [[The Heritage]] down to the former arena of Haka’thorvak. They can see a ruined amphitheatre that looms over the surrounding buildings. Vines cling to its steps and animal statues line its stands. The ground is partially underwater and muddy and there’s an eerie silence that hangs over the area. Nothing seems to stir.
+They take [[The Heritage]] down to the former arena of [[Haka’thorvak]]. They can see a ruined amphitheatre that looms over the surrounding buildings. Vines cling to its steps and animal statues line its stands. The ground is partially underwater and muddy and there’s an eerie silence that hangs over the area. Nothing seems to stir.
 
-
+![[amphitheatre.jpeg]]
 
 Nerima leads Beck, Petr and Rydia to chambers underneath the amphitheatre that are cloaked in thick fog, which obscures vision but doesn’t seem to obstruct breathing. There’s various old dilapidated rooms, some of them crumbling. Both Galen and Bonzo remain aboard the ship.
 

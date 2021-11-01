@@ -15,7 +15,7 @@ The day before, aboard [[The Heritage]], Petr couldn’t get all the dream image
 
 
 
-He finds himself standing in a deserted city, several large rock formations towering around the city can be seen through the haze. It’s quiet except for the sound of Petr’s own cape flapping around in the wind. He recognises the city as Metrol, in the Mournland. He also notices that all the buildings are intact, although all windows have been destroyed and the walls are coated with a thick black grime.
+He finds himself standing in a deserted city, several large rock formations towering around the city can be seen through the haze. It’s quiet except for the sound of Petr’s own cape flapping around in the wind. He recognises the city as [[Metrol]], in the Mournland. He also notices that all the buildings are intact, although all windows have been destroyed and the walls are coated with a thick black grime.
 
 
 
@@ -35,7 +35,7 @@ Moving in closer, Petr tries to get her attention; she still doesn’t really re
 
 
 
-Her eyes open slowly, and she recognises Petr, asking him where he’s been. He explains he’s been traveling, asking her why she’s here, as she’s supposed to be back at the farm with their parents. He tells her he thinks they’re in Metrol, but she seems completely out of it. He helps her stand and as they both get up, they realise a group of people have gathered around them. Halflings, mostly. They appear to all be naked, but Petr recognises some of their faces from the dreamlily den. Their skin looks diseased and blistered and all of their eye sockets are hollow as they stare at him and his sister.
+Her eyes open slowly, and she recognises Petr, asking him where he’s been. He explains he’s been traveling, asking her why she’s here, as she’s supposed to be back at the farm with their parents. He tells her he thinks they’re in [[Metrol]], but she seems completely out of it. He helps her stand and as they both get up, they realise a group of people have gathered around them. Halflings, mostly. They appear to all be naked, but Petr recognises some of their faces from the dreamlily den. Their skin looks diseased and blistered and all of their eye sockets are hollow as they stare at him and his sister.
 
 
 
@@ -267,7 +267,7 @@ Rydia instantly recognises the crystal depicted on one of the letters, instantly
 
 
 
-Beck shares with the rest that he’s fairly certain that most of house Cannith that was working in Cyre is definitely gone, which likely includes Yonhanna. Aubrey d’Orien is likely also gone. He also realises that the stone they laid together is likely linked to the Metrol Railway Station, as Yonhanna architected this and house Orien is linked to the railways.
+Beck shares with the rest that he’s fairly certain that most of house Cannith that was working in Cyre is definitely gone, which likely includes Yonhanna. Aubrey d’Orien is likely also gone. He also realises that the stone they laid together is likely linked to the [[Metrol]] Railway Station, as Yonhanna architected this and house Orien is linked to the railways.
 
 
 

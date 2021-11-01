@@ -39,7 +39,7 @@ As the gathering gets underway, a half-orc man in a red robe starts the meeting.
 
 This reveals an entire story in glyph images that are illuminated with this moonlight. It depicts the struggles of the Gatekeepers with the various Daelkyr. There’s battles, as well as imagery of them being killed and locked up. In further columns it shows various markers and places where these gates seem to have opened up at. The entire group tells Petr the story again of why they believe Rydia is at least touched by something from Xoriat and the half-orc man eventually approaches Petr.
 
-“Your old colleague, Thom, he laid down his staff for the Gatekeepers a long time ago. While it seemed at the time that interaction with the Daelkyr was dwindling, losing steam so to speak, it seems that now that activity has started to rekindle. I’d like you to act in his place, if you’re up for it, and if you’re interested,” the man says. Petr tells the half-orc that Thom took him on as his apprentice about ten years ago, and that it would only make sense for him to follow in Thom’s footsteps. He accepts.
+“Your old colleague, [[Thom]], he laid down his staff for the Gatekeepers a long time ago. While it seemed at the time that interaction with the Daelkyr was dwindling, losing steam so to speak, it seems that now that activity has started to rekindle. I’d like you to act in his place, if you’re up for it, and if you’re interested,” the man says. Petr tells the half-orc that Thom took him on as his apprentice about ten years ago, and that it would only make sense for him to follow in Thom’s footsteps. He accepts.
 
 The half-orc waves somebody over, who comes over with a staff. Even in the pale moonlight Petr can see that the staff has a strange ‘7’ shape, with various branches growing on it. The leaves are sickly green, fresh spring leaves. “This was Thom’s staff, it is in itself a key to one of the gates,” the half-orc explains, walking over to one of the pillars and pointing out one of the illuminated glyphs; an image of a crumbling keep, half sinking into a swap. “This is the Tzaryan Keep, it is in a wilder region of Khorvaire. You do not need to be near it, to carry its key. But the key needs to remain safe with you. If there’s ever a problem, if it ever gets lost, you need to contact us immediately, do you understand?”
 
@@ -57,11 +57,11 @@ Petr tells here there’s no need for her to apologise, assuring her they’ll t
 
 Meanwhile, back on the ship, Galen makes Rydia the worst cup of tea in the world and seeks her out. That same day, Bonzo heads to the post office, sending a letter to the other Architects. The letter reads:
 
-Fellow Architects,
-
-[[Jodd Uthar Jarell]] on Council of Nine in Korranberg. Continuing plans reviving Kennrun with necromancy for Karnathy King. Help me stop him. Please reply.
-
-BBB
+> Fellow Architects,
+> 
+> [[Jodd Uthar Jarell]] on Council of Nine in Korranberg. Continuing plans reviving Kennrun with necromancy for Karnathy King. Help me stop him. Please reply.
+> 
+> BBB
 
 Galen asks Rydia if she’s feeling better, which she says she is. She takes the tea, recoiling for a moment before drinking from it anyway, appreciating the gesture. “Can’t be worse than people,” she points out when Galen asks if it’s terrible, after which Galen asks if she wants to talk about what happened.
 
@@ -85,11 +85,11 @@ Rydia admits that when she thinks about what she does or did, she feels ashamed,
 
 Petr returns, the others having fully stocked the ship whilst awaiting his arrival. Galen asks Petr how his mom’s doing, to which Petr says she’s doing great and she sends her regards. He tells them he met up with some friends as well, offering the group some candy he brought back with him. Galen asks about the captain, so Petr relays Fianin’s message, telling the others she’s going to lay low for a while.
 
-With everyone aboard the ship, they discuss where to go next, mostly confirming they’re still hoping to head to Q’barra. Galen shares he has something personal he needs to check out there, so he suggests that they go to New Throne, as he has to look into something for his dad there.
+With everyone aboard the ship, they discuss where to go next, mostly confirming they’re still hoping to head to Q’barra. Galen shares he has something personal he needs to check out there, so he suggests that they go to [[Newthrone]], as he has to look into something for his dad there.
 
 They get ready to leave, everyone finishing up around town. Lux tells Petr about their new elemental, familiarizing Petr with it, considering he’s the pilot. Bonzo makes sure to head by his family, saying his good-byes to his mother and his siblings, who send him on his way with a grand total of seven pies.
 
-Before they head out, Lux heads down to pay the dock fees and as she does so, she’s told that a halfling dropped by a note for Bonzo. Lux takes the note, a folded piece of paper with a blank seal on it. She pays the fees and then heads back up to the ship and they set out to New Throne.
+Before they head out, Lux heads down to pay the dock fees and as she does so, she’s told that a halfling dropped by a note for Bonzo. Lux takes the note, a folded piece of paper with a blank seal on it. She pays the fees and then heads back up to the ship and they set out to [[Newthrone]].
 
 As soon as they’re underway, Lux changes back to Beck, and he seeks out Bonzo, handing him the note, telling him it was handed of by a halfling. Bonzo notes that most halflings come from the Talenta Plains, then opens the note and reads it. It simply says: “I know who you are, Ashbringer.” He doesn’t know who the note exactly is from, not recognizing the handwriting.
 
@@ -101,7 +101,7 @@ Beck and Petr take the time to catch up, Petr telling Beck about everything that
 
 Beck offers that the book is called the Tome of Vvaraak, which Galen shared with him earlier that week. “Galen’s done a lot of research on this; they’ve been trying to figure out what happened,” Beck shares, adding that as far as he knows, the others don’t know where the book is either. Petr says he assumes Rydia and Galen didn’t take the book when they encountered it, Beck saying he assumes the same. Changing the subject briefly, Petr talks about the captain, assuring Beck she’s doing okay, and she just needs to rest up.
 
-Petr points out that Galen seemed keen to go to New Throne, asking if Beck knows anything about that place. “I think there’s a lot of people from Cyre there,” Beck says, though he doesn’t know much more about the place. They agree that it sounds like an interesting place.
+Petr points out that Galen seemed keen to go to [[Newthrone]], asking if Beck knows anything about that place. “I think there’s a lot of people from Cyre there,” Beck says, though he doesn’t know much more about the place. They agree that it sounds like an interesting place.
 
 Beck then says that, now that Petr’s back, he still kind of wants to try the Dream Lily. They agree to do it that evening, Petr talking Beck through some preparations they can take. Before they get ready, Beck goes out onto the deck to find Galen.
 
@@ -109,7 +109,7 @@ Beck then says that, now that Petr’s back, he still kind of wants to try the D
 
 Before Galen can really say no (or yes), Bonzo’s already getting pies to celebrate. “We’re supposed to be passengers..” Galen objects, though Beck points out they’ve already been more involved than that. Galen then thanks him, before asking about the questionable decision.
 
-“I’m gonna try and use the Dream Lily to see if we can look around Metrol,” Beck then admits, which Galen says he’s going to stay away from. Rydia offers to keep an eye on them as this happens, which Beck appreciates, but Petr is already going to do that. “It’ll be fine,” Rydia says, which clearly it will be.
+“I’m gonna try and use the Dream Lily to see if we can look around [[Metrol]],” Beck then admits, which Galen says he’s going to stay away from. Rydia offers to keep an eye on them as this happens, which Beck appreciates, but Petr is already going to do that. “It’ll be fine,” Rydia says, which clearly it will be.
 
 As Petr and Beck head below deck to set up, Galen turns to Bonzo, asking him to teach him how to fly the ship. “Alright, don’t touch this button, don’t touch that button, …” he says, as Rydia says she’ll just start preparing some food for after the drugs. Petr tells her that she should definitely make some omelettes, which Rydia does.
 
@@ -171,11 +171,13 @@ Galen tells him to go ahead, muttering about how he’s working through some thi
 
 The following day, they fly over Kraken Bay, onto Valenar, with the jungle in view on their east. Halfway through the day, they come across a widely spaced out city, the entire city surrounded by a living wall of bronzewood thorn. They know they’re flying over Taer Valestas, the elven capital of Valenar. They can see massive groups of cavalry riding through it’s broad streets as they glide past it, eventually reaching Adder Bay by evening.
 
-Their last day of travel is slowed by strong head winds. As they pass over Adder Bay, Beck is the only one who spots a strange ship with no sails. It seems to be quite old, and abandoned, just drifting in the waves. Though noting this is odd, they continue on their travels, eventually arriving in New Throne around midnight.
+Their last day of travel is slowed by strong head winds. As they pass over Adder Bay, Beck is the only one who spots a strange ship with no sails. It seems to be quite old, and abandoned, just drifting in the waves. Though noting this is odd, they continue on their travels, eventually arriving in [[Newthrone]] around midnight.
 
 As the Heritage glides in, the first indication of there being land here is a massive cloud of dirt in the water. The water changes color from blue to deep, murky brown and eventually they see a very wide river, with a castle on one side and a smaller town on the other, narrowing into the mouth of the Adder River. The cloud of murky brown is the debris that the river is throwing into the ocean.
 
-Compared to Korranberg, the city of New Throne is not as brightly lit and they don’t instantly see any kind of port for them to dock the ship. They do see some docks and decide to lower their anchor near there, just a little ways away from the land.
+![[Newthrone.webp]]
+
+Compared to Korranberg, the city of [[Newthrone]] is not as brightly lit and they don’t instantly see any kind of port for them to dock the ship. They do see some docks and decide to lower their anchor near there, just a little ways away from the land.
 
 Tired from a long day of travel, they decide to sleep on the airship. Beck takes first watch, not really noticing anything. Petr and Rydia both take over for second watch, with Rydia suddenly hearing a scream from beyond the walls, about a hundred feet away. Both her and Petr take a look, spotting a goblin being dragged around by what looks to be a gnoll.
 
@@ -189,7 +191,7 @@ Both Petr and Rydia jump overboard, Petr casting Feather Fall to make them slowl
 
 They head back, Grekk once again saying he’s glad they showed up.
 
-The following morning, they get a proper view of the city of New Throne. Most of the buildings seem to be made up out of organic materials, making it look pretty in it’s own way, but perhaps somewhat primitive. There’s a messy layout of the city and it’s an explosion of color, with walls portraying murals, baskets of flowers, clay urns, drippy vines, and many more things.
+The following morning, they get a proper view of the city of [[Newthrone]]. Most of the buildings seem to be made up out of organic materials, making it look pretty in it’s own way, but perhaps somewhat primitive. There’s a messy layout of the city and it’s an explosion of color, with walls portraying murals, baskets of flowers, clay urns, drippy vines, and many more things.
 
 The docks begin to come alive in the morning, with various minstrels walking around the city, playing for cash; it’s quite a lively city. With everyone now awake, they talk to Grekk, who tells the others the same thing he told Petr and Rydia the night before. Never having met each other before, Grekk and Bonzo introduce themselves to each other, Bonzo feeling like Grekk seems a little bit conniving.
 
@@ -207,7 +209,7 @@ Grekk explains the city a little, saying the city is run by a couple of wealthy 
 
 Heading into town, they slowly become a little more familiar with the town layout after asking around. There’s a couple of inns and taverns for travelers; they hear about the Wandering Serpent (where the drinks are cheap), Turan’s Rest and Revelry (the only inn licensed by House Ghallanda) and the Gold Dragon Inn (a cheap knock-off of the Golden Dragon Inn, they’re advised to stay away from this place).
 
-There’s a main market called the Red Bazaar, called that because of the dinosaur meat that hangs on hooks, the blood falling down onto the streets and running into the river. There’s a large public bathhouse and temple called Olladra’s Respite, there’s a shrine to Kol Korran, and then there’s the New Throne Depository.
+There’s a main market called the Red Bazaar, called that because of the dinosaur meat that hangs on hooks, the blood falling down onto the streets and running into the river. There’s a large public bathhouse and temple called Olladra’s Respite, there’s a shrine to Kol Korran, and then there’s the [[Newthrone]] Depository.
 
 They’re told to head to the depository, especially after Galen names Alternar’s Artefacts. The outer building is mainly made up out of mud, containing a couple of large windows. It has a soaring ceiling, to make it appear more grander than the rest of the buildings, and it has a few shops inside, as well as counters and tellers to the right.
 
@@ -229,7 +231,7 @@ Galen also shares there’s a few places they can check out for people who might
 
 It almost looks organic, built out of black stone with large columns; it seems a little like a strange building. They can see a garden in front of it as they arrive; the front door is open, and it seems to be gilded. It leads into an internal open space, with columns on all sides, a single palm tree in the center. There, they’re welcomed by a dark-skinned human man, wearing just some white pants, carrying a platter of various drinks.
 
-Galen asks if they can speak to Lumiz d’Tharashk, and he promises he’ll go and inquire after he settles the drinks. He returns a few minutes later, telling them Lumiz will see them. “Remember, she is of noble blood, so please, pay your respects to her,” he reminds the group, before asking them to follow him.
+Galen asks if they can speak to [[Lumiz d’Tharashk]], and he promises he’ll go and inquire after he settles the drinks. He returns a few minutes later, telling them Lumiz will see them. “Remember, she is of noble blood, so please, pay your respects to her,” he reminds the group, before asking them to follow him.
 
 He leads them through the beautifully decorated house, some of the vases around the house clearly draconic in origin, until he eventually opens a large stone door and lets them inside. From inside this chamber, steam is rising. Rydia casts Guidance on Galen, then is the only one who stays behind in the hallway as the rest of the group heads inside.
 

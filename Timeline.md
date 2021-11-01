@@ -35,7 +35,7 @@
 
 | Date | |
 | --- | --- |
-| Dravago 1st | Meeting with house Therashk after going to Altenar artefacts. Discovering a rival group hired by the Daask trying to get to Haka’thorvak first. Assasination-attempt on Lumiz d’Therashk. Getting out of Newthrone with Azaka the guide. |
+| Dravago 1st | Meeting with house Therashk after going to Altenar artefacts. Discovering a rival group hired by the Daask trying to get to [[Haka’thorvak]] first. Assasination-attempt on Lumiz d’Therashk. Getting out of Newthrone with [[Azaka]] the guide. |
 | Dravago 2nd | Travel day. |
 | Dravago 3rd | Early in the morning they get a warning from three dragonborn: “stay out of our holy city”. The party carries on. Its starting to get colder. The sun seems more distant. Late-night arrival in Haka’thorvak |
 | Dravago 4th | The crew goes and investigates. Meets the three dragonborn guardians of the corroded shield. Get attacked by blackscale lizardfolk. Encountered Rhashaak, the ancient black dragon. Rydia ‘reads’ from the tome of Vvaraak that she swallowed. The party enters the barracks where the blackscales are hiding. Gets haunted by Masviriks Nightmare |

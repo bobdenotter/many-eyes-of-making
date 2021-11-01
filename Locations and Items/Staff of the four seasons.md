@@ -1,6 +1,7 @@
 ---
 owner: Petr
 tags: item
+link: "[DDB](https://www.dndbeyond.com/magic-items/3712816-staff-of-the-four-seasons)"
 ---
 
 # Staff of the four seasons

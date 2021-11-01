@@ -101,7 +101,7 @@ He finds the section on Q’barra and, on the other side of the aisle, is the se
 
 The first book he finds is The First Account of King Sebastis Ir’Kesslan of New Gallifar. It is mostly a discussion on how wild Q’barra is and what type of species used to live there before civilization arrived. It says “The scales in the region are mostly hostile, especially to those harvesting or mining dragonshards, of which there are a lot on the subcontinent. Talks with the native scales have led to either hostility or strange gospitlization of something they call In’Quor, roughly translated to ‘The Dream’.”
 
-He calls New Gallifar the triangle of civilization, New Throne, Adderport and Whitecliff all centered around the Adder River. Then there’s a pearl necklace of prospecting towns on the foot of the Endworld Mountains, prominent small towns include Wyrmwatch, Threshold and Hope. These towns mainly fend for themselves, but King Sebastes has provided various medical supplies and aid stations.
+He calls New Gallifar the triangle of civilization, [[Newthrone]], Adderport and Whitecliff all centered around the Adder River. Then there’s a pearl necklace of prospecting towns on the foot of the Endworld Mountains, prominent small towns include Wyrmwatch, Threshold and Hope. These towns mainly fend for themselves, but King Sebastes has provided various medical supplies and aid stations.
 
 Information on the temple is harder to find, but with the help of one of the Avowed Galen finds a book with some leaked scraps of the draconic prophecy. In this book he finds the rhyme that contains the sentence that Rydia was saying.
 
