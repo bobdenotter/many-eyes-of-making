@@ -11,7 +11,7 @@ date: October 13th, 2021
 
 
 
-Both Galen and Rydia see [[Akulele]], Petr, Beck and Sekkalok approach, all of them having spotted them in turn as well. [[Akulele]] tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
+Both Galen and Rydia see [[Akulele]], Petr, Beck and [[Sekkalok]] approach, all of them having spotted them in turn as well. [[Akulele]] tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
 
 
 
@@ -31,7 +31,7 @@ Now that they’re somewhere safer, Akulele addresses the whole group. She expla
 
 
 
-Though Beck doesn’t say no to this, he does ask about the keys and where they might be. Akulele says they’re in Korlasz’s room. Aware of the time pressure, considering Akulele wanted them to deal with Jakzi before Korlasz comes back, Beck suggests they should probably deal with this soon.
+Though Beck doesn’t say no to this, he does ask about the keys and where they might be. Akulele says they’re in [[Korlasz]]’s room. Aware of the time pressure, considering Akulele wanted them to deal with Jakzi before Korlasz comes back, Beck suggests they should probably deal with this soon.
 
 
 
@@ -39,7 +39,7 @@ Listening to the conversation, Galen asks if they’re supposed to take care of 
 
 
 
-There’s some confusion about the Blood of the Protectors, so she says she’s talking about Beck. “You are a shapechanger, no?” She goes on to explain that the Couatl who gave their lives to lock Masvirik in his tomb were also shapechangers, and that their blood is Beck’s blood.
+There’s some confusion about the Blood of the Protectors, so she says she’s talking about Beck. “You are a shapechanger, no?” She goes on to explain that the Couatl who gave their lives to lock [[Masvirik]] in his tomb were also shapechangers, and that their blood is Beck’s blood.
 
 
 
@@ -139,7 +139,7 @@ The human joins the conversation as well, introducing himself as Orvex. He thank
 
 
 
-Beck asks him why he’s here, to which he says he was taken from an expedition from House Tharashk. They were jumped in the night by the black scales. When Bonzo asks him what they were doing here, to which Orvex says that the black scales kept asking him about the poison dusk.
+Beck asks him why he’s here, to which he says he was taken from an expedition from House Tharashk. They were jumped in the night by the black scales. When Bonzo asks him what they were doing here, to which Orvex says that the black scales kept asking him about the [[Poison Dusk]].
 
 
 
@@ -175,7 +175,7 @@ They go inside, Galen leading the way again as the others file in behind him, th
 
 
 
-The group huddles in the tunnel as they briefly discuss what to do, before Galen picks up a pebble from the ground, throwing it at Sekkalok to alert him to their presence. Though he knows something is up, he doesn’t quite see them, so Beck then simply walks out, still looking like Akulele.
+The group huddles in the tunnel as they briefly discuss what to do, before Galen picks up a pebble from the ground, throwing it at [[Sekkalok]] to alert him to their presence. Though he knows something is up, he doesn’t quite see them, so Beck then simply walks out, still looking like Akulele.
 
 
 
@@ -207,7 +207,7 @@ This signals the beginning of combat, the rest of the group quickly moving into 
 
 
 
-Beck’s silence doesn’t last long, but does provide the group ample opportunity to hurt Jakzi, who then does manage to call for help. Her back up runs right into Sekkalok, who manages to hold both of them off, and Rydia then manages to capture some of them as well as the pet triceratops in her Hunger of Hadar spell.
+Beck’s silence doesn’t last long, but does provide the group ample opportunity to hurt Jakzi, who then does manage to call for help. Her back up runs right into [[Sekkalok]], who manages to hold both of them off, and Rydia then manages to capture some of them as well as the pet triceratops in her Hunger of Hadar spell.
 
 
 

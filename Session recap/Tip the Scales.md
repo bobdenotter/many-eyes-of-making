@@ -25,7 +25,7 @@ Beck remains quiet, so Galen continues, saying he always figured they were dead,
 
 “So what’re you hoping to find?” Beck asks him, Galen saying he’s looking for answers. He then brings up what Vvaraak said, about Rydia having a purpose. “If that’s true then maybe someday I’ll forgive myself.” Beck says he hopes that will happen.
 
-Galen then says he’d understand if Beck and the others don’t want to further involve themselves with this. “I didn’t lie before when I said she’s never tried to hurt me,” he says, to which Beck adds that Rydia has never tried to hurt any of the others either. Galen points out that maybe Rashaak was right about Rydia not always being herself; he’s prepared to deal with that, but he’s not expecting the others to do so as well.
+Galen then says he’d understand if Beck and the others don’t want to further involve themselves with this. “I didn’t lie before when I said she’s never tried to hurt me,” he says, to which Beck adds that Rydia has never tried to hurt any of the others either. Galen points out that maybe [[Rashaak]] was right about Rydia not always being herself; he’s prepared to deal with that, but he’s not expecting the others to do so as well.
 
 “She’s done me no harm,” Beck points out and when Galen asks him if he’s always this nice, he says it depends. “On whether or not people have helped save my life or not,” he elaborates when asked. Galen goes on to say that he wouldn’t blame him for wanting them off his ship, to which Beck points out that apparently something is coming, and it sounds rather serious.
 
@@ -43,7 +43,7 @@ Meanwhile, Rydia seeks out Bonzo. She asks him if he build Betsy, which Bonzo co
 
 “Yes, but what are you asking me?” She asks him if he can invent something to stop her, if necessary. “Stop you how?” Bonzo asks, to which Rydia says that’s a good question. Bonzo points out they all have weapons they could use to stop her, but Rydia says that seems unwieldy. “I’m not sure if this is something that can be done, something that makes me stop … more easily.”
 
-Bonzo once again asks her to specify. “Stop eating? Stop moving? Living?” Rydia points out the last two will cover the first one. “Galen isn’t always objective when it comes to me,” Rydia points out, which Bonzo says he’s noticed. “What if Rashaak is right? About me? What if I lose control or .. what if I get too hungry?”
+Bonzo once again asks her to specify. “Stop eating? Stop moving? Living?” Rydia points out the last two will cover the first one. “Galen isn’t always objective when it comes to me,” Rydia points out, which Bonzo says he’s noticed. “What if [[Rashaak]] is right? About me? What if I lose control or .. what if I get too hungry?”
 
 He asks her what she thinks will happen if she loses control, which Rydia doesn’t answer, instead apologising, thinking maybe this was a mistake. “I can help you, but I’m not sure if I want to, because this is a lot you’re asking of me,” Bonzo says. “I want to help you get better, there’s probably ways to fix this, there’s always ways to fix something.”
 

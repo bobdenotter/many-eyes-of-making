@@ -37,7 +37,7 @@ Seeing the dragon focus in on Rydia, Galen leans towards her, telling her “I l
 
 
 
-Still frightened, the three guardians move backwards as [[Nerima]] speaks. “Oh great Rashaak, we are your humble servants still, what can we do for you?” Rashaak calls them fools, pointing out they’re standing right next to the traitor. Rydia, also frightened, backs away as her shadow moves towards the dragon. She holds up her hands. “I never betrayed anyone. I mean, my parents were … but that was different. What’re you talking about?” she stammers as she keeps moving away.
+Still frightened, the three guardians move backwards as [[Nerima]] speaks. “Oh great [[Rashaak]], we are your humble servants still, what can we do for you?” [[Rashaak]] calls them fools, pointing out they’re standing right next to the traitor. Rydia, also frightened, backs away as her shadow moves towards the dragon. She holds up her hands. “I never betrayed anyone. I mean, my parents were … but that was different. What’re you talking about?” she stammers as she keeps moving away.
 
 
 
@@ -49,7 +49,7 @@ The dragon’s eyes fix on Beck for a moment. “I’m not here to debate with a
 
 
 
-Rashaak drops himself down from the building then, reaching out to grab for Rydia. Seeing this happen, Galen reacts by moving in closer, getting swiped up along with Rydia as Rashaak grabs both of them in one large claw. He then raises himself up, showing just how tall the dragon really is as Rydia and Galen are provided with an almost aerial view of the ancient city.
+Rashaak drops himself down from the building then, reaching out to grab for Rydia. Seeing this happen, Galen reacts by moving in closer, getting swiped up along with Rydia as [[Rashaak]] grabs both of them in one large claw. He then raises himself up, showing just how tall the dragon really is as Rydia and Galen are provided with an almost aerial view of the ancient city.
 
 
 
@@ -77,7 +77,7 @@ As he lowers his claw, Rashaak’s gaze intensifies and he’s looking at Galen 
 
 
 
-Realising this, she gives in to Rashaak’s command. Galen sees her take a deep breath, the slight fear in her eyes turning into mania as her skull splits in two, the maw on her shoulder growing larger and larger, drooping over Rashaak’s claw. Whispers are starting to come from the void, which seems to please Rashaak.
+Realising this, she gives in to [[Rashaak]]’s command. Galen sees her take a deep breath, the slight fear in her eyes turning into mania as her skull splits in two, the maw on her shoulder growing larger and larger, drooping over Rashaak’s claw. Whispers are starting to come from the void, which seems to please Rashaak.
 
 
 
@@ -157,7 +157,7 @@ Bonzo starts backing away towards the airship, somewhat distracted as he’s cou
 
 
 
-Still facing off with the dragon, Galen asks Rashaak what will happen to Rydia if she finishes. “Then I will know what the traitor wrote, and I can start doing something about it.” When asked what will happen to her, Rashaak says he’s never encountered a creature like her before. “She might be able to turn back.”
+Still facing off with the dragon, Galen asks Rashaak what will happen to Rydia if she finishes. “Then I will know what the traitor wrote, and I can start doing something about it.” When asked what will happen to her, [[Rashaak]] says he’s never encountered a creature like her before. “She might be able to turn back.”
 
 
 
