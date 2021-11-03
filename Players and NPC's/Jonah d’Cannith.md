@@ -1,5 +1,5 @@
 ---
-affiliation: House d'Cannith
+affiliation: House Cannith
 ---
 # Jonah d’Cannith
   

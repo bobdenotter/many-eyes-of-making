@@ -1,3 +1,6 @@
+---
+location: Haka'thorvak
+---
 # Bag of Nails
 Tabaxi
 

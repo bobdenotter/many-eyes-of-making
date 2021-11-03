@@ -1,4 +1,9 @@
+---
+location: Fairhaven
+---
+
 # Shivaro
-Full name: **Shivaro Eonferr**
+Full name: **Shivaro Eonferr**.
+Lover of [[Fiannin]]
 
 ![[shivaro.jpg]]
