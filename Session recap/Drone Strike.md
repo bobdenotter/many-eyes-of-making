@@ -11,7 +11,7 @@ date: October 13th, 2021
 
 
 
-Both Galen and Rydia see [[Akulele]], Petr, Beck and [[Sekkalok]] approach, all of them having spotted them in turn as well. [[Akulele]] tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
+Both Galen and Rydia see [[Akulele]], Petr, Beck and [[Sekkalok]] approach, all of them having spotted them in turn as well. Akulele tells Galen, who steps out, that she has his friends, who asks her if they’re going to have to get in a fight to get them back. She tells him not to worry, asking him if he’s alright.
 
 
 
@@ -19,11 +19,11 @@ Not quite trusting it, Galen asks her who she is, so she explains she’s made a
 
 
 
-Urging them all to be quiet, [[Akulele]] says they should go upstairs, where they might be able to talk more freely. She leads them up the stairs, Galen, Rydia and Bonzo only just managing to hide in the staircase leading up as another black scale approaches [[Akulele]], asking her to explain what she’s doing and where she’s going.
+Urging them all to be quiet, [[Akulele]] says they should go upstairs, where they might be able to talk more freely. She leads them up the stairs, Galen, Rydia and Bonzo only just managing to hide in the staircase leading up as another black scale approaches Akulele, asking her to explain what she’s doing and where she’s going.
 
 
 
-As that black scale moves away, they all move up. The sun is low in the sky, elongated shadows indicating it’s much later in the day now. [[Akulele]] guides them all to the stables, where the human the group spotted before is still tied up.
+As that black scale moves away, they all move up. The sun is low in the sky, elongated shadows indicating it’s much later in the day now. Akulele guides them all to the stables, where the human the group spotted before is still tied up.
 
 
 
@@ -135,9 +135,9 @@ Bonzo frees Nerima by picking the lock on her chains, and he also gives her his 
 
 
 
-The human joins the conversation as well, introducing himself as Orvex. He thanks the group for their aid, Rydia in particular, offering to help if there’s anything he can do. “I’m not a very good fighter, but I do know my way around the draconic language and script.”
+The human joins the conversation as well, introducing himself as [[Orvex]]. He thanks the group for their aid, Rydia in particular, offering to help if there’s anything he can do. “I’m not a very good fighter, but I do know my way around the draconic language and script.”
 
-
+![[orvex.jpeg]]
 
 Beck asks him why he’s here, to which he says he was taken from an expedition from House Tharashk. They were jumped in the night by the black scales. When Bonzo asks him what they were doing here, to which Orvex says that the black scales kept asking him about the [[Poison Dusk]].
 
@@ -147,7 +147,7 @@ He doesn’t necessarily know his way around, but he does know there’s a dark 
 
 
 
-Rydia hoists Galen over her shoulder and the two of them climb back down, joining the others. Nerima seems anxious for action, wanting to go after her teammates, but the others try to at least come up with some sort of plan before they start moving. They agree they should try and find the secret entrance and move in through that, but before they leave, Beck turns to Orvex, curious if he intends on coming with them.
+Rydia hoists Galen over her shoulder and the two of them climb back down, joining the others. Nerima seems anxious for action, wanting to go after her teammates, but the others try to at least come up with some sort of plan before they start moving. They agree they should try and find the secret entrance and move in through that, but before they leave, Beck turns to [[Orvex]], curious if he intends on coming with them.
 
 
 
@@ -177,7 +177,7 @@ They go inside, Galen leading the way again as the others file in behind him, th
 
 The group huddles in the tunnel as they briefly discuss what to do, before Galen picks up a pebble from the ground, throwing it at [[Sekkalok]] to alert him to their presence. Though he knows something is up, he doesn’t quite see them, so Beck then simply walks out, still looking like Akulele.
 
-
+![[umber hulk.jpeg]]
 
 Reasonably assuming the other black scale is in charge of the umberhulk, Beck asks him to call off the creature, as she doesn’t want it to eat her experiments. He does so, luring Otto away from the others with some insects, having him crawl back into a hole at the far end of the room. With the umberhulk away, Beck gestures for the others to follow him out of the entrance.
 

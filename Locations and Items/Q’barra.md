@@ -9,4 +9,4 @@ Notable people:
 - **[[Rashaak]]**: Ancient black dragon.
 - **[[Korlasz]]**: Leader of the blackscales
 - **[[Akulele]]**: Shaman of the blackscale tribe, wants her son Sekalok to be in power.
-- **Orvex**: Human prisoner of the Blackscales
+- **[[Orvex]]**: Human prisoner of the Blackscales

@@ -95,6 +95,8 @@ Beck checks whether or not the holy symbol he was given works, finding the room 
 
 Petr inspects the room further to the east and, as he looks down into the room that seems to be attached to that room, notices a barricade, aimed towards them. He alerts the others, and then everything happens fast. Petr suddenly gets turned into a rat, a horn is blown, somehwhere in the complex and right at that time four creatures appear in the room the others are still in; two kobolds seemingly coming out the wall and two Black Scales climbing out a hole in the middle of the room.
 
+![[barricade.png]]
+
 Combat ensues, with Petr the mouse running down into the room he saw the barricade to investigate as the others fight the four creatures that appeared. As they’re dealing with those, four more creatures join the party: crocodiles, getting summoned by more Black Scales that Petr finds hiding behind the barricades. One of them manages to catch Petr, who’s still a mouse, underneath a cup.
 
 Though the others manage to deal with the two scales in the main room, as well as with one of the kobolds, the crocodiles begin approaching and before long, there’s a sound coming from the south. As those still in the room turn to look, they watch as a triceratops appears out of the hallway they thought was trapped, clearly looking corrupted in some way or another and thrashing wildly in anger.
