@@ -85,7 +85,7 @@ Petr, lying in one of the pools on the ground, scrambles back to his feet and hi
 
 
 
-Galen, who is now stuck between a dragon and a maw, can understand some of the whispers, recognising the languages of Daelkyr and Draconic. He hears parts of the poem about the eyes and their locations, and there’s one word in Daelkyr that stands out due to it being repeated over and over again. Galen doesn’t recognise it at first, but then realises it sounds like “Golden Grin”. That single term is surrounded by insane laughter.
+Galen, who is now stuck between a dragon and a maw, can understand some of the whispers, recognising the languages of Daelkyr and Draconic. He hears parts of the poem about the eyes and their locations, and there’s one word in Daelkyr that stands out due to it being repeated over and over again. Galen doesn’t recognise it at first, but then realises it sounds like “[[Golden Grin]]”. That single term is surrounded by insane laughter.
 
 
 

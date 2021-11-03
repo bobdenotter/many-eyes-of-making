@@ -4,7 +4,7 @@ tags: item
 link: "[DDB](https://www.dndbeyond.com/magic-items/3712816-staff-of-the-four-seasons)"
 ---
 
-# Staff of the four seasons
+# Staff of the Four Seasons
 _Staff, very rare (requires attunement by a nature cleric, druid, oath of the ancients paladin, warlock, wizard, or sorcerer)_
 
 This magical staff changes with the seasons. You can spend ten minutes concentrating on the staff to change it to a different season. It remains in this new form for the next 8 hours before reverting to the current season again.

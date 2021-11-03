@@ -6,4 +6,4 @@ Race:: V-Human
 Class:: Rogue / Phantom
 #player
 
-![[Galen.jpeg]]
+![[Galen.jpg]]

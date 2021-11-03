@@ -15,7 +15,7 @@ Galen apologises, saying it’s been a long day and when Beck brings up the drag
 
 “The rest wasn’t an accident,” Galen admits, saying he’d been looking for that book for years. He didn’t know everything about it, nor what it would do to her, or the rest of them. “The rest of you?” Beck asks, and Galen explains it wasn’t just him and Rydia who were looking for the book.
 
-“That thing she kept saying, it means Golden Grin. That was what we called ourselves.” There were four of them. “And the other two?” Beck asks, to which Galen says they got along well, explaining who the other two were. A woman named Cassandra. “She was brilliant, smart. Way smarter than me. Helped me find the book and was never prepared to deal with any of my shit, which made us work.” The other person was Hulgyr. “More for the heavy lifting.”
+“That thing she kept saying, it means [[Golden Grin]]. That was what we called ourselves.” There were four of them. “And the other two?” Beck asks, to which Galen says they got along well, explaining who the other two were. A woman named Cassandra. “She was brilliant, smart. Way smarter than me. Helped me find the book and was never prepared to deal with any of my shit, which made us work.” The other person was Hulgyr. “More for the heavy lifting.”
 
 He then explains how they decided on their name. “He was a half-orc and he’d repaired a tusk with some gold…” Galen goes on to explain what happened when they found the book. “Rydia touched the book. I passed out and when I woke up they were gone, and so was the book. Pretty sure they ended up in the same place.”
 
