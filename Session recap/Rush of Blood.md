@@ -83,9 +83,21 @@ He does, telling this woman about what happening, that the two of them found the
 
 “Until a couple of centuries ago we used it here at [[Haka’torvak]] to maintain our connection with [[Rashaak]] until that got corrupted. By [[Masvirik]]. So it is buried with the last Speaker. If you wish to look at the crystal, I can take you to his tomb. But … I’m intrigued. You read a book, you said,” she says, looking back over at Rydia. Galen corrects her by saying they found a book. “Are you just looking for answers?” she then asks, Galen confirming that is why they came here for.
 
-“And what question would you like answered?” Galen looks at Rydia, who simply says “Why?”. 
+“And what question would you like answered?” Galen looks at Rydia, who simply says “Why?”. The woman asks her to specify; why did this happen to you? Why her? Rydia says it’s both, unsure of what to say before adding that she thinks there was a purpose to this. “There is always purpose to everything that happens,” the woman says. “The draconic prophecy is very clear on that. The problem is .. what purpose? And that I’m afraid is muddy. It is said that an empty vessel will reclaim the throne. I wonder if that’s you…” Both Galen and Rydia question the phrasing of that, Galen asking if she just called Rydia a queen as Rydia asks about the empty vessel. “Were you not an innocent before all this happened? Somebody getting by on the sidelines of history?” 
 
---
+Rydia supposes that part has changed, before the woman asks Rydia if she’s looking to stop this. “I understand this is not aesthetically pleasing to your kind,” she adds, gesturing to Rydia. “But to ruin great potential power for something as shallow as that, would be a mistake I think.” 
+
+Rydia says she’s not interested in power, though she does admit it helped. “I did a thing, it was … pretty amazing.” Galen tells the woman Rydia managed to bring down [[Rashaak]] on her own, to which the woman says apparently they’ll have to do something about [[Rashaak]] again. “I’ve done things,” Rydia continues. “That I … the old … I can handle what I’ve done now, but she can’t.” The woman asks if she’s talking about her old self, which Rydia confirms.
+
+“That is maybe a sign to push forward, instead of go back.” She then offers to try something, plucking a piece of dragonshard from her gown and approaching Rydia. Rydia looks over at Galen, who asks the woman if it’s going to make anything worse. “On the contrary, I was hoping to increase her telekinetic abilities,” the woman offers. 
+
+Galen tells her to go ahead, so she presses the piece of dragon shard near Rydia’s transformed eye. She can feel it melting with the flesh as the woman grants Rydia telekinetic powers. Galen asks Rydia if she’s okay, who confirms this before she turns around, using her newfound powers to lift Bonzo’s pistol from it’s holster. 
+
+Objecting a little, Bonzo tells her to be careful about where she’s pointing it before grabbing it back out of the air, putting it back in his holster. “A chance to steer a prophecy in a clear direction only comes about a few times in a dragon’s life,” the woman muses as she watches the group in amusement. 
+
+This prompts Galen to ask for her name, which she gives: [[Vyssilithar]]. As she says her name, her shoulders start to bulge out, neck growing longer as her entire form increases as she transform into an ancient amethyst dragon, floating in front of the group. Her name isn’t familiar to any of the group. 
+
+Telepathically, she addresses the whole group. 
 
 "My dear, I am older than the kingdom of Galifar itself;  Through my studies of the Prophecy, I posses knowledge of the past and of the possible paths of the future. I have fought rakshasas in the Demon Wastes, and gazed on the Pit of Five Sorrows. I've spent a decade as a Lhazaar princess and a century studying ruins in Xen’drik. I, Vyssilithar have knowledge that would take a mortal fourteen lifetimes to gain.
 
