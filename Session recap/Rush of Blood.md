@@ -67,6 +67,8 @@ As they’re all taking in their surroundings, Galen and Bonzo notice a woman st
 
 “Ah, so you’ve read the predictions of the rogue one. Interesting,” the woman says in Elvish, stepping forward into the light. She has dark skin, silvery white hair in cornrows that go up into a messy bun. She wears an exquisite looking robe, almost half translucent, wearing jewellery all made out of strange orange pieces of dragon shard. 
 
+![[vyssilithar-human.jpg]]
+
 As none of the others speak Elvish, Beck translates what she just said. Galen tells her that it’s what led them here. “You aren’t supposed to come here. This isn’t a place you just visit,” she says, switching to Common so everyone can understand her. “Then what are we supposed to do?” Galen asks, to which the woman says she doesn’t know, as she doesn’t know who they are. “I’ve seen you enter this temple, look at my books. Who do I have the honor of meeting?” she asks, a slight tone of sarcasm to her voice.
 
 Galen introduces himself by name, the others simply as the crew of the Heritage. She approaches them, wading through the blood in the basin, which spoils her tunic. As she exits the blood she waves her hand, the blood turning to dust and cleaning her tunic. 
@@ -96,6 +98,8 @@ Galen tells her to go ahead, so she presses the piece of dragon shard near Rydia
 Objecting a little, Bonzo tells her to be careful about where she’s pointing it before grabbing it back out of the air, putting it back in his holster. “A chance to steer a prophecy in a clear direction only comes about a few times in a dragon’s life,” the woman muses as she watches the group in amusement. 
 
 This prompts Galen to ask for her name, which she gives: [[Vyssilithar]]. As she says her name, her shoulders start to bulge out, neck growing longer as her entire form increases as she transform into an ancient amethyst dragon, floating in front of the group. Her name isn’t familiar to any of the group. 
+
+![[vyssilithar-dragon.png]]
 
 Telepathically, she addresses the whole group. 
 
