@@ -1,4 +1,4 @@
-# Galen D’Arcy
+# Galen D'Arcy
 
 Link:: [DDB](https://www.dndbeyond.com/characters/29029235)
 Player:: Laura
