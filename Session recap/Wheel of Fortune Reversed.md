@@ -105,29 +105,18 @@ He calls New Gallifar the triangle of civilization, [[Newthrone]], Adderport and
 
 Information on the temple is harder to find, but with the help of one of the Avowed Galen finds a book with some leaked scraps of the draconic prophecy. In this book he finds the rhyme that contains the sentence that Rydia was saying.
 
-Recount the failures of he who walked in dreams
-
-His large crystal coming apart at the seams
-
-The first eye lands where Eberron is breaking
-
-Twisted into something not worth Making
-
-The giants second eye, a tempest swallowed whole
-
-An isle full of thieves still pays its yearly toll
-
-Eyes of third lie in precious treasure
-
-Darkness surrounding preventing any measure
-
-The fourth eye is blinded by the trees
-
-Corroded scales now looking over its keys
-
-And fifth, where frozen wastes will arise in
-
-The mist folds into the unknown horizon
+> Recount the failures of he who walked in dreams (Note: [[Arag]])
+> His large crystal coming apart at the seams
+> The first eye lands where Eberron is breaking
+> Twisted into something not worth Making
+> The giants second eye, a tempest swallowed whole
+> An isle full of thieves still pays its yearly toll
+> Eyes of third lie in precious treasure
+> Darkness surrounding preventing any measure
+> The fourth eye is blinded by the trees
+> Corroded scales now looking over its keys
+> And fifth, where frozen wastes will arise in
+> The mist folds into the unknown horizon
 
 Looking into the draconic prophecy and Q'barra, he finds information on other dragonborn who came to Q'barra. They were escorting a powerful back dragon named Rhashaak. They defeated and bound a demonic overlord named [[Masvirik]], also known as the Cold Sun underneath Q'barra and guard it to this day. The dragonborn that settled in Q'barra actually briefly colonized it.
 
