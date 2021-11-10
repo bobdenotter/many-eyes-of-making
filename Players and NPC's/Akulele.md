@@ -2,5 +2,5 @@
 location: Haka'thorvak
 ---
 # Akulele
-Location:: [[Haka’thorvak]]
+Location:: [[Haka'thorvak]]
 #npc

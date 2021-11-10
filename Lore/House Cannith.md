@@ -1,3 +1,3 @@
 # House Cannith
 
-- [[Jonah d’Cannith]]
+- [[Jonah d'Cannith]]
