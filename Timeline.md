@@ -39,3 +39,4 @@
 | Dravago 2nd | Travel day. |
 | Dravago 3rd | Early in the morning they get a warning from three dragonborn: “stay out of our holy city”. The party carries on. Its starting to get colder. The sun seems more distant. Late-night arrival in Haka’thorvak |
 | Dravago 4th | The crew goes and investigates. Meets the three dragonborn guardians of the corroded shield. Get attacked by blackscale lizardfolk. Encountered Rhashaak, the ancient black dragon. Rydia ‘reads’ from the tome of Vvaraak that she swallowed. The party enters the barracks where the blackscales are hiding. Gets haunted by Masviriks Nightmare |
+| Dravago 5th | The party goes back to the blackscale compound and manages to fight off its corrupting elements. they head to the temple of luminescent blight, with rashaak hot on their tail. They meet [[Vyssilithar]] in the temple and get the "Eye" and learn of its properties |
