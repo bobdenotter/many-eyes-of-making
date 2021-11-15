@@ -26,7 +26,7 @@ They head forward, the entire party caught by surpise as a spirit of a Dragonbor
 
 Galen moves over to help Beck out of the pool, the two returning to the rest of the group in the hallway. They're soon joined by Vyssilithar, who offers to guide them to the tomb in case of any further mishaps. 
 
-To Be Continued.......
+To Be Continued.....
 
 
 
