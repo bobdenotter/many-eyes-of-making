@@ -29,6 +29,8 @@ Meanwhile, Beck and Nerima prepare to fly up and chop down some trees for wood. 
 
 As they're chopping away, Beck notices a sound. He flies up, using the wings from the earpiece Nerima gave him, and soon spots two heads poking out of the canopy of trees. Upon closer inspection, both heads seem to belong to the same troll, and they're speaking to each other in Giant, a language Beck does not speak. 
 
+![[two-headed-troll-giant.jpg]]
+
 Upon spotting Beck, one of the heads decides to throw a large wooden club in his direction, but it goes wide and is sent falling to the ground in the city below. He flies back to Nerima, telling her about what he just found and suggesting that they head back to the others. They fly back, picking up the troll's club on the way back so they have at least some wood to show for. 
 
 Back at the ship, Petr spots a pair of velociraptors out in the city, noting that they seem to be wearing saddles, which would suggest someone is around. He heads down into the hold of the ship, where Bonzo is working on the axe invention, telling him what he saw. "I was being busy up top and as I was wiping the sweat of my brow, I noticed two velociraptors with saddles ... There might be people nearby, it didn't sit well with me. I thought we could check it out together?"
@@ -51,6 +53,8 @@ Petr calls out to the voice, asking her to introduce herself. He and Bonzo see t
 
 "Petr, you coming?" Petr follows and both of them head into that room. As soon as they peek their head through the door, they see a halfling woman with brown hair with reddish tips. She throws a tiny glimmer of light their way that explodes in their face, casting Fireball as an explosion of fire erupts in the room.
 
+![[irae.jpg]]
+
 As this is happening, Galen, Rydia as well as Beck and Nerima are all approaching the ship, all of them hearing this Fireball go off and picking up their pace, attempting to get near the ship. As combat ensues between Petr, Bonzo and Irae, Beck lands atop the deck of the ship, calling out to whoever can hear him to ask what's going on. 
 
 Galen and Rydia attempt to run in as well, though a hyena jumps out of some bushes near them, attempting to stop them. Galen tries to keep the hyena back, telling Rydia to get to the ship as from atop a roof, a third figure appears, drawing a bow and taking three shots at Beck, knocking him unconscious. 
@@ -59,11 +63,13 @@ Nerima flies in after Beck, managing to get him back up and after a moment of be
 
 Bonzo attempts to catapult some rubble at Irae, which misses, but does hits a figure behind her that was missing in the shadows. An elven woman steps out, with long black hair and frozen tears on her cheeks, Beck instantly recognising her as [[Athelonia]]. 
 
+![[Athelonia.jpg]]
+
 Combat continues, the group trying to get closer together as they're spread out across this area. Rydia manages to make her way up to where Irae and Athelonia are, grappling the former as Beck calls out to the latter, asking her if this was what she meant when she said she'd see him in [[Haka'thorvak]]. She does seem to recognise him, and looks from him to Rydia and back. 
 
 "It was, though I didn't think we were going to have to fight you", Athelonia says, to which Beck points out that they don't need to be fighting. Irae clearly disagrees, calling out that she has a problem with 'the gnome'. Beck says that means they have trouble with her in turn, viciously mocking her as Petr also calls out: "If you have trouble with the gnome, you have trouble with all of us!"
 
-After Petr attacks Athelonia with a Chill Touch, she casually walks up to where Rydia is still holding on to Irae, moving her shadow wreathed greatsword up and placing it under Rydia's chin. She then turns to Beck. "We can keep doing this the hard way, but we're not leaving here without that Stone". 
+After Petr attacks [[Athelonia]] with a Chill Touch, she casually walks up to where Rydia is still holding on to Irae, moving her shadow wreathed greatsword up and placing it under Rydia's chin. She then turns to Beck. "We can keep doing this the hard way, but we're not leaving here without that Stone". 
 
 Thinking that he's seen what she wants to do with the stone, Beck tells her no. "I had a dream what you might use that for and I don't think I'm going to give it to you". She says that's a shame, before attacking Rydia with her greatsword. Bonzo tears up a little, looking over at his friends, before commanding Betsy to run into command as he takes a few shots himself as well. 
 
