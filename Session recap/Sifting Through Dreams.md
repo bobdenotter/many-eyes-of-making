@@ -87,10 +87,69 @@ Beck then suggests that maybe they should sleep first, before making any other d
 
 Orvex joins Rydia for the second watch, during which not much happens, other than Rydia catching Orvex staring at her for a moment and telling him she thinks that's a completely normal way for him to respond to her. Orvex admits he'll never get used to this, to which Rydia says she used to think she wouldn't either, but she's had moments lately that suggest otherwise.
 
-For the third watch, Rydia wakes Beck, before she herself retreats to join Galen in their quarters. She sneaks into the room without him noticing, leading to a pleasantly surprised Galen, who awakes that following morning with Rydia next to him. During his watch, Beck doesn't see much happening around the ship, except for Nerima and some other dragonborn flying off into the sunset, probably heading towards the mesa. He spends his time on watch fiddling with the tarot deck that used to belong to his wife, attempting to pray to Olladra.
+For the third watch, Rydia wakes Beck, before she herself retreats to join Galen in their quarters. She sneaks into the room without him noticing. During his watch, Beck doesn't see much happening around the ship, except for Nerima and some other dragonborn flying off into the sunset, probably heading towards the mesa. He spends his time on watch fiddling with the tarot deck that used to belong to his wife, attempting to pray to Olladra.
 
+The following morning, Galen wakes up with Rydia beside him, which is a pleasant surprise. He thanks her for doing this and the two of them talk. Petr has meanwhile gotten up early, heading out to collect some bugs which he then returns to the ship. They have breakfast, make some final repairs to the ship and after a test run around the city, they pick up Azaka's body. 
 
+After they do so, Petr suggests that he could make Azaka walk into the bar, order a drink, as if nothing happened. He can cast Animate Dead on him. They sort of discuss this, but no one really tells Petr that he shouldn't do this. Rydia points out it's a bit morbid, but also very funny. 
 
+They head to Newthrone then, and the journey is largely uneventful. During the trip they encounter three birds, who appear aboard the ship and ask for 'shinies'. The crew initially offers them some shiny objects, which seems to displease the birds, but Petr manages to trick them by offering a dagger upon which he casts Green Flame Blade, which is enough to convince the birds to leave.
+
+Both Bonzo and Petr also take the time to use lesser restoration spells on everyone so they no longer suffer from Masvirik's corruption. With the corruption gone, Bonzo notes he feels much better, after which Galen holds up his pocket watch, asking if he's been playing with that the whole time.
+
+Beck confirms this, asking what the pocket watch does, so Galen explains it brings him back up after he's been knocked out. Beck asks him where he got it. "Remember back in Gatherhold, there was someone waiting for me at the Golden Dragon Inn? That's where I got it." He adds that someone wants to keep him alive, though when Beck says that's a good thing, Galen admits that if killing himself despite who gave this to him was an option, he would. 
+
+"So you don't know why she wants to keep you alive?" Beck asks, Galen saying that he doesn't really know. "It's not out of the goodness of her heart, I'm pretty sure." He's not sure what it is, what's going on, or how to stop it. Rydia points out that not everyone they meet can be evil, after which Bonzo points out that they were told Galen was the heir of something. 
+
+"Could that be the reason they want to keep you alive?" Galen isn't sure, mostly because he doesn't know what it means to be an heir of Aerenol, and the part of him having elven blood makes no sense to him. "This is to do with the dreams I told y'all about" he adds, before repeating that whatever she wants him alive for, probably isn't good.
+
+Bonzo asks who this 'she' is, so Galen explains he used to work for some Karrnath people, and this 'she' is who he used to work for. "Karrnath and not dying and undead..." Beck muses, to which Galen says he knows. Bonzo asks what Galen did, who explains he was somewhat of a research assistant. The people he worked for were looking for magic items, trinkets, etcetera. He wasn't working for her when he found the book though. 
+
+Beck asks if this person knows about him finding the book, Galen saying that Mortem Pent, the guy who came to the inn, did ask about the book. "He asked, and I lied. And I'm gonna ask you three to promise me the same thing I made Rydia promise, which is if you ever see anyone with a golden skull, you don't tell them." He doesn't want them to know they found it.
+
+"What does the golden skull mean?" Beck asks, Galen explaining it stands for the organisation she belongs to. He's heard his former employer call it the [[Sanguine Council]]. It doesn't ring a bell for anyone else. "They're just wrapped up in bad shit, that's all I know" Galen adds. He also mentions the dreams he had before.
+
+"They were talking about Aerenol and now I'm apparently the heir of Aerenol, I don't know ..." Bonzo asks him what exactly they did to him in the dreams, to which Galen says there was a needle and they injected him with something. Something to do with his blood. 
+
+He also says he thinks the only people who might have answers to any of these questions are them, and he doesn't want to go looking for them. "You wanna know what I'm really worried about?" Galen then says, before saying that when they found the book, everyone else died except him. Beck points out Rydia also didn't die. 
+
+Galen says he doesn't know why he didn't die and he's hoping 'why' isn't because of what they did to him. He wasn't awake, so he can't recall, and Rydia doesn't remember either. Galen theorizes maybe he died, though Beck says he doesn't seem very undead to him, Bonzo pointing out that it's strange they would send him the watch if he's not even alive anymore.
+
+Rydia, thinking she has a way to prove that Galen isn't undead, cuts her own hand before biting Galen. If he's undead, his blood wouldn't heal her. She does heal, though the taste of Galen's blood apparently affects her to the extent that her eyes roll back and the maw bursts open, emitting a loud roar, after which Rydia seems completely out of it. For a moment, she feels helpless, her powers leaking away as she feels like plain old Rydia, but with a massive wound on her neck. 
+
+The roar scares Bonzo, who runs below deck as Galen does the opposite, running towards Rydia and attempting to snap her out of it, which does eventually work, but takes some time. Rydia's senses return to her and she asks what happened. 
+
+"The maw did the thing again and you passed out" Galen summarizes, asking her what happened in turn, but she doesn't know. She says she was just trying to test whether or not he was dead, she didn't expect anything else to happen. "Is this why I'm alive?" Galen wonders, Beck asking if he means to say that he's alive because he somehow doesn't taste good. 
+
+Beck then also points out that Galen wasn't quite left unscathed after what happened with the book; the blue things that keep shooting out of his stomach seem to have been caused by whatever it was. "I don't really know where one goes with questions like these" Beck then says, to which Galen says he just wants to know why he's still standing and the two people who can answer that for him, he's not ready to talk to. 
+
+He explains that the people he would have to talk to are dead, and whilst Beck might have been ready to speak to those he lost, Galen say he isn't ready to have that conversation yet. "Not sure I'll ever be ready to have that conversation honestly."
+
+Rydia apologises, saying she simply wanted to help answer one of Galen's other questions, and she didn't expect anything like that to happen. Galen wonders what's wrong with him, which amuses Rydia, as clearly she hasn't quite been left unaffected either. 
+
+"If this is because of the book, Vvaraak might know" Beck suggests, though they can't speak to him until they figure out what plane he resides on. Galen sighs about more questions, Beck pointing out they at least seem to have a starting point. He then suggests maybe they should grab some more drinks when they drop Azaka off at the bar, which the others think isn't a terrible idea.
+
+Galen seems somewhat lost and upset about what all is happening and what is going on, so Beck attempts to reassure him, tell him he's not alone, which doesn't really seem to convince him. They decide to just go for the drinks, parking the ship above the harbour where they left it before. 
+
+Before they head down, Rydia pulls Galen aside for a moment. She comments on how he's shown her that he doesn't really care about everything that's going on with her. "In several ways, that I found really ... reassuring." She kisses him. "Do you understand what I'm ..." she then says, and when Galen says he doesn't, she explains that the same goes for him. She doesn't care if something happened to him. "Also, you taste fine to me" she comments, before walking away.
+
+In the meantime, Beck checks in on Bonzo, who hid away in his workshop and is working on some things to try and distract himself. Beck tells him it's over and that they're going for drinks. "Is Rydia okay?" Bonzo asks, which Beck considers a loaded questions, before he hesitantly says that she seems to be back to 'normal'. 
+
+Beck then asks Bonzo if he's okay, which he confirms. "Just okay" he adds, which they agree is better than expected, but also worse than it can be. He then reassures Beck he'll be okay, and they join the others. 
+
+Petr has meanwhile written some notes, folding them up and putting them in some of the pockets of Azaka's jacket and then he reanimates the body. He, as well as the undead animated body of Azaka join the others. Orvex excuses himself, thanking the group for the flight back and heading in the direction of the House Tharashk people, seemingly glad to be getting away from the animated corpse.
+
+Bonzo casts Alarm on the ship before they all head down, Galen asking Petr if he's sure he's not from Karrnath as they make their way through the somewhat crowded streets of Newthrone. Galen and Petr spot some enforcers walking the streets of Karrnath; an older man wielding a rifle, as well as a larger, four armed warforged that's carrying two guns as well. The enforcers look over the crew, but don't notice the zombie, and simply greet the group before moving along.
+
+They make their way towards the [[Gold Dragon Inn]], where they initially found Azaka as well. It's very crowded inside, as the sandpits on the lower floor are being used for a boxing match. They manage to find a seat in the back of the bar, where it's a little less crowded. 
+
+Petr has Azaka follow behind the group a little distance, so it's not immediately apparent he's part of the group. As he walks in though, the barman instantly recognises Azaka, who Petr has move towards the bar. He has him pull out a note, with a gold coin in it. The note reads 'please keep the liquor flowing'. The barman is asking Azaka some questions, but simply starts pouring him drinks when he doesn't responds.
+
+After they're seated, Galen asks everyone what they want to drink before he heads to the bar to order said drinks for everyone. He's given some ale as well as a bottle of Firewhiskey. Whilst the barman works on his order, Galen notes the single gold coin that he also spotted before when they were at this same bar. 
+
+After the barman returns, Galen pays him and then asks him about the coin. The barman mentions a woman who he just can't get out of his mind. "Gorgeous, absolutely cracking" he goes on, before the fight in the sandpit distracts him for a moment. He turns back to Galen then, continuing about how fantastic this woman is, though when Galen asks, he admits he's never asked for her name. 
+
+"What does she look like?" Galen then asks and the bartender starts describing her. "She wears a black dress", and as he continues describing her, the door to the bar opens up and the woman herself walks in, dressed in black, with a familiar golden mask and scythe. 
 
 
 
