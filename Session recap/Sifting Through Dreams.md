@@ -3,9 +3,9 @@ order: 025
 date: December 8th, 2021
 ---
 # Sifting Through Dreams
-As tensions are rising, [[Athelonia]] takes a moment to look around, taking in her surroundings. Then, through gritted teeth, she addresses the orc who still has his bow drawn, telling him to come to where she is. He hesitates, mentioning [[Grix]], the gnoll, who isn't with them. She says she knows, but urges him to come over anyway, which he does, lowering his weapon.
+As tensions are rising, [[Athelonia]] takes a moment to look around, taking in her surroundings. Then, through gritted teeth, she addresses the orc [[Uldun]] who still has his bow drawn, telling him to come to where she is. He hesitates, mentioning [[Kryx]], the gnoll, who isn't with them. She says she knows, but urges him to come over anyway, which he does, lowering his weapon.
 
-Athelonia turns to Beck then. "We weren't going to do bad things with it, you know. If you're ever interested, you can find me in Metrol" she says, before waving her hand around her blade and casting Wind Walk, allowing her and her compatriots to escape. 
+[[Athelonia]] turns to Beck then. "We weren't going to do bad things with it, you know. If you're ever interested, you can find me in Metrol" she says, before waving her hand around her blade and casting Wind Walk, allowing her and her compatriots to escape. 
 
 Galen asks if everyone's alright, Petr saying he's far from alright, but this ended far better than he thought it would ten minutes ago. As they're talking, one of the poison dusk lizardfolk approaches Galen, holding out a bundle of dragonshards to him. "Nerima told us what happened. I'm sorry I didn't believe you before" he offers, Galen instantly assuring him it's not his fault. The lizardfolk thanks him and the others for their service to their city, Galen in turn thanking him for the shards. 
 
