@@ -1,5 +1,9 @@
 # Q'barra
 
+Locations:
+- [[Haka'thorvak]]
+- [[Newthrone]]
+
 Notable people:
 
 - **[[Lumiz d'Tharashk]]**: Spokesperson for the house of finding with Alternar Artefacts
