@@ -101,7 +101,7 @@ Beck confirms this, asking what the pocket watch does, so Galen explains it brin
 
 "So you don't know why she wants to keep you alive?" Beck asks, Galen saying that he doesn't really know. "It's not out of the goodness of her heart, I'm pretty sure." He's not sure what it is, what's going on, or how to stop it. Rydia points out that not everyone they meet can be evil, after which Bonzo points out that they were told Galen was the heir of something. 
 
-"Could that be the reason they want to keep you alive?" Galen isn't sure, mostly because he doesn't know what it means to be an heir of Aerenol, and the part of him having elven blood makes no sense to him. "This is to do with the dreams I told y'all about" he adds, before repeating that whatever she wants him alive for, probably isn't good.
+"Could that be the reason they want to keep you alive?" Galen isn't sure, mostly because he doesn't know what it means to be an heir of Aerenal, and the part of him having elven blood makes no sense to him. "This is to do with the dreams I told y'all about" he adds, before repeating that whatever she wants him alive for, probably isn't good.
 
 Bonzo asks who this 'she' is, so Galen explains he used to work for some Karrnath people, and this 'she' is who he used to work for. "Karrnath and not dying and undead..." Beck muses, to which Galen says he knows. Bonzo asks what Galen did, who explains he was somewhat of a research assistant. The people he worked for were looking for magic items, trinkets, etcetera. He wasn't working for her when he found the book though. 
 
@@ -109,7 +109,7 @@ Beck asks if this person knows about him finding the book, Galen saying that Mor
 
 "What does the golden skull mean?" Beck asks, Galen explaining it stands for the organisation she belongs to. He's heard his former employer call it the [[Sanguine Council]]. It doesn't ring a bell for anyone else. "They're just wrapped up in bad shit, that's all I know" Galen adds. He also mentions the dreams he had before.
 
-"They were talking about Aerenol and now I'm apparently the heir of Aerenol, I don't know ..." Bonzo asks him what exactly they did to him in the dreams, to which Galen says there was a needle and they injected him with something. Something to do with his blood. 
+"They were talking about Aerenal and now I'm apparently the heir of Aerenal, I don't know ..." Bonzo asks him what exactly they did to him in the dreams, to which Galen says there was a needle and they injected him with something. Something to do with his blood. 
 
 He also says he thinks the only people who might have answers to any of these questions are them, and he doesn't want to go looking for them. "You wanna know what I'm really worried about?" Galen then says, before saying that when they found the book, everyone else died except him. Beck points out Rydia also didn't die. 
 
