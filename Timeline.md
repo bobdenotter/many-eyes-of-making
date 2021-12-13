@@ -1,6 +1,7 @@
 # Timeline
 
-### Talenta Plains
+### Chapter 1: Just Trying to Keep Flying
+_Talenta Plains_
 
 | Date | |
 |-----|-----|
@@ -16,7 +17,8 @@
 | 14th of Eyre | Excellent day of travel, making great time |
 | 15th of Eyre | Attack by a Yrthak, that wrecks the ship with its sonic lance. The Heritage comes limping into Korranberg |
 
-### Shore Leave
+### Chapter 2: Shore Leave
+_Korranberg, Zilargo_
 
 | Date | |
 | --- | --- |
@@ -31,7 +33,8 @@
 | 26th / 27th of Eyre | Minor malfunction to the rudder, otherwise normal travel days. |
 | 28th of Eyre | Arrival in Newthrone, Q'barra in the evening. |
 
-### Q'barra
+### Chapter 3: The Eye
+_Q'barra_
 
 | Date | |
 | --- | --- |
@@ -44,3 +47,6 @@
 | Dravago 7th | Day of travel |
 | Dravago 8th | Day of travel, arrival in Newthrone at night. The party go to the Gold Dragon tavern and encounter the woman with the golden scythe. |
 
+
+### Chapter 4: Small Fish in a Big Bowl
+_Sharn, Breland_
