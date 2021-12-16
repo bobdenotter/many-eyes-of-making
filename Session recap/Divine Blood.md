@@ -105,3 +105,76 @@ Petr takes the third watch, finding him way atop the deck. He doesn't notice too
 The following morning, Galen finds himself still a little shaken from his dream, not having gotten a proper rest that night. They gather for breakfast, before Drogo appears with the drinks that Rydia ordered the night before. They give him the 'fake' coin back and Petr lowers the ship so that they can bring the casket of ale and other drinks aboard. 
 
 Rydia, Galen and Bonzo then head into town to check out the post office and send some letters of their own as Petr and Beck remain aboard the ship. 
+
+At the post office, Rydia, Galen as well as Bonzo have some letters. Rydia has one from her family, of which the general gist is that they want her to be safe. Galen has a note from his father, thanking him for his help with the family business. Bonzo has a response from the [[Architects]]. 
+
+Galen sends a letter to both Daphne and Esme, telling them he'll be in Sharn soon (telling Esme what port he thinks they'll be landing at and sharing the name of the ship with her as well) and Bonzo sends off some letters as well, one to his mother, one to his father (who he believes is still in Sharn), and one back to the Architects. 
+
+On the way back, Galen picks up a Healer's kit. 
+
+As they're waiting on the others to return, Beck checks in with Petr, curious if he's heard anything from the Gatekeepers. Petr admits that he hasn't, but he also hasn't really let them know anything himself. They discuss whether or not to keep them in the loop, Beck suggesting that it wouldn't hurt if they tell them that they still think Rydia isn't acting suspicious in any way. "Whilst I don't doubt the good intentions of the Gatekeepers, I don't think they're correct in their assessment of Rydia," Petr says.
+
+Beck wonders if they might find other ways to check up on Rydia if Petr doesn't keep them involved, so Petr says he'll send them a message sometime soon. "I'm going to make sure I don't say things that aren't true, but I'll make sure to paint Rydia in a positive light."
+
+Petr uses his Animal Messenger spell to summon said animal messenger, relaying this message to the parrot that shows up and sending it on its way. He then says that was a good idea, commenting on how that's probably why they made Beck captain. As Beck points out he still feels weird sleeping in the captain's quarters, the two of them agree to check in on Fianin sometime soon. "Let's not mention the fact that the ship keeps getting partially destroyed..."
+
+The man that Petr noticed on the docks before is still there, seemingly still looking out into the bay, waiting for something. Petr points him out to Beck, who looks out onto the bay to try and see if he can spot what the man is looking for. Petr theorizes what the man might be doing, then decides to head on over to go and find out. 
+
+He finds a spyglass aboard the ship and joins the man on the pier, standing beside him as he pulls out the spyglass, looking in the same direction. "So, have you spotted it yet?" he asks after a few minutes, the man saying he hasn't, though he's not sure what Petr means. 
+
+When asked what he's looking for, the man says it's a matter of life and death. "I'm looking for a single ship. The Emperor of the Waves," the man explains, adding that the ship was due for port a couple of months ago and it still hasn't arrived. Petr points out it must be heartbreaking, that he's still waiting after all that time.
+
+The man shares that the ship was coming from Sharn, then asks if they came in on the airship. Petr confirms this, then suggests they can give the man a ride back to Sharn, as that is where they're going anyway. The man says that the departure from Sharn apparently went fine, but no one returned back here. "I'm afraid that going back to Sharn would mean that I would be living in the slums of lower Durrah."
+
+He then asks if they saw a ship when they came flying in, which Petr didn't, but he offers they can go ask his captain. The man appreciates the offer, then introduces himself as [[Saan Aubreck]]. Petr introduces himself in turn, shaking Saan's hand. He then leads him up to the ship, where the two of them find Beck and ask him if he saw a ship.
+
+Having seen a ship adrift on the way into Q'barra, Beck tells Saan and Petr as much. He describes the ship he saw when they flew in, which Saan says does match the description of the Emperor. "I've heard rumors of other sailors coming into the bay having seen a ship like that, I just have no idea why it would stop there. I need that ship to dock," he says, and when asked he says that everything he owns is on that ship. 
+
+He seems to be telling the truth, though Beck feels like he's not quite telling them everything. Realising that where the ship was seen is somewhat on their way to Sharn, Beck and Petr suggest they could maybe fly by it on their way back, though they want to run it by the rest of the crew before deciding that. 
+
+Saan says he would be very grateful for that, mentioning payment and reward, as well as people he knows in Sharn that he could maybe talk to and who he could maybe introduce them to. 
+
+Conveniently, right about that time the others make their way back to the airship. Petr and Beck quickly explain who Saan is and what they've been discussing and as he's introduced, Galen recognises the name Albreck. He's never met Saan personally, but he's heard the name. Saan Albreck is part of the same concord in the Aurum that Beck's father is a part of. He's a very wealthy Brelish industrialist, but he seems to be very down in the dumps currently. 
+
+"Aren't you from Sharn? What're you doing all the way up here?" Galen asks him. Saan explains he was growing tired of the city and he decided to invest heavily in Newthrone, Q'barra and the possibilities of natural minerals here. "But it doesn't seem to have worked out .." Galen points out, prompting Saan to explain more.
+
+He purchased claims from King Sebastis, but all his paperwork is on the ship and without those papers he can't prove any of the land here is his. He hired a crew himself to transport thing as opposed to trusting House Sivis, which he now regrets. Galen asks him why he doesn't just go back to Sharn, to which Saan says that he has nothing there anymore, as he sold everything he owns for a fresh start here.
+
+"I've been trying to hire a crew since forever, but nobody wishes to work on the promise of money" Saan says, after which Galen turns to Beck, asking if he's wanting to take a look at this. Beck says he did intend on doing that, unless anyone has any strong objections. Rydia offers Saan some breakfast, and then Galen introduces himself to Saan, who recognises his last name. "Of Beren d'Arcy?" he asks, which Galen confirms. 
+
+Saan goes on to say that the pay he was offering people was 10% of his worldly wealth, Beck deducing that how much that will amount to might have to do with how many papers they'll be able to retrieve. "That is correct." There's also some personal effects that he wouldn't mind retrieving, but Beck tells him they'll just have to wait and see what they find, less interested in payment, especially cos it's already on their way anyway. 
+
+They discuss some other practicalities when it comes to Saan joining them on their way there, Saan agreeing to join and saying he'll figure out a way back to Newthrone if they can just drop him off somewhere. With that all agreed, they head out, travelling for a little over a day until they get to where Beck last say the ship.
+
+En route, they get to know Saan a little better. He was mainly tied up in iron and steel working businesses back in Sharn, owning a lot of forges below Sharn. He was part of some of the weaponry that was created by Breland during the way, but was also involved in domestic building materials. He seems very humbled by this experience and what has happened and Galen knows he wasn't always this humble before. 
+
+Though it's foggy out, Galen and Beck manage to spot the Emperor regardless, pointing it out to the others. Saan confirms that it does indeed look like the Emperor. They move the ship a little closer, Beck using Clairvoyance to see if he can spot anything below deck on the ship. 
+
+As they get closer to the ship, they see it's somewhat damaged. Two of it's mast seem to have been sawn off. There's no debris on the upper deck, but something seems to have been almost toying with the ship. Pieces of debris are floating around it and they can see the figurehead is missing. 
+
+Through his spell, Beck can see beneath the deck. A bit of light comes in through the grate on the upper deck, illuminating a wooden walkway that seems to be right above the hold. There's a hatch that's leading further down into the ship. There's water dripping and slushing around in the hallway and as he looks around, Beck spots some black/purple secretion clinging to the walls. 
+
+In it, he can see various small little bubbles that almost seem to be looking back at him. He recognises this from before and shares it with the others. 
+
+"That sounds like way too much of a coincidence" Petr points out, Beck turning to Saan to ask if he's somehow familiar with any of this. He claims he has no idea what this is. Galen points out they're going to have to go down there anyway, taking the lead after Petr moves the ship further down. 
+
+Leaving Saan Albreck back on the ship, they all board the Emperor and start looking around. Before they go, he does tell them where they can find things, pointing out all of it should be down in the hold, in an ornate box of sorts. 
+
+Bonzo takes a look at the masts, trying to figure out if they really were sawn off. He's fairly certain no saw was used; the cuts don't look clean enough. The ship's masts seem to have been broken off; splinters are sticking out of the wood and there's barnacles on the wood that's left behind. "There's not usually barnacles on the top of a ship..." Bonzo points out, which the others agree does seem odd.
+
+Meanwhile, Galen tries to open the grate to below deck, managing to pick the padlock that's keeping it shut. From atop the deck, Beck casts Detect Thoughts, the spell picking up on multiple brain waves from all around. They don't seem to be coming from the black/purple goop all around. 
+
+He alerts the others to this, after which Galen drops down to the floor below, Petr soon following, the two of them attempting to be quiet and mostly succeeding. Before heading to the hold below, Galen checks a door to the side, listening to see if he can hear anything. He can hear a rhythmic thudding sound, as if two things are bumping into each other because of the waves.
+
+Taking a peek inside, he sees that the floor of that chamber is completely covered in the purple goop, except for a few random spots that have sigils carved into the wood that the goop is staying away from. It's on the walls and the ceiling as well, dripping down and in the corner of the room there's three cocoons, hanging from the ceiling. 
+
+Galen quickly closes the door again, turning to Petr and putting a finger to his mouth, telling him to be quiet. They then check the hatch that leads down, Galen quietly opening it up. He can see there's dark, muddy sea water in the hold, sloshing against old and molding crates that seem to all be piled up against the ship's port hole. 
+
+Both Galen and Petr drop down to this level of the ship. As Petr drops down, less quietly than before, all of them suddenly feel watched, like something was just alerted to their presence. It doesn't sit well with any of them. Nothing else happens in that moment, so Petr and Galen start looking around for Saan's belongings, actually managing to spot the ornate box he described to them with relative ease.
+
+It's quite a heavy box, so they start hauling it towards the hatch back up, which is easier said than done. Together, Petr and Galen manage to get it there, but right as he looks up to Rydia for help, Galen hears whispers echoing in his mind and freezes up, seemingly from out of nowhere. 
+
+At that point, everyone can heard a sharp, loud ringing sound...
+
+
+
