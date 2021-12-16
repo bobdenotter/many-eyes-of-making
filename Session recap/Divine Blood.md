@@ -14,11 +14,11 @@ She looks up for a moment, giving Rydia a sly smile. Beck looks at the symbol on
 
 The woman then looks over at Galen, and she offers him a sly smile as well. "Problem?" Galen asks, to which she says there's no problem, but she didn't expect to see him here. He asks her where she did expect to see him. "Oh I don't know, more civilized surroundings?" She comments on how he's picked an interesting corner of Khorvaire, calling him by his name. 
 
-She then asks him if he's staying safe. "I just think it's very important that you stay safe," she says when Galen asks her why that matters to her. Now that he's getting a closer look at her and getting to speak to her, Galen recognises the woman's voice. He recalls Lady Vedanthe speaking to her and calling her [[Saedra]]. 
+She then asks him if he's staying safe. "I just think it's very important that you stay safe," she says when Galen asks her why that matters to her. Now that he's getting a closer look at her and getting to speak to her, Galen recognises the woman's voice. He recalls Lady Vidante speaking to her and calling her [[Saedra]]. 
 
 Galen asks her if she's in town for long, to which she says she's only popping in and out. The two continue to speak as the woman watches her two men pick up the body. "Until next time," she then says, running her finger along Galen's jawline before she makes her exit. Before she walks back, she looks around the bar and after she walks out, only a few of the people inside remember her even being here. 
 
-Out of the crew, only Petr and Galen remember what just happened, the others left somewhat confused as to what they seem to have missed. Slowly, people in the bar start talking to each other again, picking up conversations where they left of and it's only because Petr and Galen comment on what just happened that the others question whether or not they just missed something. 
+Out of the crew, only Petr and Galen remember what just happened, the others left somewhat confused as to what they seem to have missed. Slowly, people in the bar start talking to each other again, picking up conversations where they left off and it's only because Petr and Galen comment on what just happened that the others question whether or not they just missed something. 
 
 Galen looks to Rydia to figure out if she remembers what just happened, which she doesn't. "Karrnathies were here, just now" Galen then explains, though he's unwilling to go into it right now, suggesting they should discuss this somewhere else. "I promise I will explain everything, but not in this bar."
 
@@ -26,13 +26,13 @@ As Azaka is still downing drinks at the bar, Beck comments on how they probably 
 
 After they finish their drinks, the crew leaves Azaka behind as they head back towards the ship. They discuss their plans of what to do next, agreeing they'll sleep on the ship tonight, get some last supplies the following morning, send some letters and then be on their way. 
 
-Back at the Heritage, Beck asks Galen for that explanation he promised. "You remember when you two met us?" Galen asks Beck and Petr, mentioning the bar they met in back in Gatherhold. He talks about how he and Rydia got into a fight with the Daask, a bunch of people died. "Before I really knew what was happening, the door opened and a bunch of Karrnathy soldiers walked in, along with this lady with a gold mask and a scythe." She had her men collect the bodies, left coins behind for those collected and then walked out. "And no one else could remember what happened apart from Rydia and I."
+Back at the Heritage, Beck asks Galen for that explanation he promised. "You remember when you two met us?" Galen asks Beck and Petr, mentioning the bar they met in back in Gatherhold. He talks about how he and Rydia got into a fight with the Daask, a bunch of people died. "Before I really knew what was happening, the door opened and a bunch of Karrnathi soldiers walked in, along with this lady with a gold mask and a scythe." She had her men collect the bodies, left coins behind for those collected and then walked out. "And no one else could remember what happened apart from Rydia and I."
 
 Bonzo asks if that just also happened in the bar, which Galen confirms. Petr also confirms that he does remember this happening at the bar tonight, whereas Rydia, Beck and Bonzo no longer recall this. "What did she want at the bar?" Bonzo asks, Galen saying she wanted the bodies as Beck wonders if this is a normal Karrnath thing, as they do seem to have a thing with the undead. Galen knows there are body collectors, but none of them dress up like that. He also recalls the Emerald Claw symbol, like Beck did earlier, except Beck no longer remembers this. 
 
 "Karrnath has a thing about undead, the bodies thing is not unusual, but the thing she's coming all the way down here for this is weird. She also knew exactly who I was..." Galen goes on, Beck pointing out that the masks and the Sanguine Council does seem to connect to Galen. 
 
-Seeing these Emerald Claw soldiers again sparks some memories for Galen. He recalls seeing these soldiers in a religious procession, together with his employer at the time, Lady Vedanthe. She explained they are a fanatic following of the Blood of Vol, a relatively common religion in Karrnath. It states that the blood of the living is sacred, that is your path to divinity. They see somebody who is undead as inherently not divine, but therefore a martyr, as they gave up their divinity to serve some purpose or another. 
+Seeing these Emerald Claw soldiers again sparks some memories for Galen. He recalls seeing these soldiers in a religious procession, together with his employer at the time, Lady Vidante. She explained they are a fanatic following of the Blood of Vol, a relatively common religion in Karrnath. It states that the blood of the living is sacred, that is your path to divinity. They see somebody who is undead as inherently not divine, but therefore a martyr, as they gave up their divinity to serve some purpose or another. 
 
 Galen shares this with the others, which leaves Bonzo to wonder why they would come all the way out here. "Why at bars?" Galen points out people seem to die at bars, which the others find a somewhat questionable explanation. 
 
@@ -42,7 +42,7 @@ Rydia asks if these are the people who are concerned about keeping Galen alive, 
 
 They find their way back, finding a couple of regulars as well as Azaka still at the bar as Drogo is cleaning up. He recognises the two of them and greets them, Beck telling him they were curious about the coins. Azaka asks him how he knows about the second coin, Beck saying they were there and remember the coin being dropped off, which isn't true. Azaka points out most people don't remember, to which Rydia points out she's special, removing her mask. 
 
-Beck then asks him if they can take a look at the coins, which Azaka agrees to. He puts both coins on the bar and Beck and Rydia take a closer look, though they don't note anything particularly strange about the coins. They're of Karrnathy mintage, both have blood on them, but other than that they're normal coins. 
+Beck then asks him if they can take a look at the coins, which Azaka agrees to. He puts both coins on the bar and Beck and Rydia take a closer look, though they don't note anything particularly strange about the coins. They're of Karrnathi mintage, both have blood on them, but other than that they're normal coins. 
 
 "Could we hold on to the new one?" Beck asks, but Drogo seems somewhat reluctant to let go of the coins. Beck shares that the person who gave it to him seems to have an interest in someone of his crew, and they're looking into that. Using Detect Thoughts, Rydia picks up on Drogo being attracted to the woman, and also being amazed how Azaka is still drinking. Rydia tries to dig deeper into his thoughts, but it fails and Drogo picks up on it, instantly less reluctant to help them out.
 
@@ -62,7 +62,7 @@ Bonzo suggests that maybe they should go to Haka'torvak to figure this out, thou
 
 "Whatever is going on with me, is not important. What's important is getting to Sharn, figuring out what's up with the Eyes and finding this guy who can help is figure out what we're dealing with" Galen says, Rydia promptly slapping him. "Let's consider those things of equal importance, shall we?" she says. 
 
-Beck says he wants to hold on to the coin, as it's one of their very few leads. He adds they can put it in the doorknob. "I know it sounds like a bad idea right now, but if in the future we can somehow use the coin to get to the lady, it might be useful" he adds, Rydia and Petr agreeing that they can give Drogo a fake coin. Beck puts the coin away inside some fabric and then they all sift through their pockets, eventually finding a Karrnathy coin that Galen puts some blood on. 
+Beck says he wants to hold on to the coin, as it's one of their very few leads. He adds they can put it in the doorknob. "I know it sounds like a bad idea right now, but if in the future we can somehow use the coin to get to the lady, it might be useful" he adds, Rydia and Petr agreeing that they can give Drogo a fake coin. Beck puts the coin away inside some fabric and then they all sift through their pockets, eventually finding a Karrnathi coin that Galen puts some blood on. 
 
 To be sure, Beck casts Dispel Magic on Galen's blood. As he does, a blue cloud of ectoplasm rises from the blood. With all that discussed and taken care of, they all get ready for bed. 
 
@@ -76,11 +76,11 @@ With their watch coming to an end, Beck goes to wake Bonzo, who joins Rydia for 
 
 Meanwhile, Galen dreams. He finds himself shivering. He can't see anything through the thick canvas bag over his head and his feet and his arms are bound by metal. Through the canvas he can make out sources of torch light and he starts to hear voices.
 
-"Is it done, Lady Vedanthe?" the voice asks. Lady Vedanthe confirms this. "I think we're ready, Saedra." He gets pushed forward, bare feet on cold tiles as he moves forward. The torchlight seems to come closer and he can hear the chains rattling from people behind him, hearing breathing as well as whimpered cries. 
+"Is it done, Lady Vidante?" the voice asks. Lady Vidante confirms this. "I think we're ready, Saedra." He gets pushed forward, bare feet on cold tiles as he moves forward. The torchlight seems to come closer and he can hear the chains rattling from people behind him, hearing breathing as well as whimpered cries. 
 
-He gets stopped, Lady Vedanthe's voice saying: "Now, let's see if this works." There's a rush of light as the bag is pulled from his head and he can see he's in the middle of some sort of temple complex. In the center of the area there's an altar and around him there's a pool of mixed blood. 
+He gets stopped, Lady Vidante's voice saying: "Now, let's see if this works." There's a rush of light as the bag is pulled from his head and he can see he's in the middle of some sort of temple complex. In the center of the area there's an altar and around him there's a pool of mixed blood. 
 
-He can see two women, Lady Vedanthe and Saedra, both wearing gowns that seem to be made out of liquid blood. Saedra's mask is on top of her head as she approaches him with a golden dagger in hand. "Do you have any last words before you become part of this great experiment?"
+He can see two women, Lady Vidante and Saedra, both wearing gowns that seem to be made out of liquid blood. Saedra's mask is on top of her head as she approaches him with a golden dagger in hand. "Do you have any last words before you become part of this great experiment?"
 
 Galen speaks, saying "I'm not gonna let you get away with this," but the voice coming out of his mouth is not Galen's voice. As he peers over her shoulder, he can see a body, strapped to the altar, that he recognises as his own body. Saedra plunges the dagger into his throat and he can feel his sense of self leaving the body he's in now, slowly drifting in this space before shooting into the sternum of Galen d'Arcy.
 
