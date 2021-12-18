@@ -124,7 +124,7 @@ He finds a spyglass aboard the ship and joins the man on the pier, standing besi
 
 When asked what he's looking for, the man says it's a matter of life and death. "I'm looking for a single ship. The Emperor of the Waves," the man explains, adding that the ship was due for port a couple of months ago and it still hasn't arrived. Petr points out it must be heartbreaking, that he's still waiting after all that time.
 
-The man shares that the ship was coming from Sharn, then asks if they came in on the airship. Petr confirms this, then suggests they can give the man a ride back to Sharn, as that is where they're going anyway. The man says that the departure from Sharn apparently went fine, but no one returned back here. "I'm afraid that going back to Sharn would mean that I would be living in the slums of lower Durrah."
+The man shares that the ship was coming from Sharn, then asks if they came in on the airship. Petr confirms this, then suggests they can give the man a ride back to Sharn, as that is where they're going anyway. The man says that the departure from Sharn apparently went fine, but no one returned back here. "I'm afraid that going back to Sharn would mean that I would be living in the slums of Lower Dura."
 
 He then asks if they saw a ship when they came flying in, which Petr didn't, but he offers they can go ask his captain. The man appreciates the offer, then introduces himself as [[Saan Aubreck]]. Petr introduces himself in turn, shaking Saan's hand. He then leads him up to the ship, where the two of them find Beck and ask him if he saw a ship.
 
