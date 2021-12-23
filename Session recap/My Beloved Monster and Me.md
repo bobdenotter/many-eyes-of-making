@@ -4,7 +4,7 @@ date: December 22nd, 2021
 ---
 
 # My Beloved Monster and Me
-The sound rings in combat, the crew finding themselves spread across the three decks of the ship. Rydia, Beck and Petr all three are met with sights that scare them: Petr sees Rydia change again into a monstrous tentacles creature as in turn, Rydia sees Petr point his staff at her, yelling that she doesn’t belong here. Beck, at the top deck of the ship, sees a large hand appear, putting the enforcer the crew saw in town not too long ago on deck. The figure draws a rifle and points it at him. 
+The sound rings in combat, the crew finding themselves spread across the three levels of the ship. Rydia, Beck and Petr all three are met with sights that scare them: Petr sees Rydia change again into a monstrous tentacles creature as in turn, Rydia sees Petr point his staff at her, yelling that she doesn’t belong here. Beck, at the top deck of the ship, sees a large hand appear, putting the enforcer the crew saw in town not too long ago on deck. The figure draws a rifle and points it at him. 
 
 Meanwhile, Bonzo sees a creature emerge through the door behind Rydia, as down below, Galen is still stunned and unable to move. What follows is a messy combat, with tentacles soon appearing from below the ship, wrapping around it and pulling it down, causing cracks to appear in the lower hold and creatures to climb in through said cracks. 
 
@@ -16,17 +16,17 @@ As they climb back onto the deck, they spot Saan, going through the box of his b
 
 They ask him if they found what he was looking for, which Saan confirms, thanking them sincerely. He starts writing them a check, promising they can cash that in at a bank at a later time. As they check in with each other, Bonzo asks what that down there was. None of them really know much about what those creatures were, nor what their interest in that ship was, though Saan seems to know more. 
 
-Bonzo and Beck do know of rumors they’ve heard of purple skinned tentacle creatures, but know nothing much outside of that. Saan at first pretends he doesn’t know much more, ignoring Bonzo’s question about it and simply handing the check to Beck, saying it’s about 10 thousand gold. Bonzo urges him to answer his question, repeating it and Saan soon relents, sharing the truth. 
+Bonzo and Beck do know of rumors they’ve heard of purple skinned tentacle creatures, but know nothing much outside of that. Saan at first pretends he doesn’t know much more, ignoring Bonzo’s question about it and simply handing the check to Beck, saying it’s about ten thousand gold. Bonzo urges him to answer his question, repeating it and Saan soon relents, sharing the truth. 
 
-“I shouldn’t, but … all of you risked your lives and … well, screw it.” He goes on to explain he used to own a bunch of mines in the Greywall Mountains. One of them contained a strange place. “I’ve been there myself; my prospectors told me I should really see it with my own eyes. It was some strange altar down in the mine.” Carved ruins, it seemed very old and they had no idea what it was.
+“I shouldn’t, but … all of you risked your lives and … well, screw it.” He goes on to explain he used to own a bunch of mines in the [[Greywall Mountains]]. One of them contained a strange place. “I’ve been there myself; my prospectors told me I should really see it with my own eyes. It was some strange altar down in the mine.” Carved ruins, it seemed very old and they had no idea what it was.
 
 “When we were inspecting it we were confronted by a group of orcs. They told me it was a gateway, something that we should keep shut at all times, because creatures like those below are behind it.” He goes on to say that they gave him a key to keep safe and he thinks maybe that’s what these creatures were after. Beck asks if the statue is the key, which Saan confirms. 
 
 They continue discussing this for a moment, none of them sure where these creatures came from. Saan seems to genuinely not know how they found the ship or how they knew what was being transported on it. He adds that this is why he didn’t deposit his things into a bank; he’s been to the Mror Holds and has seen people fight these creatures, it was the main reason he wanted to use his own transportation. “I don’t trust anyone, I’m very paranoid like that.” 
 
-Bonzo points out that in this case, that seems justified, before thanking Saan for the sizable reward he just gave them. They discuss where to go next, soon setting course to Adder Port where they promised to drop off Saan. He says that from there, he will make his way to King Sebastis’ court, claim his land and start his new adventure in Q’barra. 
+Bonzo points out that in this case, that seems justified, before thanking Saan for the sizable reward he just gave them. They discuss where to go next, soon setting course to [[Adder Port]] where they promised to drop off Saan. He says that from there, he will make his way to King Sebastis’ court, claim his land and start his new adventure in Q’barra. 
 
-On their way to Adder Port, Saan packs up his things and writes Beck a note, handing it to him. “I have some good friends in Sharn, the Laisha family. They are, like me, well off, and ..” He goes on to describe them, but Beck recognises the name. They were weapons manufacturors for the previous crown and worked together with House Cannith a lot in the past. They’ve since moved away from that to make other stuff. “Ervalt Laisha is the patriarch of the house, he’s an honorably man. He can definitely get you work in the city if you need it, and has some pull with the council of the city.”
+On their way to Adder Port, Saan packs up his things and writes Beck a note, handing it to him. “I have some good friends in Sharn, the Laisha family. They are, like me, well off, and ..” He goes on to describe them, but Beck recognises the name. They were weapons manufacturors for the previous crown and worked together with House Cannith a lot in the past. They’ve since moved away from that to make other stuff. “[[Ervalt Laisha]] is the patriarch of the house, he’s an honorably man. He can definitely get you work in the city if you need it, and has some pull with the council of the city.”
 
 Beck also knows that the Laisha family are not necessarily on good terms with the Canniths anymore, though they are still cordial towards them. 
 
@@ -36,31 +36,31 @@ Soon after, they set course for Sharn.
 
 The first day of travel is largely uneventful. On the second day, Petr takes the time to write a letter to the Gatekeepers.
 
-“Dear Gatekeepers,
+“*Dear Gatekeepers,
 
-It is me, your friend Petr. I am writing you today to let you know my findings regarding Rydia, as you’ve asked me to do. My apologies for not writing any sooner, I have not had any opportunity to do so at an earlier time. As it happens, we’ve been in turmoil of events since I’ve rejoined the group after we last met. Most recently we were in Haka’torvak, where we barely managed to escape with our lives. 
+*It is me, your friend Petr. I am writing you today to let you know my findings regarding Rydia, as you’ve asked me to do. My apologies for not writing any sooner, I have not had any opportunity to do so at an earlier time. As it happens, we’ve been in turmoil of events since I’ve rejoined the group after we last met. Most recently we were in Haka’torvak, where we barely managed to escape with our lives. 
 
-Anyhow, about Rydia. It is true that she is an enigma, but as I’ve now spent more time around her, I’m convinced that she is not what you fear. She might be corrupted by her involuntary interaction with the Tome of Vvaraak, but I’m convinced she is not inherently evil, nor did she seek out this corruption herself.
+*Anyhow, about Rydia. It is true that she is an enigma, but as I’ve now spent more time around her, I’m convinced that she is not what you fear. She might be corrupted by her involuntary interaction with the Tome of Vvaraak, but I’m convinced she is not inherently evil, nor did she seek out this corruption herself.
 
-In fact, we’ve been actively working together to find a way to untangle this whole shitstorm. I will let you know more at a later time, because we’re still in the dark ourselves, so to say. During our travels we did meet up some of these Emerald Claw folks, and while I’m not certain of their motives just yet, I am confident that we best stay clear of them as best as possible.
+*In fact, we’ve been actively working together to find a way to untangle this whole shitstorm. I will let you know more at a later time, because we’re still in the dark ourselves, so to say. During our travels we did meet up some of these Emerald Claw folks, and while I’m not certain of their motives just yet, I am confident that we best stay clear of them as best as possible.
 
-We are currently travelling to Sharn hoping to find more answers. From now on I will make sure to keep you updated in a more timely fashion.
+*We are currently travelling to Sharn hoping to find more answers. From now on I will make sure to keep you updated in a more timely fashion.
 
-Greetings, 
+*Greetings, 
 
-Petr Petrson IV
+*Petr Petrson IV
 
-Also please give my warmest regards to Thom if he is still there with you.
+*Also please give my warmest regards to Thom if he is still there with you.
 
-PS. I am still grateful for the wonderful staff I’ve been given, it excellent for clobbering foes with. 
+*PS. I am still grateful for the wonderful staff I’ve been given, it excellent for clobbering foes with. 
 
-PPS. I am aware we did not really discuss this when we previously met, but I have been keeping receipts of all necessary expenses. I’m sure the Gatekeepers’ bookkeeper will appreciate this. Haha see what I did there?”
+*PPS. I am aware we did not really discuss this when we previously met, but I have been keeping receipts of all necessary expenses. I’m sure the Gatekeepers’ bookkeeper will appreciate this. Haha see what I did there?”
 
 After he finishes writing the note, he notices a drawing on his door of what looks to be a zombie Azaka. There’s text underneath, that says “I know what you did in Newthrone.” He takes note of it, but doesn’t do anything else with it. The second day goes by without much hassle. 
 
 Travel continues, and on one of the following days Galen finds himself on the deck as he notices a massive airship glide overhead. As he looks around, he realises they’re passing through a collection of airships that all hang above a seemingly small settlement. There’s dessert all around, with a massive piece of red dessert rock sticking out with some buildings on top of it. There’s a gleaming white airship dock above it all. 
 
-Petr recognises this as Taer Shantara. Most of the airships seem to be here to help with construction on that gleaming white building on the red rock. There’s large cacti dotted around the landscape in and around the buildings, with taps inside them that seem to be used for irrigation throughout the city. 
+Petr recognises this as [[Taer Shantara]]. Most of the airships seem to be here to help with construction on that gleaming white building on the red rock. There’s large cacti dotted around the landscape in and around the buildings, with taps inside them that seem to be used for irrigation throughout the city. 
 
 The city itself seems fairly new as a whole and Petr and Beck recall Fianin mentioning this place. She never wanted to go, because she hated Valenar elves. Taer Shantara is a new city that house Lyrandar is building for themselves and all the Khorvar in Eberron; a city for half-elves. 
 
@@ -88,7 +88,7 @@ With her Detect Thoughts, Rydia soon picks up on some guilt about tricking peopl
 
 Bonzo says he can remove the spell from the pillow, which comes flying at his head about ten seconds later. He catches it, removing the spell and throwing it back, Rydia now amused by the situation moreso than Bonzo’s pranks. Rydia compliments’ Bonzo’s reflexes, who says he feels much better since they left Haka’torvak.
 
-This turns the conversation to how both Haka’torvak and the Emperor weren’t fun places to be in, Rydia saying they should do something easy when they get to Sharn, to balance out all the terrible things from before. She suggests helping an old lady, which turns into helping out at a food shelter and that somehow turns to Bonzo suggesting he can make a porridge machine. 
+This turns the conversation to how both Haka’torvak and the Emperor weren’t fun places to be at, Rydia saying they should do something easy when they get to Sharn, to balance out all the terrible things from before. She suggests helping an old lady, which turns into helping out at a food shelter and that somehow turns to Bonzo suggesting he can make a porridge machine. 
 
 Beck and Petr join the conversation, having taken note of something going on. The others share their porridge machine plans, and the plan behind it all that they want to do something nice for a change. “Everything sucks and they want to do something nice,” Galen summarises, Bonzo explaining how that went from feeding an old lady to a porridge machine. “I just want to do something nice that doesn’t involve too many tentacles,” Rydia points out. 
 
@@ -114,7 +114,7 @@ Galen then excuses himself, but Rydia soon follows, finding a bottle from the ki
 
 As they move further away from the Mournland the following day, the airship is gliding over Darguun with very little light around the airship. From atop the deck, Beck can still see the wall of clouds behind them as strange lights from the stratosphere bounce of the mists, illuminating the lands of Darguun in violet light.
 
-It’s dark out and in the distance, slightly obscured by the mists of the Mournland, Beck sees the vague shapes and contours of a Cyrian city called Whiteheart. A narrow city, built up into the sky, there’s the skeletal wreckage of buildings and houses. There, he sees a large central temple of Olladra, strangely still intact amidst this cemetery of ruined buildings. 
+It’s dark out and in the distance, slightly obscured by the mists of the Mournland, Beck sees the vague shapes and contours of a Cyrian city called [[Whiteheart]]. A narrow city, built up into the sky; there’s the skeletal wreckage of buildings and houses. There, he sees a large central temple of Olladra, strangely still intact amidst this cemetery of ruined buildings. 
 
 He visited this temple once before, knowing it’s built on an overlook of the entire city. The overlook itself is a large shard of glass coming out of the ground, and the temple looks like it’s floating above the city proper. There used to be a statue of a woman with her hand up, and an illusion programmed into it as if she’s throwing dice into the air.
 
