@@ -4,7 +4,7 @@ date: December 22nd, 2021
 ---
 
 # My Beloved Monster and Me
-The sound rings in combat, the crew finding themselves spread across the three levels of the ship. Rydia, Beck and Petr all three are met with sights that scare them: Petr sees Rydia change again into a monstrous tentacles creature as in turn, Rydia sees Petr point his staff at her, yelling that she doesn’t belong here. Beck, at the top deck of the ship, sees a large hand appear, putting the enforcer the crew saw in town not too long ago on deck. The figure draws a rifle and points it at him. 
+The sound rings in combat, the crew finding themselves spread across the three levels of the ship. Rydia, Beck and Petr all three are met with sights that scare them: Petr sees Rydia change again into a monstrous tentacles creature as in turn, Rydia sees Petr point his staff at her, yelling that she doesn’t belong here. Beck, at the top deck of the ship, sees a large hand appear, putting the man in black who hunted them in Gatherhold not too long ago on deck. The figure draws a rifle and points it at him saying "You're captain now, big boy".
 
 Meanwhile, Bonzo sees a creature emerge through the door behind Rydia, as down below, Galen is still stunned and unable to move. What follows is a messy combat, with tentacles soon appearing from below the ship, wrapping around it and pulling it down, causing cracks to appear in the lower hold and creatures to climb in through said cracks. 
 
