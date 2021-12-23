@@ -12,7 +12,7 @@ Bonzo and Rydia do their best to deal with the mindflayer and a mindwitness that
 
 Petr manages to make his way outside by wildshaping into a goldfish as Bonzo uses a spell to teleport the thankfully no longer stunned Rydia onto the underside of the Heritage, where she’s able to latch on with her tentacles. Everyone else is able to grab hold of the rope ladder dangling from the ship and as the Emperor is dragged down to the depths of the sea, they find their way back up to the deck of the Heritage, bruised and battered but still alive. 
 
-As they climb back onto the deck, they spot Saan, going through the box of his belongings, seemingly particularly interested in a statue that’s inside. It looks like a statue of an angel, with vines around the neck as well as ankles, but Saan quickly puts it away as soon as he notices the crew is back aboard. 
+As they climb back onto the deck, they spot Saan, going through the box of his belongings, seemingly particularly interested in a statue that’s inside. It looks like a statue of an angel, with vines around the neck as well as wrists, but Saan quickly puts it away as soon as he notices the crew is back aboard. 
 
 They ask him if they found what he was looking for, which Saan confirms, thanking them sincerely. He starts writing them a check, promising they can cash that in at a bank at a later time. As they check in with each other, Bonzo asks what that down there was. None of them really know much about what those creatures were, nor what their interest in that ship was, though Saan seems to know more. 
 
@@ -22,11 +22,11 @@ Bonzo and Beck do know of rumors they’ve heard of purple skinned tentacle crea
 
 “When we were inspecting it we were confronted by a group of orcs. They told me it was a gateway, something that we should keep shut at all times, because creatures like those below are behind it.” He goes on to say that they gave him a key to keep safe and he thinks maybe that’s what these creatures were after. Beck asks if the statue is the key, which Saan confirms. 
 
-They continue discussing this for a moment, none of them sure where these creatures came from. Saan seems to genuinely not know how they found the ship or how they knew what was being transported on it. He adds that this is why he didn’t deposit his things into a bank; he’s been to the Mror Holds and has seen people fight these creatures, it was the main reason he wanted to use his own transportation. “I don’t trust anyone, I’m very paranoid like that.” 
+They continue discussing this for a moment, none of them sure where these creatures came from. Saan seems to genuinely not know how they found the ship or how they knew what was being transported on it. He adds that this is why he didn’t deposit his things into a Khundarak bank; he’s been to the Mror Holds and has seen the dwarves fight these creatures, it was the main reason he wanted to use his own transportation. “I don’t trust anyone, I’m very paranoid like that.” 
 
 Bonzo points out that in this case, that seems justified, before thanking Saan for the sizable reward he just gave them. They discuss where to go next, soon setting course to [[Adder Port]] where they promised to drop off Saan. He says that from there, he will make his way to King Sebastis’ court, claim his land and start his new adventure in Q’barra. 
 
-On their way to Adder Port, Saan packs up his things and writes Beck a note, handing it to him. “I have some good friends in Sharn, the Laisha family. They are, like me, well off, and ..” He goes on to describe them, but Beck recognises the name. They were weapons manufacturors for the previous crown and worked together with House Cannith a lot in the past. They’ve since moved away from that to make other stuff. “[[Ervalt Laisha]] is the patriarch of the house, he’s an honorably man. He can definitely get you work in the city if you need it, and has some pull with the council of the city.”
+On their way to Adder Port, Saan packs up his things and writes Beck a note, handing it to him. “I have some good friends in Sharn, the Laisha family. They are, like me, well off, and ..” He goes on to describe them, but Beck recognises the name. They were weapons manufacturors for the Brelish crown and worked together with House Cannith a lot in the past. They’ve since moved away from that to make other stuff. “[[Ervalt Laisha]] is the patriarch of the house, he’s an honorably man. He can definitely get you work in the city if you need it, and has some pull with the council of the city.”
 
 Beck also knows that the Laisha family are not necessarily on good terms with the Canniths anymore, though they are still cordial towards them. 
 
@@ -122,6 +122,6 @@ Taking a moment, Beck takes out the deck of cards from his wife, drawing one; hi
 
 On their last day of travel, Rydia spots a particularly large goose, shooting it down from the sky and preparing that for dinner that night; a last great meal before they reach their destination.   
 
-As the last day of travel concludes, roughly around dusk, they start gliding into the City of Towers. They can see an orange glow that covers the top of Lyrander Tower as the sun sinks into the sky. Near them, the great air ships of House Lyrander float like leviathan surrounded by brilliant rings of energy. 
+As the last day of travel concludes, roughly around dusk, they start gliding into the City of Towers. An orange glow covers the top of Lyrandar Tower as the sun sinks in the sky. Near them, the great airships of House Lyrandar float like leviathans surrounded by brilliant rings of elemental energy. 
 
-Below they can see a criss cross of bridges, connecting the many towers of the city. The sounds of the city meet their ears; a unique mesh of airships, children playing and many more that indicates they’ve arrived in Sharn.**
+Below, bridges crisscross at all levels of the city, connecting Sharn’s great towers. The sounds of crying children, barking vendors, cursing skycoach drivers, and braying hippogriffs rise up to become a unique din that can only be heard in the City of Towers.
