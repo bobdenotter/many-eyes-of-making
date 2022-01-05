@@ -46,6 +46,11 @@ _Q'barra_
 | Dravago 6th | The airship gets fixed and the party sets off towards Newthrone again. |
 | Dravago 7th | Day of travel |
 | Dravago 8th | Day of travel, arrival in Newthrone at night. The party go to the Gold Dragon tavern and encounter the woman with the golden scythe. |
+| Dravago 9th | Spend most of the day in Newthrone getting supplies, the party meet Saan Aubreck |
+| Dravago 10th | The party explores the Emperor of the Waves and drops off Saan Aubreck who pays them hansomely for this little sidequest |
+| Dravago 11th - 22rd | Travel |
+| Dravago 23rd | Arrival in Sharn in the evening. The party stay at a fancy hotel and eat some dinner |
+| Dravago 24rd | The party meet Galens' parents, get to know Esme better and go find out about a gnome diplomat to Zilargo |
 
 
 ### Chapter 4: Small Fish in a Big Bowl
