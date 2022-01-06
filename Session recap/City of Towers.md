@@ -9,11 +9,11 @@ As they soar into the city, it’s not long before they’re approached by a gua
 
 They set course towards said tower and as they approach, ropes with flying constructs attached fly out towards the ship and attach to it, slowly pulling it into a hangar. Once inside, they can see they’re inside hangar number 42 and as the hangar doors close behind the ship, the pandemonium of lights and voices and people of the city dies down a little. 
 
-Inside the hangar there’s a large crane with a pulley system, clearly designed to help load and unload things from ships. They also spot some gnomish graffiti at the back of the hangar, which reads “Zhenothorpe was here.” A silhouette can be seen on the scaffolding, seemingly awaiting the ship and as they’re pulled in closer and are eventually properly docked, Galen recognises his friend Esme. 
+Inside the hangar there’s a large crane with a pulley system, clearly designed to help load and unload things from ships. They also spot some gnomish graffiti at the back of the hangar, which reads “Zhenothorpe was here.” A silhouette can be seen on the scaffolding, seemingly awaiting the ship and as they’re pulled in closer and are eventually properly docked, Galen recognises his friend [[Esme]]. 
 
-She pulls on some levers that make a bridge shoot out and connect to the ship and the crew soon disembark, Galen greeting his friend with a hug. “So this is what adventure looks like, huh?” Esme comments, before she tells Galen not to worry about docking fees; she’s taken care of those. Galen then introduces her to the rest of the crew, before asking her if she’s familiar with the Alistairs. Despite knowing where their house is and knowing of their name, Esme doesn’t know much.
+She pulls on some levers that make a bridge shoot out and connect to the ship and the crew soon disembark, Galen greeting his friend with a hug. “So this is what adventure looks like, huh?” Esme comments, before she tells Galen not to worry about docking fees; she’s taken care of those. Galen then introduces her to the rest of the crew, before asking her if she’s familiar with the Alistairs. Despite knowing where their house is and knowing of their name, [[Esme]] doesn’t know much.
 
-The two of them then catch up a little, Galen asking if Esme is no longer banned from fancy parties, which Esme confirms, before telling him there’s actually a gala in three days. She also shares that Lina, her wife, is working on something with the Esoteric Order of Aureon, which is a collective of wizards that Lina is part of. Galen asks her what exactly it is and after some hesitation, Esme shares that they’re making great strides in mainly divination magic, and are currently attempting to figure out what caused the Mourning. 
+The two of them then catch up a little, Galen asking if Esme is no longer banned from fancy parties, which Esme confirms, before telling him there’s actually a gala in three days. She also shares that [[Lina]], her wife, is working on something with the [[Esoteric Order of Aureon]], which is a collective of wizards that Lina is part of. Galen asks her what exactly it is and after some hesitation, Esme shares that they’re making great strides in mainly divination magic, and are currently attempting to figure out what caused the Mourning. 
 
 Esme then asks where they’re staying, to which Galen says he’s not sure yet. She says there’s an open invite for Galen and his friends to join her and her wife for dinner anytime they’re here, before she shares some information about Lyrander tower. She offers them the key to their specific hangar, sharing that the other berths are off limits. She then excuses herself and takes her leave.
 
@@ -29,15 +29,17 @@ Getting to the bank, Lux addresses one of the tellers and gets things sorted out
 
 After she returns with the money, Lux is let into the back area as well as she asked for a more private place to put her money away. This allows her a brief look at the room the teller disappeared into in the first place; it’s a big room, with four doors and a large rock in the center, beset with dragonshards. Lux pulls out the doorknob, carefully putting the 200 platinum away in there, explaining to the teller that she simply doesn’t want everyone to know that she puts her valuables inside that doorknob. 
 
-With the money gathered, Galen leads the way through town towards the Grey Dragon Inn, perhaps the fanciest inn in the city. They approach five regal looking towers, one with a floating tower seemingly attached to it. The inn is situated on this tower, surrounded by a large columned garden. Massive panes of glass make up the walls and where the walls end there’s plants dangling from the roof. 
+With the money gathered, Galen leads the way through town towards the [[Grey Dragon Inn]], perhaps the fanciest inn in the city. They approach five regal looking towers, one with a floating tower seemingly attached to it. The inn is situated on this tower, surrounded by a large columned garden. Massive panes of glass make up the walls and where the walls end there’s plants dangling from the roof. 
 
 Though this inn is gorgeous, it’s not over the top; the decorations are more ornamental and everything is pristine. They walk in across a marble floor towards a central desk, where there’s two humans sitting behind it. Lux approaches and though they at first seem to judge the way the crew looks, the fact that they can pay seems to ease any discomfort there might’ve been. Four rooms are arranged and everyone heads upstairs to their respective rooms for a moment to freshen up, as they agree to head out for dinner after.
 
 The rooms are immaculately decorated, each with its own balcony that provides a view over the city. There’s minor magics around the room to provide extra comfort and ease; a knob that can be turned to drown out the sound of the outside world, as well as one that lowers shutters to darker the room. There’s a minibar with drinks as well.
 
-After everyone has had some time to freshen up, they meet downstairs and ask Galen where to go. He mentions a restaurant named Kavv’s, and starts leading them there. 
+After everyone has had some time to freshen up, they meet downstairs and ask Galen where to go. He mentions a restaurant named [[Kavv’s]], and starts leading them there. 
 
 As they move along the city, the restaurant being in one of the lower parts, they take note of how some of the lower parts seem to be making use of the lava from below to power parts of the city. There’s little fountains of molten magma. 
+
+![[middle-dura.png]]
 
 Making their way to the restaurant, they are welcomed by the owners of Kavv’s, who remember Galen and greet him warmly. They’re treated to a collection of dishes, Rydia noting that no one really seems to be paying attention to her even after she takes her mask of. This part of the town, as opposed to the upper parts, seems to be much more of a cultural mish mash of people. 
 
@@ -55,13 +57,15 @@ He quickly deduces that there’s like several dragonshards powering this kind o
 
 The following morning, they all meet downstairs for breakfast. Considering the inn is in the fancier part of town, some people respond to Rydia’s looks, but she ignores them as they briefly discuss what they want to do that day. Petr decides to stay back, as he indulges in some of the minibar the previous night and isn’t quite feeling awake yet. Galen and Rydia head out to meet up with Galen’s parents as Bonzo and Lux go back to Lyrander tower to see if they can speak to Esme. 
 
-Both locations are relatively nearby, so all four of them decide to walk, sticking together for the first bit before splitting off to their respective destinations. As Galen and Rydia get closer to where his parents’ live, they pass by what Galen knows to be the Alistair house, as well as a small chapel. Soon after, they reach Horizon’s Gates, the apartment complex his parents’ live in. There’s a glowing pink orb as they walk inside and they’re greeted by the estate manager, a man by the name of Gweneth Dorsey. 
+Both locations are relatively nearby, so all four of them decide to walk, sticking together for the first bit before splitting off to their respective destinations. As Galen and Rydia get closer to where his parents’ live, they pass by what Galen knows to be the Alistair house, as well as a small chapel. Soon after, they reach Horizon’s Gates, the apartment complex his parents’ live in. There’s a glowing pink orb as they walk inside and they’re greeted by the estate manager, a man by the name of Gweneth Dorsey.
+
+![[horizon-gates.jpeg]]
 
 He tells them that they just missed Galen’s dad as he went to the office, but his mother should still be home. They head up and find their way to a large oaken door, decorated with patterns. Rydia suggests that maybe they need a codeword, Galen asking her what she’s worried about. “Everything. Dragons I can fight, this is different,” Rydia says, Galen taking her hand and assuring her she’s free to go whenever she wants, and promising her that it’ll be fine.
 
 As they knock, the sound of the knocker is magnified by magic and only a couple of seconds pass before they can hear footsteps approaching. A woman opens the door, with short, black hair, wearing fancy clothing. She looks somewhat too young to be Galen’s mother, but there are traces of magic that seem to be helping make her look younger. 
 
-She seems surprised to see Galen, but hugs him regardless. Galen points out he thought Daphne would’ve told her that he was coming, but his mother says she hasn’t spoken to Daphne in a little while. He then introduces Rydia and the both of them are asking to come inside. Galen’s mother, who soon introduces herself as Helena, suggests they can take of their cloaks and masks, though Rydia says she has a condition and would rather keep them on. 
+She seems surprised to see Galen, but hugs him regardless. Galen points out he thought Daphne would’ve told her that he was coming, but his mother says she hasn’t spoken to Daphne in a little while. He then introduces Rydia and the both of them are asking to come inside. Galen’s mother, who soon introduces herself as [[Helena D'Arcy]], suggests they can take of their cloaks and masks, though Rydia says she has a condition and would rather keep them on. 
 
 Helena seems fine with this, calling Rydia Galen’s friend and he corrects her, saying she’s a little bit more than a friend. His mother insists they should continue this conversation not in the doorway, before teasing him about his girlfriend. Galen groans, muttering about how he’s very much regretting this decision right now.
 
@@ -69,13 +73,15 @@ They’re led into a kitchen area, where soon they can hear the sound of large p
 
 She then asks about Galen and Rydia, Galen making Rydia share the story of how the two of them met. They catch each other up, Helena then mentioning Galen’s father and how he had to go to the office to deal with something relating to House Orien. Something about a wooden horse that’s up for auction. Galen says he has to speak to his dad about something anyway, so he’ll head by the office, though his mother points out that she might be able to help him with what he wants to ask his dad about as well.
 
-Galen asks her if she’s ever heard of anyone by the name of Zenobaal, but unfortunately she hasn’t. The three of them continue their conversation for a while, before Galen and Rydia decide to head to the offices to go speak with Galen’s dad. They find their way there and as they make their way inside, Galen’s father recognises him as soon as he walks in.
+Galen asks her if she’s ever heard of anyone by the name of Zenobaal, but unfortunately she hasn’t. The three of them continue their conversation for a while, before Galen and Rydia decide to head to the offices to go speak with Galen’s dad, [[Beren D'Arcy]]. They find their way there and as they make their way inside, Galen’s father recognises him as soon as he walks in.
+
+![[altenar-artefacts.jpeg]]
 
 He says he wasn’t expecting to see him, but still seems glad that his son is here. Galen introduces Rydia, who once again has to excuse herself for not taking off the mask and cloak. His father seems to frown at that a little, but doesn’t otherwise comment on it. Getting straight to the point, Galen asks his father about the Gold Concord, and then about Zenobaal. 
 
 His father claims he doesn’t know the name, which seems to be odd, considering what they were told. Curious, his father asks what this is about, Galen offering the somewhat vague answer of “It’s about the Eyes”. This rings a bell for Beren, who asks if this has anything to do with Q’barra and Lady Vidante. Apparently, way back when, Vidante asked for his help in looking for a book and a set of crystals she referred to as the Eyes. He adds that he was aware that she was using him for his resources, but despite said resources, they couldn’t find anything. Only a vague rumor about a place in Q’barra.
 
-Galen shares that that place is Haka’torvak and that they did indeed find a crystal there, and they still have it. His father asks if Vidante knows, which Galen says she doesn’t. His father then offers to set up a private auction of sorts to sell the crystal, as seemingly having it is dangerous, but Galen says he thinks they have to hold on to it for now, though he will keep that in mind. 
+Galen shares that that place is [[Haka'thorvak]] and that they did indeed find a crystal there, and they still have it. His father asks if Vidante knows, which Galen says she doesn’t. His father then offers to set up a private auction of sorts to sell the crystal, as seemingly having it is dangerous, but Galen says he thinks they have to hold on to it for now, though he will keep that in mind. 
 
 There’s a pause, after which Beren turns to Rydia, asking her about Q’barra. She tells him some of what they’ve seen, mentioning a dragon as well. She also mentions they’re part of a crew now, saying Galen is a first mate, which seems to somewhat surprise Beren. Galen points this out, to which his dad says that he’s just joking; it’s easier to joke than it is to worry about his son being in trouble. 
 
@@ -84,6 +90,8 @@ Galen then asks about the potential of elven blood in his family, which his fath
 The news of a boyfriend is new to Galen, though it does prompt him to say that Rydia is actually his girlfriend. As this turns things somewhat awkward, Beren is quick to usher the both of them out of his office. As they start heading back towards the inn, Rydia and Galen discuss how meeting his parents went, as well as the wooden horse and House Orien, both very aware that it’s the same horse they came across back on the train. 
 
 Meanwhile, Bonzo and Lux have found their way towards Lyrandar tower. They approach a clerk behind a desk at the bottom floor, Lux asking if they can see Esme d’Lyrandar, using Galen’s name as well. The clerk writes a note, puts it inside a cylinder of sorts and then into a system of tubes, the cylinder shooting up. Not too long after, another cylinder returns and they’re told that Esme will see them.
+
+![[lyrandar-tower.jpeg]]
 
 The clerk leads them to the elevator, using the key around their neck to click the right button in the elevator, which starts taking them up. The top of the tower seems to be largely made of bronze and as they exit the elevator, they find themselves in a circular hall.  There seem to be a few offices and ahead of them there’s a small desk, where another clerk is seated. 
 
@@ -100,6 +108,8 @@ Lux and Bonzo excuse themselves then, and briefly head to the hangar in which th
 He further explains that he reached out to the Architects after what happened with Jodd, and they told him to seek out this professor here, who might be able to help him. Lux offers to accompany him to where this Great Hall of Aureon is, and the two of them head back down the elevator and find a skycoach. 
 
 The woman driving the skycoach seems to be a changeling, turning to Lux briefly and telling her that she’s still getting used to this new form. When asked about the Great Hall of Aureon, she tells them that’s at the Morgrave University, and proceeds to take them there. They follow the directions their skycoach driver gave them, heading towards the Great Hall of Aureon. 
+
+![[morgrave.jpg]]
 
 As they look around, the diversity amongst the students and professors of this place is easily noticeable, but soon their attention is drawn elsewhere as there’s some commotion to the side. They watch as a cloaked figure pushes their way through a crowd, instantly followed by two members of the Sharn Watch. As the cloaked figure pushes past Bonzo and Lux, they can see they have wings and then run towards the edge of a ledge and jump over, spreading said wings as they fly off.
 
