@@ -22,13 +22,13 @@ Bonzo offers to help, but as Zolan isn’t sure what they would need help with, 
 
 They start making their way back outside then.
 
-Meanwhile, Galen and Rydia are making their way to Galen’s sister, [[Daphne]]. They find her at her apartment at the Cassan Bridge, where she opens the door in casual dress. She has short, dark hair, and greets Galen with a warm hug. 
+Meanwhile, Galen and Rydia are making their way to Galen’s sister, [[Daphne D'Arcy]]. They find her at her apartment at the Cassan Bridge, where she opens the door in casual dress. She has short, dark hair, and greets Galen with a warm hug. 
 
 ![[cassan-bridge.jpg]]
 
 She invites the both of them inside, not commenting on Rydia’s mask and cloak, and offers them drinks, which she prestidigitates when they have a seat. This prompts Galen to ask about how school is going, with Daphne saying that things are going well, but she’s been really busy with finals lately. 
 
-Galen then brings up the topic of the family dinner that their dad suggested, asking Daphne about the boyfriend that Beren mentioned. [[Daphne]] admits that she is indeed seeing someone, but says she doesn’t think she’s ready to introduce him to the family just yet. “His name is Jonah,” she says when Galen asks for a name, elaborating that he is part of House Cannith. They’ve only been together for a couple of months, but she does admit she quite likes him. 
+Galen then brings up the topic of the family dinner that their dad suggested, asking Daphne about the boyfriend that Beren mentioned. [[Daphne D'Arcy]] admits that she is indeed seeing someone, but says she doesn’t think she’s ready to introduce him to the family just yet. “His name is Jonah,” she says when Galen asks for a name, elaborating that he is part of House Cannith. They’ve only been together for a couple of months, but she does admit she quite likes him. 
 
 As both Galen and Rydia recognise this name, Daphne notes that something seems to be up with her brother, but Galen simply changes the subject, instead introducing Rydia as his girlfriend. 
 
