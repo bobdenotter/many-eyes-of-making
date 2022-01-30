@@ -9,7 +9,8 @@ One of the gnomes on griffins reaches for one of the many wands all of them seem
 
 [[Korranberg]] the city is built mostly on an island in the middle of a river and as they fly over, they see that the western bank of the river is where most of the city is. [[The Heritage]] flies over massive waterfalls that emerge from the river; there are large water turbines that capture the power of the river.
 
-![[korranberg.jpeg]]
+![[korranberg-2.png]]
+
 
 Everything in the city is illuminated, in stark contrast to Gatherhold. Most of the space on the island is taken up by a massive building; a soaring tower with eight domes around it. Both Bonzo and Galen know that this is the library. On the western shore of the river is the rest of Korranberg; Bonzo and Galen also know that most of the people live on the shore, and work on the island. There's a plethora of flying mounts and carpets that people are using to ferry around town.
 
@@ -47,6 +48,8 @@ Even at this hour there's still quite a lot of activity in the town, all sorts o
 
 Bonzo starts leading the way through town towards his mother's bakery, pointing everyone in the direction of the cable carts.The cable cart takes them across the river and into the neighborhood of Riverside. Walking across the massive Sprite Market eventually leads them to a quieter corner of the ward where there's a simple house. There's a main entrance, which is gnome-sized with stairs going up to it and right next to it, is a larger door.
 
+![[korranberg.jpeg]]
+
 Not having expected to be back so soon, Bonzo's not sure what to make of finding himself in front of his ancestral home so soon after having left. He walks in though, leading the others inside as well. The bakery and home is decorated with simple rustic decorations, the bakery part largely empty as it's late in the evening and the goods will have been sold during the day. A voice from upstairs yells out that they're closed as a woman comes walking down.
 
 They see a small, grey gnome woman with a nice purple vest, huge jam-like spectacles and relatively long nails, painted with what seems like little animated pictures. She also smells fantastic, moreso than just of baked goods, she also wears a very nice perfume. She stops dead in her tracks as she recognises her son. “Back so soon? Did it work out, have you sold a lot? Why are you in town?” she asks, to which Bonzo explains he had somewhat of an unlucky streak and promises to tell her all about it sometime.
@@ -72,6 +75,8 @@ He calls out that he's home and it's only after a moment that the group realises
 Bonzo catches up with his brother, explaining why he's here. After unloading the groceries, Bornit offers the group some wine, an offer they gladly accept. The wine seems magically altered as well, the scent very complex. Meanwhile, Bonzo's mother has started gathering a spice rack of sorts for Rydia, handing them to her.
 
 After finishing their food and wine, Bonzo suggests they could move on, Galen instead suggesting that, if Bonzo wants to stay with his family, he definitely should. They agree to meet up at the library the following morning, specifically at Ballinor's Horn. Bonzo stays with his family as Galen, Lux and Rydia head out to find themselves a place to stay, Galen leading the way towards the Golden Dragon Inn.
+
+![[korranberg-library.png]]
 
 It's an impressive building, six stories high, standing alone on the promenade. Every room has a balcony and there's massive vertical gardens that climb all the way up to the top, containing weird large purple flowers. Everything looks pristine, as it does everywhere else, and they're welcomed heartily by a couple of halflings.
 

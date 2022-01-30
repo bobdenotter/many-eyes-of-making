@@ -42,7 +42,7 @@ Grimy windows show a warm light within as the group heads inside, finding the ba
 
 They head to the bar and order some drinks from the ratty looking bartender and they’re about to get a table when a door opens to the side and a familiar figure walks out. A woman steps out, wiping her talons on a towel and she instantly recognises the group. She addresses both them and the bartender, seemingly glad that the group showed up, telling the bartender that she told him they would.
 
-She offers to pay for their drinks, mentioning the reward she spoke of in the note and curious, the group asks her why she did what she did. She explains that she wanted the attention of the powers that be, specifically that of a councellor named Sonen Census(?). He runs one of the middle wards and apparently has a vendetta against shifters. He thinks all of them are lycanthropes and he and the faith he’s part of, the Silver Flame, want to kill all lycanthropes.
+She offers to pay for their drinks, mentioning the reward she spoke of in the note and curious, the group asks her why she did what she did. She explains that she wanted the attention of the powers that be, specifically that of a councellor named Sorik Sensos He runs one of the middle wards and apparently has a vendetta against shifters. He thinks all of them are lycanthropes and he and the faith he’s part of, the Silver Flame, want to kill all lycanthropes.
 
 He was supposed to be the one to reveal the dragonshard she stole the following day; it just came in from Xendrik. Now he won’t have anything to reveal. 
 
